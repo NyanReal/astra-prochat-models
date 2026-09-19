@@ -1,0 +1,8 @@
+# Optional standalone source/reprojection/validation/render tools only.
+# Blender/build_atv.py does not require these external pip installations.
+numpy
+Pillow
+scipy
+numba
+shapely>=2.0
+trimesh

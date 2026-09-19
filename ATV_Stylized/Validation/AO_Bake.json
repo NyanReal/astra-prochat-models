@@ -1,0 +1,9 @@
+{
+  "method": "mesh ray-traced hemisphere occlusion",
+  "ray_distance_metres": 0.38,
+  "sample_resolution": 1024,
+  "output_resolution": 2048,
+  "rays_per_sample": 24,
+  "valid_samples": 638810,
+  "periodic_noise_texture": false
+}

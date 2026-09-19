@@ -1,0 +1,78 @@
+{
+  "status": "PASS",
+  "model_file": "Model/SM_ATV_Stylized.glb",
+  "triangles": 8976,
+  "triangle_limit_exclusive": 10000,
+  "triangle_budget_remaining_to_10000": 1024,
+  "vertices_with_uv_and_normal_seams": 10260,
+  "meshes": 1,
+  "material_slots": 1,
+  "render_primitives": 1,
+  "uv_channels_in_glb": 1,
+  "uv_charts": 274,
+  "uv_range": [
+    0.00244140625,
+    0.99755859375
+  ],
+  "uv_positive_area_overlap_pairs": 0,
+  "uv_area_overlap_tolerance": 1e-11,
+  "uv_triangle_area_coverage_percent": 60.129,
+  "uv_sharing": "No stacked/mirrored-overlapping islands; adjacent triangles may share UV edges.",
+  "degenerate_geometry_triangles": 0,
+  "degenerate_uv_triangles": 0,
+  "normal_winding_inconsistencies": 0,
+  "dimensions_metres_blender_xyz": [
+    2.705753,
+    1.84,
+    1.837497
+  ],
+  "ground_pivot_z_metres": 0.0,
+  "source_forward": "+X",
+  "blender_up": "+Z",
+  "glb_up": "+Y",
+  "pbr_textures": [
+    {
+      "file": "T_ATV_BaseColor.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "sha256": "c80bffd6939218c56c58050a81602db720cf7c7e593d96e1f5a30069ef0b694e"
+    },
+    {
+      "file": "T_ATV_ORM.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "sha256": "02fc0a54ee32532baef4a2ea73612eb1b66542d1641a3e4ae4857848f0a24bd1"
+    },
+    {
+      "file": "T_ATV_Emissive.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "sha256": "80dfe4f5afaca793421ab0bada9d61b2e4986a3bc3413e512b1e7f3822389ea4"
+    }
+  ],
+  "base_color_source": "Source/AI_Painted_Source.png; image-generated and reprojected into unique UV regions",
+  "periodic_texture_patterns": false,
+  "normal_map": false,
+  "ao_method": "Mesh ray-traced bake; packed in ORM.R",
+  "rigged": false,
+  "animation_clips": 0,
+  "single_closed_printable_solid": "Not a target: game mesh uses intersecting/disconnected part shells.",
+  "independent_glb_import": "PASS: trimesh",
+  "source_and_preview_geometry_equals_glb": true,
+  "python_syntax_check": "PASS",
+  "geometry_kernel_executed": true,
+  "blender_bpy_adapter_executed": false,
+  "unreal_5_7_editor_executed": false,
+  "official_khronos_validator_executed": false,
+  "limitations": [
+    "Reconstructed from a reference image, not a scan or exact CAD match.",
+    "Blender/Unreal wrappers were not run inside those editors in this environment.",
+    "Preview files are CPU reference renders of the delivered geometry, not UE screenshots."
+  ]
+}

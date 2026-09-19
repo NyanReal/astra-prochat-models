@@ -1,0 +1,4863 @@
+{
+  "source": "AI_Painted_Source.png",
+  "source_resolution": [
+    1254,
+    1254
+  ],
+  "atlas_resolution": [
+    2048,
+    2048
+  ],
+  "uv_tiling": false,
+  "mirrored_uv": false,
+  "charts": [
+    {
+      "chart_id": 1,
+      "chart": "Body_Cream_Panel_0",
+      "source_bbox": [
+        744,
+        7,
+        1243,
+        205
+      ],
+      "subcrop": [
+        0,
+        0,
+        249,
+        99
+      ],
+      "source_kind": "cream",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 2,
+      "chart": "Body_Cream_Panel_1",
+      "source_bbox": [
+        130,
+        1061,
+        469,
+        1197
+      ],
+      "subcrop": [
+        0,
+        68,
+        169,
+        136
+      ],
+      "source_kind": "cream",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 3,
+      "chart": "Body_Cream_Panel_2",
+      "source_bbox": [
+        744,
+        7,
+        1243,
+        205
+      ],
+      "subcrop": [
+        0,
+        99,
+        249,
+        198
+      ],
+      "source_kind": "cream",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 4,
+      "chart": "Body_Cream_Panel_3",
+      "source_bbox": [
+        146,
+        834,
+        456,
+        1054
+      ],
+      "subcrop": [
+        155,
+        0,
+        310,
+        110
+      ],
+      "source_kind": "cream",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 5,
+      "chart": "Body_Cream_Panel_4",
+      "source_bbox": [
+        744,
+        7,
+        1243,
+        205
+      ],
+      "subcrop": [
+        249,
+        99,
+        499,
+        198
+      ],
+      "source_kind": "cream",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 6,
+      "chart": "Body_Cream_Panel_5",
+      "source_bbox": [
+        146,
+        834,
+        456,
+        1054
+      ],
+      "subcrop": [
+        0,
+        110,
+        155,
+        220
+      ],
+      "source_kind": "cream",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 7,
+      "chart": "Body_Cream_Panel_6",
+      "source_bbox": [
+        146,
+        834,
+        456,
+        1054
+      ],
+      "subcrop": [
+        0,
+        0,
+        155,
+        110
+      ],
+      "source_kind": "cream",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 8,
+      "chart": "Body_Cream_Panel_7",
+      "source_bbox": [
+        458,
+        834,
+        608,
+        1058
+      ],
+      "subcrop": [
+        0,
+        0,
+        75,
+        112
+      ],
+      "source_kind": "cream",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 9,
+      "chart": "Body_Rear",
+      "source_bbox": [
+        146,
+        834,
+        456,
+        1054
+      ],
+      "subcrop": [
+        155,
+        110,
+        310,
+        220
+      ],
+      "source_kind": "cream",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 10,
+      "chart": "Body_Front",
+      "source_bbox": [
+        130,
+        1061,
+        469,
+        1197
+      ],
+      "subcrop": [
+        0,
+        0,
+        169,
+        68
+      ],
+      "source_kind": "cream",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 11,
+      "chart": "Seat_Saddle_unwrap",
+      "source_bbox": [
+        72,
+        550,
+        332,
+        811
+      ],
+      "method": "separate seat underside artwork"
+    },
+    {
+      "chart_id": 12,
+      "chart": "Seat_Saddle_panel_31",
+      "source_bbox": [
+        420,
+        547,
+        709,
+        810
+      ],
+      "method": "stitched seat silhouette warp"
+    },
+    {
+      "chart_id": 13,
+      "chart": "Chassis_Core_unwrap",
+      "source_bbox": [
+        9,
+        77,
+        408,
+        198
+      ],
+      "subcrop": [
+        199,
+        60,
+        399,
+        121
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 14,
+      "chart": "Engine_Block_unwrap",
+      "source_bbox": [
+        732,
+        820,
+        857,
+        930
+      ],
+      "subcrop": [
+        62,
+        0,
+        125,
+        55
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 15,
+      "chart": "Fender_Front_R_continuous",
+      "source_bbox": [
+        1110,
+        230,
+        1244,
+        596
+      ],
+      "method": "single painted fender flatten"
+    },
+    {
+      "chart_id": 16,
+      "chart": "Fender_Front_R_end_0",
+      "source_bbox": [
+        1028,
+        205,
+        1103,
+        594
+      ],
+      "subcrop": [
+        0,
+        0,
+        37,
+        194
+      ],
+      "source_kind": "teal",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 17,
+      "chart": "Fender_Front_R_end_7",
+      "source_bbox": [
+        969,
+        245,
+        1037,
+        594
+      ],
+      "subcrop": [
+        0,
+        174,
+        34,
+        349
+      ],
+      "source_kind": "teal",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 18,
+      "chart": "Fender_Rear_R_continuous",
+      "source_bbox": [
+        1123,
+        616,
+        1246,
+        972
+      ],
+      "method": "single painted fender flatten"
+    },
+    {
+      "chart_id": 19,
+      "chart": "Fender_Rear_R_end_0",
+      "source_bbox": [
+        969,
+        245,
+        1037,
+        594
+      ],
+      "subcrop": [
+        34,
+        174,
+        68,
+        349
+      ],
+      "source_kind": "teal",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 20,
+      "chart": "Fender_Rear_R_end_7",
+      "source_bbox": [
+        969,
+        245,
+        1037,
+        594
+      ],
+      "subcrop": [
+        0,
+        0,
+        34,
+        174
+      ],
+      "source_kind": "teal",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 21,
+      "chart": "Footwell_R_unwrap",
+      "source_bbox": [
+        115,
+        409,
+        325,
+        477
+      ],
+      "subcrop": [
+        0,
+        34,
+        105,
+        68
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 22,
+      "chart": "Footwell_Outer_R_unwrap",
+      "source_bbox": [
+        1002,
+        1130,
+        1110,
+        1231
+      ],
+      "subcrop": [
+        54,
+        50,
+        108,
+        101
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 23,
+      "chart": "Rear_Cream_Tip_R_unwrap",
+      "source_bbox": [
+        130,
+        1061,
+        469,
+        1197
+      ],
+      "subcrop": [
+        169,
+        0,
+        339,
+        68
+      ],
+      "source_kind": "cream",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 24,
+      "chart": "Fender_Front_L_continuous",
+      "source_bbox": [
+        810,
+        236,
+        962,
+        601
+      ],
+      "method": "single painted fender flatten"
+    },
+    {
+      "chart_id": 25,
+      "chart": "Fender_Front_L_end_0",
+      "source_bbox": [
+        969,
+        245,
+        1037,
+        594
+      ],
+      "subcrop": [
+        34,
+        0,
+        68,
+        174
+      ],
+      "source_kind": "teal",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 26,
+      "chart": "Fender_Front_L_end_7",
+      "source_bbox": [
+        1056,
+        599,
+        1117,
+        960
+      ],
+      "subcrop": [
+        30,
+        180,
+        61,
+        361
+      ],
+      "source_kind": "teal",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 27,
+      "chart": "Fender_Rear_L_continuous",
+      "source_bbox": [
+        884,
+        612,
+        1012,
+        960
+      ],
+      "method": "single painted fender flatten"
+    },
+    {
+      "chart_id": 28,
+      "chart": "Fender_Rear_L_end_0",
+      "source_bbox": [
+        1056,
+        599,
+        1117,
+        960
+      ],
+      "subcrop": [
+        30,
+        0,
+        61,
+        180
+      ],
+      "source_kind": "teal",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 29,
+      "chart": "Fender_Rear_L_end_7",
+      "source_bbox": [
+        1056,
+        599,
+        1117,
+        960
+      ],
+      "subcrop": [
+        0,
+        180,
+        30,
+        361
+      ],
+      "source_kind": "teal",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 30,
+      "chart": "Footwell_L_unwrap",
+      "source_bbox": [
+        115,
+        409,
+        325,
+        477
+      ],
+      "subcrop": [
+        105,
+        34,
+        210,
+        68
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 31,
+      "chart": "Footwell_Outer_L_unwrap",
+      "source_bbox": [
+        513,
+        285,
+        620,
+        388
+      ],
+      "subcrop": [
+        53,
+        0,
+        107,
+        51
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 32,
+      "chart": "Rear_Cream_Tip_L_unwrap",
+      "source_bbox": [
+        130,
+        1061,
+        469,
+        1197
+      ],
+      "subcrop": [
+        169,
+        68,
+        339,
+        136
+      ],
+      "source_kind": "cream",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 33,
+      "chart": "Wheel_FL_Rubber_shell",
+      "source_bbox": [
+        9,
+        77,
+        408,
+        198
+      ],
+      "subcrop": [
+        0,
+        60,
+        199,
+        121
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 34,
+      "chart": "Wheel_FL_Rim_-1_shell",
+      "source_bbox": [
+        458,
+        834,
+        608,
+        1058
+      ],
+      "subcrop": [
+        0,
+        112,
+        75,
+        224
+      ],
+      "source_kind": "cream",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 35,
+      "chart": "Wheel_FL_Well_-1_face",
+      "source_bbox": [
+        344,
+        535,
+        474,
+        580
+      ],
+      "subcrop": [
+        65,
+        0,
+        130,
+        22
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 36,
+      "chart": "Wheel_FL_Hub_-1_face",
+      "source_bbox": [
+        859,
+        903,
+        952,
+        954
+      ],
+      "subcrop": [
+        46,
+        0,
+        93,
+        25
+      ],
+      "source_kind": "orange",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 37,
+      "chart": "Wheel_FL_Rim_1_shell",
+      "source_bbox": [
+        458,
+        834,
+        608,
+        1058
+      ],
+      "subcrop": [
+        75,
+        112,
+        150,
+        224
+      ],
+      "source_kind": "cream",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 38,
+      "chart": "Wheel_FL_Well_1_face",
+      "source_bbox": [
+        744,
+        756,
+        847,
+        811
+      ],
+      "subcrop": [
+        0,
+        27,
+        51,
+        55
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 39,
+      "chart": "Wheel_FL_Hub_1_face",
+      "source_bbox": [
+        859,
+        903,
+        952,
+        954
+      ],
+      "subcrop": [
+        0,
+        0,
+        46,
+        25
+      ],
+      "source_kind": "orange",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 40,
+      "chart": "Wheel_FL_Lug_-1_00_unwrap",
+      "source_bbox": [
+        406,
+        387,
+        517,
+        469
+      ],
+      "subcrop": [
+        0,
+        41,
+        55,
+        82
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 41,
+      "chart": "Wheel_FL_Lug_-1_01_unwrap",
+      "source_bbox": [
+        625,
+        748,
+        737,
+        827
+      ],
+      "subcrop": [
+        0,
+        39,
+        56,
+        79
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 42,
+      "chart": "Wheel_FL_Lug_-1_02_unwrap",
+      "source_bbox": [
+        625,
+        748,
+        737,
+        827
+      ],
+      "subcrop": [
+        56,
+        39,
+        112,
+        79
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 43,
+      "chart": "Wheel_FL_Lug_-1_03_unwrap",
+      "source_bbox": [
+        985,
+        968,
+        1110,
+        1041
+      ],
+      "subcrop": [
+        0,
+        0,
+        62,
+        36
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 44,
+      "chart": "Wheel_FL_Lug_-1_04_unwrap",
+      "source_bbox": [
+        625,
+        748,
+        737,
+        827
+      ],
+      "subcrop": [
+        0,
+        0,
+        56,
+        39
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 45,
+      "chart": "Wheel_FL_Lug_-1_05_unwrap",
+      "source_bbox": [
+        625,
+        748,
+        737,
+        827
+      ],
+      "subcrop": [
+        56,
+        0,
+        112,
+        39
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 46,
+      "chart": "Wheel_FL_Lug_-1_06_unwrap",
+      "source_bbox": [
+        367,
+        202,
+        479,
+        241
+      ],
+      "subcrop": [
+        0,
+        0,
+        56,
+        39
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 47,
+      "chart": "Wheel_FL_Lug_-1_07_unwrap",
+      "source_bbox": [
+        367,
+        202,
+        479,
+        241
+      ],
+      "subcrop": [
+        56,
+        0,
+        112,
+        39
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 48,
+      "chart": "Wheel_FL_Lug_-1_08_unwrap",
+      "source_bbox": [
+        1119,
+        984,
+        1243,
+        1053
+      ],
+      "subcrop": [
+        0,
+        34,
+        62,
+        69
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 49,
+      "chart": "Wheel_FL_Lug_1_00_unwrap",
+      "source_bbox": [
+        12,
+        475,
+        86,
+        579
+      ],
+      "subcrop": [
+        0,
+        52,
+        37,
+        104
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 50,
+      "chart": "Wheel_FL_Lug_1_01_unwrap",
+      "source_bbox": [
+        12,
+        475,
+        86,
+        579
+      ],
+      "subcrop": [
+        37,
+        52,
+        74,
+        104
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 51,
+      "chart": "Wheel_FL_Lug_1_02_unwrap",
+      "source_bbox": [
+        575,
+        97,
+        632,
+        227
+      ],
+      "subcrop": [
+        28,
+        0,
+        57,
+        65
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 52,
+      "chart": "Wheel_FL_Lug_1_03_unwrap",
+      "source_bbox": [
+        575,
+        97,
+        632,
+        227
+      ],
+      "subcrop": [
+        28,
+        65,
+        57,
+        130
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 53,
+      "chart": "Wheel_FL_Lug_1_04_unwrap",
+      "source_bbox": [
+        575,
+        97,
+        632,
+        227
+      ],
+      "subcrop": [
+        0,
+        0,
+        28,
+        65
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 54,
+      "chart": "Wheel_FL_Lug_1_05_unwrap",
+      "source_bbox": [
+        575,
+        97,
+        632,
+        227
+      ],
+      "subcrop": [
+        0,
+        65,
+        28,
+        130
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 55,
+      "chart": "Wheel_FL_Lug_1_06_unwrap",
+      "source_bbox": [
+        644,
+        472,
+        720,
+        564
+      ],
+      "subcrop": [
+        0,
+        0,
+        38,
+        46
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 56,
+      "chart": "Wheel_FL_Lug_1_07_unwrap",
+      "source_bbox": [
+        644,
+        472,
+        720,
+        564
+      ],
+      "subcrop": [
+        38,
+        0,
+        76,
+        46
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 57,
+      "chart": "Wheel_FL_Lug_1_08_unwrap",
+      "source_bbox": [
+        644,
+        472,
+        720,
+        564
+      ],
+      "subcrop": [
+        0,
+        46,
+        38,
+        92
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 58,
+      "chart": "Wheel_FR_Rubber_shell",
+      "source_bbox": [
+        9,
+        77,
+        408,
+        198
+      ],
+      "subcrop": [
+        199,
+        0,
+        399,
+        60
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 59,
+      "chart": "Wheel_FR_Rim_-1_shell",
+      "source_bbox": [
+        8,
+        833,
+        149,
+        1057
+      ],
+      "subcrop": [
+        70,
+        0,
+        141,
+        112
+      ],
+      "source_kind": "cream",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 60,
+      "chart": "Wheel_FR_Well_-1_face",
+      "source_bbox": [
+        10,
+        206,
+        123,
+        255
+      ],
+      "subcrop": [
+        56,
+        24,
+        113,
+        49
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 61,
+      "chart": "Wheel_FR_Hub_-1_face",
+      "source_bbox": [
+        1211,
+        1066,
+        1242,
+        1103
+      ],
+      "subcrop": [
+        0,
+        0,
+        31,
+        37
+      ],
+      "source_kind": "orange",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 62,
+      "chart": "Wheel_FR_Rim_1_shell",
+      "source_bbox": [
+        8,
+        833,
+        149,
+        1057
+      ],
+      "subcrop": [
+        70,
+        112,
+        141,
+        224
+      ],
+      "source_kind": "cream",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 63,
+      "chart": "Wheel_FR_Well_1_face",
+      "source_bbox": [
+        744,
+        756,
+        847,
+        811
+      ],
+      "subcrop": [
+        51,
+        0,
+        103,
+        27
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 64,
+      "chart": "Wheel_FR_Hub_1_face",
+      "source_bbox": [
+        866,
+        962,
+        915,
+        1003
+      ],
+      "subcrop": [
+        24,
+        0,
+        49,
+        41
+      ],
+      "source_kind": "orange",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 65,
+      "chart": "Wheel_FR_Lug_-1_00_unwrap",
+      "source_bbox": [
+        1119,
+        984,
+        1243,
+        1053
+      ],
+      "subcrop": [
+        62,
+        34,
+        124,
+        69
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 66,
+      "chart": "Wheel_FR_Lug_-1_01_unwrap",
+      "source_bbox": [
+        706,
+        139,
+        800,
+        231
+      ],
+      "subcrop": [
+        0,
+        0,
+        47,
+        46
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 67,
+      "chart": "Wheel_FR_Lug_-1_02_unwrap",
+      "source_bbox": [
+        706,
+        139,
+        800,
+        231
+      ],
+      "subcrop": [
+        47,
+        0,
+        94,
+        46
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 68,
+      "chart": "Wheel_FR_Lug_-1_03_unwrap",
+      "source_bbox": [
+        706,
+        139,
+        800,
+        231
+      ],
+      "subcrop": [
+        0,
+        46,
+        47,
+        92
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 69,
+      "chart": "Wheel_FR_Lug_-1_04_unwrap",
+      "source_bbox": [
+        706,
+        139,
+        800,
+        231
+      ],
+      "subcrop": [
+        47,
+        46,
+        94,
+        92
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 70,
+      "chart": "Wheel_FR_Lug_-1_05_unwrap",
+      "source_bbox": [
+        101,
+        484,
+        202,
+        568
+      ],
+      "subcrop": [
+        50,
+        0,
+        101,
+        42
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 71,
+      "chart": "Wheel_FR_Lug_-1_06_unwrap",
+      "source_bbox": [
+        101,
+        484,
+        202,
+        568
+      ],
+      "subcrop": [
+        50,
+        42,
+        101,
+        84
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 72,
+      "chart": "Wheel_FR_Lug_-1_07_unwrap",
+      "source_bbox": [
+        300,
+        595,
+        405,
+        635
+      ],
+      "subcrop": [
+        52,
+        0,
+        105,
+        40
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 73,
+      "chart": "Wheel_FR_Lug_-1_08_unwrap",
+      "source_bbox": [
+        1119,
+        984,
+        1243,
+        1053
+      ],
+      "subcrop": [
+        0,
+        0,
+        62,
+        34
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 74,
+      "chart": "Wheel_FR_Lug_1_00_unwrap",
+      "source_bbox": [
+        644,
+        472,
+        720,
+        564
+      ],
+      "subcrop": [
+        38,
+        46,
+        76,
+        92
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 75,
+      "chart": "Wheel_FR_Lug_1_01_unwrap",
+      "source_bbox": [
+        211,
+        11,
+        307,
+        47
+      ],
+      "subcrop": [
+        0,
+        0,
+        48,
+        36
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 76,
+      "chart": "Wheel_FR_Lug_1_02_unwrap",
+      "source_bbox": [
+        211,
+        11,
+        307,
+        47
+      ],
+      "subcrop": [
+        48,
+        0,
+        96,
+        36
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 77,
+      "chart": "Wheel_FR_Lug_1_03_unwrap",
+      "source_bbox": [
+        14,
+        588,
+        61,
+        729
+      ],
+      "subcrop": [
+        23,
+        70,
+        47,
+        141
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 78,
+      "chart": "Wheel_FR_Lug_1_04_unwrap",
+      "source_bbox": [
+        32,
+        11,
+        126,
+        47
+      ],
+      "subcrop": [
+        0,
+        0,
+        47,
+        36
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 79,
+      "chart": "Wheel_FR_Lug_1_05_unwrap",
+      "source_bbox": [
+        32,
+        11,
+        126,
+        47
+      ],
+      "subcrop": [
+        47,
+        0,
+        94,
+        36
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 80,
+      "chart": "Wheel_FR_Lug_1_06_unwrap",
+      "source_bbox": [
+        14,
+        588,
+        61,
+        729
+      ],
+      "subcrop": [
+        23,
+        0,
+        47,
+        70
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 81,
+      "chart": "Wheel_FR_Lug_1_07_unwrap",
+      "source_bbox": [
+        134,
+        202,
+        257,
+        256
+      ],
+      "subcrop": [
+        61,
+        0,
+        123,
+        27
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 82,
+      "chart": "Wheel_FR_Lug_1_08_unwrap",
+      "source_bbox": [
+        134,
+        202,
+        257,
+        256
+      ],
+      "subcrop": [
+        61,
+        27,
+        123,
+        54
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 83,
+      "chart": "Wheel_RL_Rubber_shell",
+      "source_bbox": [
+        9,
+        77,
+        408,
+        198
+      ],
+      "subcrop": [
+        0,
+        0,
+        199,
+        60
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 84,
+      "chart": "Wheel_RL_Rim_-1_shell",
+      "source_bbox": [
+        8,
+        833,
+        149,
+        1057
+      ],
+      "subcrop": [
+        0,
+        0,
+        70,
+        112
+      ],
+      "source_kind": "cream",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 85,
+      "chart": "Wheel_RL_Well_-1_face",
+      "source_bbox": [
+        10,
+        206,
+        123,
+        255
+      ],
+      "subcrop": [
+        0,
+        24,
+        56,
+        49
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 86,
+      "chart": "Wheel_RL_Hub_-1_face",
+      "source_bbox": [
+        866,
+        962,
+        915,
+        1003
+      ],
+      "subcrop": [
+        0,
+        0,
+        24,
+        41
+      ],
+      "source_kind": "orange",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 87,
+      "chart": "Wheel_RL_Rim_1_shell",
+      "source_bbox": [
+        8,
+        833,
+        149,
+        1057
+      ],
+      "subcrop": [
+        0,
+        112,
+        70,
+        224
+      ],
+      "source_kind": "cream",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 88,
+      "chart": "Wheel_RL_Well_1_face",
+      "source_bbox": [
+        529,
+        396,
+        611,
+        464
+      ],
+      "subcrop": [
+        0,
+        0,
+        41,
+        34
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 89,
+      "chart": "Wheel_RL_Hub_1_face",
+      "source_bbox": [
+        835,
+        486,
+        864,
+        517
+      ],
+      "subcrop": [
+        0,
+        0,
+        29,
+        31
+      ],
+      "source_kind": "orange",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 90,
+      "chart": "Wheel_RL_Lug_-1_00_unwrap",
+      "source_bbox": [
+        1119,
+        984,
+        1243,
+        1053
+      ],
+      "subcrop": [
+        62,
+        0,
+        124,
+        34
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 91,
+      "chart": "Wheel_RL_Lug_-1_01_unwrap",
+      "source_bbox": [
+        101,
+        484,
+        202,
+        568
+      ],
+      "subcrop": [
+        0,
+        0,
+        50,
+        42
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 92,
+      "chart": "Wheel_RL_Lug_-1_02_unwrap",
+      "source_bbox": [
+        101,
+        484,
+        202,
+        568
+      ],
+      "subcrop": [
+        0,
+        42,
+        50,
+        84
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 93,
+      "chart": "Wheel_RL_Lug_-1_03_unwrap",
+      "source_bbox": [
+        300,
+        595,
+        405,
+        635
+      ],
+      "subcrop": [
+        0,
+        0,
+        52,
+        40
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 94,
+      "chart": "Wheel_RL_Lug_-1_04_unwrap",
+      "source_bbox": [
+        782,
+        658,
+        874,
+        747
+      ],
+      "subcrop": [
+        0,
+        44,
+        46,
+        89
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 95,
+      "chart": "Wheel_RL_Lug_-1_05_unwrap",
+      "source_bbox": [
+        782,
+        658,
+        874,
+        747
+      ],
+      "subcrop": [
+        46,
+        44,
+        92,
+        89
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 96,
+      "chart": "Wheel_RL_Lug_-1_06_unwrap",
+      "source_bbox": [
+        699,
+        345,
+        805,
+        422
+      ],
+      "subcrop": [
+        0,
+        38,
+        53,
+        77
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 97,
+      "chart": "Wheel_RL_Lug_-1_07_unwrap",
+      "source_bbox": [
+        699,
+        345,
+        805,
+        422
+      ],
+      "subcrop": [
+        53,
+        38,
+        106,
+        77
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 98,
+      "chart": "Wheel_RL_Lug_-1_08_unwrap",
+      "source_bbox": [
+        782,
+        658,
+        874,
+        747
+      ],
+      "subcrop": [
+        0,
+        0,
+        46,
+        44
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 99,
+      "chart": "Wheel_RL_Lug_1_00_unwrap",
+      "source_bbox": [
+        602,
+        10,
+        719,
+        65
+      ],
+      "subcrop": [
+        58,
+        27,
+        117,
+        55
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 100,
+      "chart": "Wheel_RL_Lug_1_01_unwrap",
+      "source_bbox": [
+        134,
+        202,
+        257,
+        256
+      ],
+      "subcrop": [
+        0,
+        0,
+        61,
+        27
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 101,
+      "chart": "Wheel_RL_Lug_1_02_unwrap",
+      "source_bbox": [
+        134,
+        202,
+        257,
+        256
+      ],
+      "subcrop": [
+        0,
+        27,
+        61,
+        54
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 102,
+      "chart": "Wheel_RL_Lug_1_03_unwrap",
+      "source_bbox": [
+        14,
+        588,
+        61,
+        729
+      ],
+      "subcrop": [
+        0,
+        70,
+        23,
+        141
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 103,
+      "chart": "Wheel_RL_Lug_1_04_unwrap",
+      "source_bbox": [
+        602,
+        10,
+        719,
+        65
+      ],
+      "subcrop": [
+        0,
+        27,
+        58,
+        55
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 104,
+      "chart": "Wheel_RL_Lug_1_05_unwrap",
+      "source_bbox": [
+        14,
+        588,
+        61,
+        729
+      ],
+      "subcrop": [
+        0,
+        0,
+        23,
+        70
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 105,
+      "chart": "Wheel_RL_Lug_1_06_unwrap",
+      "source_bbox": [
+        602,
+        10,
+        719,
+        65
+      ],
+      "subcrop": [
+        58,
+        0,
+        117,
+        27
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 106,
+      "chart": "Wheel_RL_Lug_1_07_unwrap",
+      "source_bbox": [
+        364,
+        10,
+        481,
+        63
+      ],
+      "subcrop": [
+        58,
+        26,
+        117,
+        53
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 107,
+      "chart": "Wheel_RL_Lug_1_08_unwrap",
+      "source_bbox": [
+        602,
+        10,
+        719,
+        65
+      ],
+      "subcrop": [
+        0,
+        0,
+        58,
+        27
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 108,
+      "chart": "Wheel_RR_Rubber_shell",
+      "source_bbox": [
+        115,
+        409,
+        325,
+        477
+      ],
+      "subcrop": [
+        0,
+        0,
+        105,
+        34
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 109,
+      "chart": "Wheel_RR_Rim_-1_shell",
+      "source_bbox": [
+        431,
+        1116,
+        586,
+        1237
+      ],
+      "subcrop": [
+        77,
+        60,
+        155,
+        121
+      ],
+      "source_kind": "cream",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 110,
+      "chart": "Wheel_RR_Well_-1_face",
+      "source_bbox": [
+        529,
+        396,
+        611,
+        464
+      ],
+      "subcrop": [
+        41,
+        0,
+        82,
+        34
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 111,
+      "chart": "Wheel_RR_Hub_-1_face",
+      "source_bbox": [
+        789,
+        474,
+        829,
+        516
+      ],
+      "subcrop": [
+        0,
+        0,
+        40,
+        21
+      ],
+      "source_kind": "orange",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 112,
+      "chart": "Wheel_RR_Rim_1_shell",
+      "source_bbox": [
+        12,
+        1116,
+        166,
+        1237
+      ],
+      "subcrop": [
+        0,
+        60,
+        77,
+        121
+      ],
+      "source_kind": "cream",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 113,
+      "chart": "Wheel_RR_Well_1_face",
+      "source_bbox": [
+        529,
+        396,
+        611,
+        464
+      ],
+      "subcrop": [
+        0,
+        34,
+        41,
+        68
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 114,
+      "chart": "Wheel_RR_Hub_1_face",
+      "source_bbox": [
+        789,
+        474,
+        829,
+        516
+      ],
+      "subcrop": [
+        0,
+        21,
+        40,
+        42
+      ],
+      "source_kind": "orange",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 115,
+      "chart": "Wheel_RR_Lug_-1_00_unwrap",
+      "source_bbox": [
+        782,
+        658,
+        874,
+        747
+      ],
+      "subcrop": [
+        46,
+        0,
+        92,
+        44
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 116,
+      "chart": "Wheel_RR_Lug_-1_01_unwrap",
+      "source_bbox": [
+        699,
+        345,
+        805,
+        422
+      ],
+      "subcrop": [
+        0,
+        0,
+        53,
+        38
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 117,
+      "chart": "Wheel_RR_Lug_-1_02_unwrap",
+      "source_bbox": [
+        699,
+        345,
+        805,
+        422
+      ],
+      "subcrop": [
+        53,
+        0,
+        106,
+        38
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 118,
+      "chart": "Wheel_RR_Lug_-1_03_unwrap",
+      "source_bbox": [
+        422,
+        75,
+        488,
+        193
+      ],
+      "subcrop": [
+        0,
+        0,
+        33,
+        59
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 119,
+      "chart": "Wheel_RR_Lug_-1_04_unwrap",
+      "source_bbox": [
+        422,
+        75,
+        488,
+        193
+      ],
+      "subcrop": [
+        33,
+        0,
+        66,
+        59
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 120,
+      "chart": "Wheel_RR_Lug_-1_05_unwrap",
+      "source_bbox": [
+        422,
+        75,
+        488,
+        193
+      ],
+      "subcrop": [
+        0,
+        59,
+        33,
+        118
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 121,
+      "chart": "Wheel_RR_Lug_-1_06_unwrap",
+      "source_bbox": [
+        422,
+        75,
+        488,
+        193
+      ],
+      "subcrop": [
+        33,
+        59,
+        66,
+        118
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 122,
+      "chart": "Wheel_RR_Lug_-1_07_unwrap",
+      "source_bbox": [
+        12,
+        475,
+        86,
+        579
+      ],
+      "subcrop": [
+        0,
+        0,
+        37,
+        52
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 123,
+      "chart": "Wheel_RR_Lug_-1_08_unwrap",
+      "source_bbox": [
+        12,
+        475,
+        86,
+        579
+      ],
+      "subcrop": [
+        37,
+        0,
+        74,
+        52
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 124,
+      "chart": "Wheel_RR_Lug_1_00_unwrap",
+      "source_bbox": [
+        364,
+        10,
+        481,
+        63
+      ],
+      "subcrop": [
+        0,
+        26,
+        58,
+        53
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 125,
+      "chart": "Wheel_RR_Lug_1_01_unwrap",
+      "source_bbox": [
+        339,
+        642,
+        408,
+        730
+      ],
+      "subcrop": [
+        34,
+        0,
+        69,
+        44
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 126,
+      "chart": "Wheel_RR_Lug_1_02_unwrap",
+      "source_bbox": [
+        339,
+        642,
+        408,
+        730
+      ],
+      "subcrop": [
+        34,
+        44,
+        69,
+        88
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 127,
+      "chart": "Wheel_RR_Lug_1_03_unwrap",
+      "source_bbox": [
+        364,
+        10,
+        481,
+        63
+      ],
+      "subcrop": [
+        58,
+        0,
+        117,
+        26
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 128,
+      "chart": "Wheel_RR_Lug_1_04_unwrap",
+      "source_bbox": [
+        364,
+        10,
+        481,
+        63
+      ],
+      "subcrop": [
+        0,
+        0,
+        58,
+        26
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 129,
+      "chart": "Wheel_RR_Lug_1_05_unwrap",
+      "source_bbox": [
+        339,
+        642,
+        408,
+        730
+      ],
+      "subcrop": [
+        0,
+        0,
+        34,
+        44
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 130,
+      "chart": "Wheel_RR_Lug_1_06_unwrap",
+      "source_bbox": [
+        339,
+        642,
+        408,
+        730
+      ],
+      "subcrop": [
+        0,
+        44,
+        34,
+        88
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 131,
+      "chart": "Wheel_RR_Lug_1_07_unwrap",
+      "source_bbox": [
+        344,
+        535,
+        474,
+        580
+      ],
+      "subcrop": [
+        0,
+        22,
+        65,
+        45
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 132,
+      "chart": "Wheel_RR_Lug_1_08_unwrap",
+      "source_bbox": [
+        344,
+        535,
+        474,
+        580
+      ],
+      "subcrop": [
+        65,
+        22,
+        130,
+        45
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 133,
+      "chart": "Front_Axle_tube",
+      "source_bbox": [
+        990,
+        1050,
+        1121,
+        1124
+      ],
+      "subcrop": [
+        65,
+        0,
+        131,
+        37
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 134,
+      "chart": "Front_Axle_cap_0",
+      "source_bbox": [
+        430,
+        243,
+        522,
+        298
+      ],
+      "subcrop": [
+        0,
+        0,
+        46,
+        27
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 135,
+      "chart": "Front_Axle_cap_1",
+      "source_bbox": [
+        430,
+        243,
+        522,
+        298
+      ],
+      "subcrop": [
+        46,
+        0,
+        92,
+        27
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 136,
+      "chart": "Front_Diff_unwrap",
+      "source_bbox": [
+        513,
+        285,
+        620,
+        388
+      ],
+      "subcrop": [
+        0,
+        0,
+        53,
+        51
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 137,
+      "chart": "Front_Wishbone_R-0.16_tube",
+      "source_bbox": [
+        10,
+        206,
+        123,
+        255
+      ],
+      "subcrop": [
+        56,
+        0,
+        113,
+        24
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 138,
+      "chart": "Front_Wishbone_R-0.16_cap_0",
+      "source_bbox": [
+        265,
+        265,
+        291,
+        359
+      ],
+      "subcrop": [
+        0,
+        47,
+        26,
+        94
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 139,
+      "chart": "Front_Wishbone_R-0.16_cap_1",
+      "source_bbox": [
+        292,
+        5,
+        331,
+        68
+      ],
+      "subcrop": [
+        0,
+        0,
+        39,
+        31
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 140,
+      "chart": "Front_Wishbone_R0.16_tube",
+      "source_bbox": [
+        862,
+        858,
+        937,
+        894
+      ],
+      "subcrop": [
+        37,
+        0,
+        75,
+        36
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 141,
+      "chart": "Front_Wishbone_R0.16_cap_0",
+      "source_bbox": [
+        275,
+        485,
+        335,
+        566
+      ],
+      "subcrop": [
+        0,
+        0,
+        30,
+        40
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 142,
+      "chart": "Front_Wishbone_R0.16_cap_1",
+      "source_bbox": [
+        275,
+        485,
+        335,
+        566
+      ],
+      "subcrop": [
+        30,
+        0,
+        60,
+        40
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 143,
+      "chart": "Front_Shock_R_tube",
+      "source_bbox": [
+        425,
+        312,
+        504,
+        380
+      ],
+      "subcrop": [
+        0,
+        0,
+        39,
+        34
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 144,
+      "chart": "Front_Shock_R_cap_0",
+      "source_bbox": [
+        205,
+        264,
+        257,
+        345
+      ],
+      "subcrop": [
+        0,
+        40,
+        26,
+        81
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 145,
+      "chart": "Front_Shock_R_cap_1",
+      "source_bbox": [
+        205,
+        264,
+        257,
+        345
+      ],
+      "subcrop": [
+        26,
+        40,
+        52,
+        81
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 146,
+      "chart": "Front_Spring_R_tube",
+      "source_bbox": [
+        1122,
+        1064,
+        1200,
+        1135
+      ],
+      "subcrop": [
+        39,
+        35,
+        78,
+        71
+      ],
+      "source_kind": "orange",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 147,
+      "chart": "Front_Spring_R_cap_0",
+      "source_bbox": [
+        833,
+        580,
+        867,
+        597
+      ],
+      "subcrop": [
+        0,
+        0,
+        34,
+        17
+      ],
+      "source_kind": "orange",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 148,
+      "chart": "Front_Spring_R_cap_24",
+      "source_bbox": [
+        619,
+        1020,
+        663,
+        1046
+      ],
+      "subcrop": [
+        0,
+        0,
+        22,
+        26
+      ],
+      "source_kind": "orange",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 149,
+      "chart": "Front_Wishbone_L-0.16_tube",
+      "source_bbox": [
+        639,
+        1205,
+        677,
+        1241
+      ],
+      "subcrop": [
+        0,
+        0,
+        38,
+        36
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 150,
+      "chart": "Front_Wishbone_L-0.16_cap_0",
+      "source_bbox": [
+        509,
+        73,
+        573,
+        146
+      ],
+      "subcrop": [
+        0,
+        36,
+        32,
+        73
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 151,
+      "chart": "Front_Wishbone_L-0.16_cap_1",
+      "source_bbox": [
+        509,
+        73,
+        573,
+        146
+      ],
+      "subcrop": [
+        32,
+        36,
+        64,
+        73
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 152,
+      "chart": "Front_Wishbone_L0.16_tube",
+      "source_bbox": [
+        425,
+        312,
+        504,
+        380
+      ],
+      "subcrop": [
+        39,
+        0,
+        79,
+        34
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 153,
+      "chart": "Front_Wishbone_L0.16_cap_0",
+      "source_bbox": [
+        667,
+        838,
+        725,
+        878
+      ],
+      "subcrop": [
+        0,
+        0,
+        29,
+        40
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 154,
+      "chart": "Front_Wishbone_L0.16_cap_1",
+      "source_bbox": [
+        667,
+        838,
+        725,
+        878
+      ],
+      "subcrop": [
+        29,
+        0,
+        58,
+        40
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 155,
+      "chart": "Front_Shock_L_tube",
+      "source_bbox": [
+        425,
+        312,
+        504,
+        380
+      ],
+      "subcrop": [
+        0,
+        34,
+        39,
+        68
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 156,
+      "chart": "Front_Shock_L_cap_0",
+      "source_bbox": [
+        425,
+        599,
+        456,
+        633
+      ],
+      "subcrop": [
+        0,
+        0,
+        31,
+        34
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 157,
+      "chart": "Front_Shock_L_cap_1",
+      "source_bbox": [
+        438,
+        476,
+        509,
+        533
+      ],
+      "subcrop": [
+        35,
+        28,
+        71,
+        57
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 158,
+      "chart": "Front_Spring_L_tube",
+      "source_bbox": [
+        911,
+        1064,
+        988,
+        1135
+      ],
+      "subcrop": [
+        0,
+        35,
+        38,
+        71
+      ],
+      "source_kind": "orange",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 159,
+      "chart": "Front_Spring_L_cap_0",
+      "source_bbox": [
+        619,
+        1020,
+        663,
+        1046
+      ],
+      "subcrop": [
+        22,
+        0,
+        44,
+        26
+      ],
+      "source_kind": "orange",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 160,
+      "chart": "Front_Spring_L_cap_24",
+      "source_bbox": [
+        834,
+        597,
+        867,
+        614
+      ],
+      "subcrop": [
+        0,
+        0,
+        33,
+        17
+      ],
+      "source_kind": "orange",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 161,
+      "chart": "Rear_Axle_tube",
+      "source_bbox": [
+        990,
+        1050,
+        1121,
+        1124
+      ],
+      "subcrop": [
+        65,
+        37,
+        131,
+        74
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 162,
+      "chart": "Rear_Axle_cap_0",
+      "source_bbox": [
+        275,
+        485,
+        335,
+        566
+      ],
+      "subcrop": [
+        0,
+        40,
+        30,
+        81
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 163,
+      "chart": "Rear_Axle_cap_1",
+      "source_bbox": [
+        275,
+        485,
+        335,
+        566
+      ],
+      "subcrop": [
+        30,
+        40,
+        60,
+        81
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 164,
+      "chart": "Rear_Diff_unwrap",
+      "source_bbox": [
+        1002,
+        1130,
+        1110,
+        1231
+      ],
+      "subcrop": [
+        0,
+        0,
+        54,
+        50
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 165,
+      "chart": "Rear_Wishbone_R-0.16_tube",
+      "source_bbox": [
+        425,
+        312,
+        504,
+        380
+      ],
+      "subcrop": [
+        39,
+        34,
+        79,
+        68
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 166,
+      "chart": "Rear_Wishbone_R-0.16_cap_0",
+      "source_bbox": [
+        509,
+        73,
+        573,
+        146
+      ],
+      "subcrop": [
+        0,
+        0,
+        32,
+        36
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 167,
+      "chart": "Rear_Wishbone_R-0.16_cap_1",
+      "source_bbox": [
+        509,
+        73,
+        573,
+        146
+      ],
+      "subcrop": [
+        32,
+        0,
+        64,
+        36
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 168,
+      "chart": "Rear_Wishbone_R0.16_tube",
+      "source_bbox": [
+        725,
+        589,
+        776,
+        692
+      ],
+      "subcrop": [
+        25,
+        51,
+        51,
+        103
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 169,
+      "chart": "Rear_Wishbone_R0.16_cap_0",
+      "source_bbox": [
+        10,
+        265,
+        34,
+        360
+      ],
+      "subcrop": [
+        0,
+        47,
+        24,
+        95
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 170,
+      "chart": "Rear_Wishbone_R0.16_cap_1",
+      "source_bbox": [
+        520,
+        474,
+        575,
+        515
+      ],
+      "subcrop": [
+        27,
+        0,
+        55,
+        41
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 171,
+      "chart": "Rear_Shock_R_tube",
+      "source_bbox": [
+        725,
+        589,
+        776,
+        692
+      ],
+      "subcrop": [
+        25,
+        0,
+        51,
+        51
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 172,
+      "chart": "Rear_Shock_R_cap_0",
+      "source_bbox": [
+        205,
+        264,
+        257,
+        345
+      ],
+      "subcrop": [
+        0,
+        0,
+        26,
+        40
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 173,
+      "chart": "Rear_Shock_R_cap_1",
+      "source_bbox": [
+        205,
+        264,
+        257,
+        345
+      ],
+      "subcrop": [
+        26,
+        0,
+        52,
+        40
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 174,
+      "chart": "Rear_Spring_R_tube",
+      "source_bbox": [
+        911,
+        1064,
+        988,
+        1135
+      ],
+      "subcrop": [
+        38,
+        0,
+        77,
+        35
+      ],
+      "source_kind": "orange",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 175,
+      "chart": "Rear_Spring_R_cap_0",
+      "source_bbox": [
+        787,
+        529,
+        821,
+        545
+      ],
+      "subcrop": [
+        0,
+        0,
+        34,
+        16
+      ],
+      "source_kind": "orange",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 176,
+      "chart": "Rear_Spring_R_cap_24",
+      "source_bbox": [
+        834,
+        529,
+        866,
+        545
+      ],
+      "subcrop": [
+        0,
+        0,
+        32,
+        16
+      ],
+      "source_kind": "orange",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 177,
+      "chart": "Rear_Wishbone_L-0.16_tube",
+      "source_bbox": [
+        1152,
+        1211,
+        1241,
+        1241
+      ],
+      "subcrop": [
+        44,
+        0,
+        89,
+        30
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 178,
+      "chart": "Rear_Wishbone_L-0.16_cap_0",
+      "source_bbox": [
+        10,
+        265,
+        34,
+        360
+      ],
+      "subcrop": [
+        0,
+        0,
+        24,
+        47
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 179,
+      "chart": "Rear_Wishbone_L-0.16_cap_1",
+      "source_bbox": [
+        520,
+        474,
+        575,
+        515
+      ],
+      "subcrop": [
+        0,
+        0,
+        27,
+        41
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 180,
+      "chart": "Rear_Wishbone_L0.16_tube",
+      "source_bbox": [
+        10,
+        206,
+        123,
+        255
+      ],
+      "subcrop": [
+        0,
+        0,
+        56,
+        24
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 181,
+      "chart": "Rear_Wishbone_L0.16_cap_0",
+      "source_bbox": [
+        711,
+        424,
+        738,
+        465
+      ],
+      "subcrop": [
+        0,
+        0,
+        27,
+        41
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 182,
+      "chart": "Rear_Wishbone_L0.16_cap_1",
+      "source_bbox": [
+        366,
+        370,
+        401,
+        401
+      ],
+      "subcrop": [
+        0,
+        0,
+        35,
+        31
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 183,
+      "chart": "Rear_Shock_L_tube",
+      "source_bbox": [
+        649,
+        103,
+        697,
+        213
+      ],
+      "subcrop": [
+        0,
+        0,
+        24,
+        55
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 184,
+      "chart": "Rear_Shock_L_cap_0",
+      "source_bbox": [
+        618,
+        875,
+        652,
+        934
+      ],
+      "subcrop": [
+        0,
+        29,
+        34,
+        59
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 185,
+      "chart": "Rear_Shock_L_cap_1",
+      "source_bbox": [
+        438,
+        476,
+        509,
+        533
+      ],
+      "subcrop": [
+        0,
+        28,
+        35,
+        57
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 186,
+      "chart": "Rear_Spring_L_tube",
+      "source_bbox": [
+        1122,
+        1064,
+        1200,
+        1135
+      ],
+      "subcrop": [
+        0,
+        0,
+        39,
+        35
+      ],
+      "source_kind": "orange",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 187,
+      "chart": "Rear_Spring_L_cap_0",
+      "source_bbox": [
+        833,
+        546,
+        867,
+        561
+      ],
+      "subcrop": [
+        0,
+        0,
+        34,
+        15
+      ],
+      "source_kind": "orange",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 188,
+      "chart": "Rear_Spring_L_cap_24",
+      "source_bbox": [
+        922,
+        960,
+        967,
+        1003
+      ],
+      "subcrop": [
+        22,
+        21,
+        45,
+        43
+      ],
+      "source_kind": "orange",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 189,
+      "chart": "Front_Cream_Fascia_unwrap",
+      "source_bbox": [
+        744,
+        7,
+        1243,
+        205
+      ],
+      "subcrop": [
+        249,
+        0,
+        499,
+        99
+      ],
+      "source_kind": "cream",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 190,
+      "chart": "Headlight_R_Bezel_shell",
+      "source_bbox": [
+        12,
+        1116,
+        166,
+        1237
+      ],
+      "subcrop": [
+        77,
+        60,
+        154,
+        121
+      ],
+      "source_kind": "cream",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 191,
+      "chart": "Headlight_R_Gasket_shell",
+      "source_bbox": [
+        1148,
+        1176,
+        1242,
+        1204
+      ],
+      "subcrop": [
+        47,
+        0,
+        94,
+        28
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 192,
+      "chart": "Headlight_R_Lens_face",
+      "source_bbox": [
+        610,
+        959,
+        700,
+        1050
+      ],
+      "method": "generated lamp lens"
+    },
+    {
+      "chart_id": 193,
+      "chart": "Front_Indicator_R_unwrap",
+      "source_bbox": [
+        911,
+        1064,
+        988,
+        1135
+      ],
+      "subcrop": [
+        38,
+        35,
+        77,
+        71
+      ],
+      "source_kind": "orange",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 194,
+      "chart": "Headlight_L_Bezel_shell",
+      "source_bbox": [
+        431,
+        1116,
+        586,
+        1237
+      ],
+      "subcrop": [
+        0,
+        60,
+        77,
+        121
+      ],
+      "source_kind": "cream",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 195,
+      "chart": "Headlight_L_Gasket_shell",
+      "source_bbox": [
+        725,
+        589,
+        776,
+        692
+      ],
+      "subcrop": [
+        0,
+        51,
+        25,
+        103
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 196,
+      "chart": "Headlight_L_Lens_face",
+      "source_bbox": [
+        748,
+        959,
+        838,
+        1050
+      ],
+      "method": "generated lamp lens"
+    },
+    {
+      "chart_id": 197,
+      "chart": "Front_Indicator_L_unwrap",
+      "source_bbox": [
+        1122,
+        1064,
+        1200,
+        1135
+      ],
+      "subcrop": [
+        0,
+        35,
+        39,
+        71
+      ],
+      "source_kind": "orange",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 198,
+      "chart": "Front_Grille_panel_0",
+      "source_bbox": [
+        343,
+        475,
+        380,
+        515
+      ],
+      "subcrop": [
+        0,
+        0,
+        37,
+        40
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 199,
+      "chart": "Front_Grille_panel_1",
+      "source_bbox": [
+        1137,
+        1004,
+        1227,
+        1037
+      ],
+      "method": "generated inset grille"
+    },
+    {
+      "chart_id": 200,
+      "chart": "Front_Grille_panel_2",
+      "source_bbox": [
+        1116,
+        1144,
+        1142,
+        1242
+      ],
+      "subcrop": [
+        0,
+        49,
+        26,
+        98
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 201,
+      "chart": "Front_Grille_panel_3",
+      "source_bbox": [
+        9,
+        6,
+        48,
+        70
+      ],
+      "subcrop": [
+        0,
+        0,
+        39,
+        32
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 202,
+      "chart": "Front_Grille_panel_4",
+      "source_bbox": [
+        430,
+        243,
+        522,
+        298
+      ],
+      "subcrop": [
+        0,
+        27,
+        46,
+        55
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 203,
+      "chart": "Front_Grille_panel_5",
+      "source_bbox": [
+        430,
+        243,
+        522,
+        298
+      ],
+      "subcrop": [
+        46,
+        27,
+        92,
+        55
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 204,
+      "chart": "Front_Grille_unwrap",
+      "source_bbox": [
+        990,
+        1050,
+        1121,
+        1124
+      ],
+      "subcrop": [
+        0,
+        0,
+        65,
+        37
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 205,
+      "chart": "Front_Bumper_tube",
+      "source_bbox": [
+        513,
+        285,
+        620,
+        388
+      ],
+      "subcrop": [
+        53,
+        51,
+        107,
+        103
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 206,
+      "chart": "Front_Bumper_cap_0",
+      "source_bbox": [
+        157,
+        265,
+        193,
+        301
+      ],
+      "subcrop": [
+        0,
+        0,
+        36,
+        36
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 207,
+      "chart": "Front_Bumper_cap_7",
+      "source_bbox": [
+        862,
+        1010,
+        897,
+        1047
+      ],
+      "subcrop": [
+        0,
+        0,
+        35,
+        37
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 208,
+      "chart": "Front_Skid_unwrap",
+      "source_bbox": [
+        513,
+        285,
+        620,
+        388
+      ],
+      "subcrop": [
+        0,
+        51,
+        53,
+        103
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 209,
+      "chart": "Front_Tow_Socket_unwrap",
+      "source_bbox": [
+        744,
+        756,
+        847,
+        811
+      ],
+      "subcrop": [
+        51,
+        27,
+        103,
+        55
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 210,
+      "chart": "Rear_Valance_unwrap",
+      "source_bbox": [
+        115,
+        409,
+        325,
+        477
+      ],
+      "subcrop": [
+        105,
+        0,
+        210,
+        34
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 211,
+      "chart": "Rear_Lamp_Housing_R_unwrap",
+      "source_bbox": [
+        1028,
+        205,
+        1103,
+        594
+      ],
+      "subcrop": [
+        37,
+        194,
+        75,
+        389
+      ],
+      "source_kind": "teal",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 212,
+      "chart": "Rear_Amber_Lens_R_panel_0",
+      "source_bbox": [
+        915,
+        1068,
+        982,
+        1128
+      ],
+      "method": "generated amber lens"
+    },
+    {
+      "chart_id": 213,
+      "chart": "Rear_Amber_Lens_R_panel_1",
+      "source_bbox": [
+        859,
+        903,
+        952,
+        954
+      ],
+      "subcrop": [
+        46,
+        25,
+        93,
+        51
+      ],
+      "source_kind": "orange",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 214,
+      "chart": "Rear_Amber_Lens_R_panel_2",
+      "source_bbox": [
+        838,
+        1066,
+        897,
+        1110
+      ],
+      "subcrop": [
+        0,
+        0,
+        29,
+        22
+      ],
+      "source_kind": "orange",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 215,
+      "chart": "Rear_Amber_Lens_R_panel_3",
+      "source_bbox": [
+        838,
+        1066,
+        897,
+        1110
+      ],
+      "subcrop": [
+        0,
+        22,
+        29,
+        44
+      ],
+      "source_kind": "orange",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 216,
+      "chart": "Rear_Amber_Lens_R_panel_4",
+      "source_bbox": [
+        784,
+        564,
+        820,
+        583
+      ],
+      "subcrop": [
+        0,
+        0,
+        36,
+        19
+      ],
+      "source_kind": "orange",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 217,
+      "chart": "Rear_Amber_Lens_R_panel_5",
+      "source_bbox": [
+        838,
+        1066,
+        897,
+        1110
+      ],
+      "subcrop": [
+        29,
+        0,
+        59,
+        22
+      ],
+      "source_kind": "orange",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 218,
+      "chart": "Rear_Amber_Lens_R_unwrap",
+      "source_bbox": [
+        1122,
+        1064,
+        1200,
+        1135
+      ],
+      "subcrop": [
+        39,
+        0,
+        78,
+        35
+      ],
+      "source_kind": "orange",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 219,
+      "chart": "Rear_Lamp_Housing_L_unwrap",
+      "source_bbox": [
+        1028,
+        205,
+        1103,
+        594
+      ],
+      "subcrop": [
+        37,
+        0,
+        75,
+        194
+      ],
+      "source_kind": "teal",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 220,
+      "chart": "Rear_Amber_Lens_L_panel_0",
+      "source_bbox": [
+        1126,
+        1068,
+        1195,
+        1128
+      ],
+      "method": "generated amber lens"
+    },
+    {
+      "chart_id": 221,
+      "chart": "Rear_Amber_Lens_L_panel_1",
+      "source_bbox": [
+        859,
+        903,
+        952,
+        954
+      ],
+      "subcrop": [
+        0,
+        25,
+        46,
+        51
+      ],
+      "source_kind": "orange",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 222,
+      "chart": "Rear_Amber_Lens_L_panel_2",
+      "source_bbox": [
+        784,
+        621,
+        818,
+        639
+      ],
+      "subcrop": [
+        0,
+        0,
+        34,
+        18
+      ],
+      "source_kind": "orange",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 223,
+      "chart": "Rear_Amber_Lens_L_panel_3",
+      "source_bbox": [
+        833,
+        563,
+        867,
+        580
+      ],
+      "subcrop": [
+        0,
+        0,
+        34,
+        17
+      ],
+      "source_kind": "orange",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 224,
+      "chart": "Rear_Amber_Lens_L_panel_4",
+      "source_bbox": [
+        838,
+        1066,
+        897,
+        1110
+      ],
+      "subcrop": [
+        29,
+        22,
+        59,
+        44
+      ],
+      "source_kind": "orange",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 225,
+      "chart": "Rear_Amber_Lens_L_panel_5",
+      "source_bbox": [
+        663,
+        79,
+        690,
+        103
+      ],
+      "subcrop": [
+        0,
+        0,
+        27,
+        24
+      ],
+      "source_kind": "orange",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 226,
+      "chart": "Rear_Amber_Lens_L_unwrap",
+      "source_bbox": [
+        911,
+        1064,
+        988,
+        1135
+      ],
+      "subcrop": [
+        0,
+        0,
+        38,
+        35
+      ],
+      "source_kind": "orange",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 227,
+      "chart": "Rear_Exhaust_Box_unwrap",
+      "source_bbox": [
+        1002,
+        1130,
+        1110,
+        1231
+      ],
+      "subcrop": [
+        0,
+        50,
+        54,
+        101
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 228,
+      "chart": "Rear_Exhaust_Rim_shell",
+      "source_bbox": [
+        571,
+        833,
+        608,
+        868
+      ],
+      "subcrop": [
+        0,
+        0,
+        37,
+        35
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 229,
+      "chart": "Rear_Exhaust_Dark_face",
+      "source_bbox": [
+        265,
+        265,
+        291,
+        359
+      ],
+      "subcrop": [
+        0,
+        0,
+        26,
+        47
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 230,
+      "chart": "Rear_Tow_Recess_unwrap",
+      "source_bbox": [
+        344,
+        535,
+        474,
+        580
+      ],
+      "subcrop": [
+        0,
+        0,
+        65,
+        22
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 231,
+      "chart": "Front_Rack_Rail_tube",
+      "source_bbox": [
+        732,
+        820,
+        857,
+        930
+      ],
+      "subcrop": [
+        62,
+        55,
+        125,
+        110
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 232,
+      "chart": "Front_Rack_Slat_-0.23_unwrap",
+      "source_bbox": [
+        406,
+        387,
+        517,
+        469
+      ],
+      "subcrop": [
+        55,
+        0,
+        111,
+        41
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 233,
+      "chart": "Front_Rack_Slat_0.23_unwrap",
+      "source_bbox": [
+        406,
+        387,
+        517,
+        469
+      ],
+      "subcrop": [
+        55,
+        41,
+        111,
+        82
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 234,
+      "chart": "Front_Rack_Post_0.655_-0.585_unwrap",
+      "source_bbox": [
+        649,
+        103,
+        697,
+        213
+      ],
+      "subcrop": [
+        24,
+        0,
+        48,
+        55
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 235,
+      "chart": "Front_Rack_Post_0.655_0.585_unwrap",
+      "source_bbox": [
+        649,
+        103,
+        697,
+        213
+      ],
+      "subcrop": [
+        0,
+        55,
+        24,
+        110
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 236,
+      "chart": "Front_Rack_Post_1.015_-0.585_unwrap",
+      "source_bbox": [
+        649,
+        103,
+        697,
+        213
+      ],
+      "subcrop": [
+        24,
+        55,
+        48,
+        110
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 237,
+      "chart": "Front_Rack_Post_1.015_0.585_unwrap",
+      "source_bbox": [
+        1152,
+        1211,
+        1241,
+        1241
+      ],
+      "subcrop": [
+        0,
+        0,
+        44,
+        30
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 238,
+      "chart": "Rear_Rack_Rail_tube",
+      "source_bbox": [
+        732,
+        820,
+        857,
+        930
+      ],
+      "subcrop": [
+        0,
+        0,
+        62,
+        55
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 239,
+      "chart": "Rear_Rack_Slat_-0.23_unwrap",
+      "source_bbox": [
+        990,
+        1050,
+        1121,
+        1124
+      ],
+      "subcrop": [
+        0,
+        37,
+        65,
+        74
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 240,
+      "chart": "Rear_Rack_Slat_0.23_unwrap",
+      "source_bbox": [
+        985,
+        968,
+        1110,
+        1041
+      ],
+      "subcrop": [
+        62,
+        36,
+        125,
+        73
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 241,
+      "chart": "Rear_Rack_Post_-1.045_-0.585_unwrap",
+      "source_bbox": [
+        497,
+        154,
+        563,
+        194
+      ],
+      "subcrop": [
+        0,
+        0,
+        33,
+        40
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 242,
+      "chart": "Rear_Rack_Post_-1.045_0.585_unwrap",
+      "source_bbox": [
+        497,
+        154,
+        563,
+        194
+      ],
+      "subcrop": [
+        33,
+        0,
+        66,
+        40
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 243,
+      "chart": "Rear_Rack_Post_-0.685_-0.585_unwrap",
+      "source_bbox": [
+        18,
+        823,
+        58,
+        856
+      ],
+      "subcrop": [
+        0,
+        0,
+        40,
+        33
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 244,
+      "chart": "Rear_Rack_Post_-0.685_0.585_unwrap",
+      "source_bbox": [
+        1148,
+        1176,
+        1242,
+        1204
+      ],
+      "subcrop": [
+        0,
+        0,
+        47,
+        28
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 245,
+      "chart": "Steering_Stem_tube",
+      "source_bbox": [
+        757,
+        1205,
+        793,
+        1242
+      ],
+      "subcrop": [
+        0,
+        0,
+        36,
+        37
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 246,
+      "chart": "Steering_Stem_cap_0",
+      "source_bbox": [
+        9,
+        6,
+        48,
+        70
+      ],
+      "subcrop": [
+        0,
+        32,
+        39,
+        64
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 247,
+      "chart": "Steering_Stem_cap_1",
+      "source_bbox": [
+        292,
+        5,
+        331,
+        68
+      ],
+      "subcrop": [
+        0,
+        31,
+        39,
+        63
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 248,
+      "chart": "Handlebar_tube",
+      "source_bbox": [
+        1002,
+        1130,
+        1110,
+        1231
+      ],
+      "subcrop": [
+        54,
+        0,
+        108,
+        50
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 249,
+      "chart": "Handlebar_cap_0",
+      "source_bbox": [
+        972,
+        1144,
+        997,
+        1242
+      ],
+      "subcrop": [
+        0,
+        0,
+        25,
+        49
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 250,
+      "chart": "Handlebar_cap_7",
+      "source_bbox": [
+        972,
+        1144,
+        997,
+        1242
+      ],
+      "subcrop": [
+        0,
+        49,
+        25,
+        98
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 251,
+      "chart": "Grip_R_shell",
+      "source_bbox": [
+        985,
+        968,
+        1110,
+        1041
+      ],
+      "subcrop": [
+        62,
+        0,
+        125,
+        36
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 252,
+      "chart": "Grip_R_End_face",
+      "source_bbox": [
+        784,
+        583,
+        820,
+        603
+      ],
+      "subcrop": [
+        0,
+        0,
+        36,
+        20
+      ],
+      "source_kind": "orange",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 253,
+      "chart": "Grip_R_Collar_shell",
+      "source_bbox": [
+        529,
+        396,
+        611,
+        464
+      ],
+      "subcrop": [
+        41,
+        34,
+        82,
+        68
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 254,
+      "chart": "Grip_R_CollarSide_face",
+      "source_bbox": [
+        725,
+        589,
+        776,
+        692
+      ],
+      "subcrop": [
+        0,
+        0,
+        25,
+        51
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 255,
+      "chart": "Grip_L_shell",
+      "source_bbox": [
+        406,
+        387,
+        517,
+        469
+      ],
+      "subcrop": [
+        0,
+        0,
+        55,
+        41
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 256,
+      "chart": "Grip_L_End_face",
+      "source_bbox": [
+        784,
+        602,
+        819,
+        622
+      ],
+      "subcrop": [
+        0,
+        0,
+        35,
+        20
+      ],
+      "source_kind": "orange",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 257,
+      "chart": "Grip_L_Collar_shell",
+      "source_bbox": [
+        744,
+        756,
+        847,
+        811
+      ],
+      "subcrop": [
+        0,
+        0,
+        51,
+        27
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 258,
+      "chart": "Grip_L_CollarSide_face",
+      "source_bbox": [
+        1116,
+        1144,
+        1142,
+        1242
+      ],
+      "subcrop": [
+        0,
+        0,
+        26,
+        49
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 259,
+      "chart": "Console_Case_unwrap",
+      "source_bbox": [
+        732,
+        820,
+        857,
+        930
+      ],
+      "subcrop": [
+        0,
+        55,
+        62,
+        110
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 260,
+      "chart": "Console_Cream_Face_panel_0",
+      "source_bbox": [
+        431,
+        1116,
+        586,
+        1237
+      ],
+      "subcrop": [
+        77,
+        0,
+        155,
+        60
+      ],
+      "source_kind": "cream",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 261,
+      "chart": "Console_Cream_Face_panel_1",
+      "source_bbox": [
+        12,
+        1116,
+        166,
+        1237
+      ],
+      "subcrop": [
+        0,
+        0,
+        77,
+        60
+      ],
+      "source_kind": "cream",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 262,
+      "chart": "Console_Cream_Face_panel_2",
+      "source_bbox": [
+        180,
+        1202,
+        416,
+        1241
+      ],
+      "subcrop": [
+        0,
+        0,
+        118,
+        39
+      ],
+      "source_kind": "cream",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 263,
+      "chart": "Console_Cream_Face_panel_3",
+      "source_bbox": [
+        180,
+        1202,
+        416,
+        1241
+      ],
+      "subcrop": [
+        118,
+        0,
+        236,
+        39
+      ],
+      "source_kind": "cream",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 264,
+      "chart": "Console_Cream_Face_panel_4",
+      "source_bbox": [
+        12,
+        1116,
+        166,
+        1237
+      ],
+      "subcrop": [
+        77,
+        0,
+        154,
+        60
+      ],
+      "source_kind": "cream",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 265,
+      "chart": "Console_Cream_Face_panel_5",
+      "source_bbox": [
+        431,
+        1116,
+        586,
+        1237
+      ],
+      "subcrop": [
+        0,
+        0,
+        77,
+        60
+      ],
+      "source_kind": "cream",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 266,
+      "chart": "Console_Cream_Face_unwrap",
+      "source_bbox": [
+        458,
+        834,
+        608,
+        1058
+      ],
+      "subcrop": [
+        75,
+        0,
+        150,
+        112
+      ],
+      "source_kind": "cream",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 267,
+      "chart": "Console_Rear_Teal_unwrap",
+      "source_bbox": [
+        1028,
+        205,
+        1103,
+        594
+      ],
+      "subcrop": [
+        0,
+        194,
+        37,
+        389
+      ],
+      "source_kind": "teal",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 268,
+      "chart": "Console_Rear_Display_panel_0",
+      "source_bbox": [
+        647,
+        270,
+        732,
+        318
+      ],
+      "method": "generated dark dashboard"
+    },
+    {
+      "chart_id": 269,
+      "chart": "Console_Rear_Display_panel_1",
+      "source_bbox": [
+        862,
+        858,
+        937,
+        894
+      ],
+      "subcrop": [
+        0,
+        0,
+        37,
+        36
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 270,
+      "chart": "Console_Rear_Display_panel_2",
+      "source_bbox": [
+        581,
+        795,
+        616,
+        830
+      ],
+      "subcrop": [
+        0,
+        0,
+        35,
+        35
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 271,
+      "chart": "Console_Rear_Display_panel_3",
+      "source_bbox": [
+        731,
+        711,
+        765,
+        747
+      ],
+      "subcrop": [
+        0,
+        0,
+        34,
+        36
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 272,
+      "chart": "Console_Rear_Display_panel_4",
+      "source_bbox": [
+        118,
+        4,
+        158,
+        68
+      ],
+      "subcrop": [
+        0,
+        0,
+        40,
+        32
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 273,
+      "chart": "Console_Rear_Display_panel_5",
+      "source_bbox": [
+        118,
+        4,
+        158,
+        68
+      ],
+      "subcrop": [
+        0,
+        32,
+        40,
+        64
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    },
+    {
+      "chart_id": 274,
+      "chart": "Console_Rear_Display_unwrap",
+      "source_bbox": [
+        985,
+        968,
+        1110,
+        1041
+      ],
+      "subcrop": [
+        0,
+        36,
+        62,
+        73
+      ],
+      "source_kind": "gray",
+      "method": "unique nonrepeating source crop"
+    }
+  ]
+}

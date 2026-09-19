@@ -1,0 +1,3564 @@
+[
+  {
+    "id": 1,
+    "name": "Body_Cream_Panel_0",
+    "material": "cream",
+    "rectangle": [
+      69,
+      470,
+      462,
+      167,
+      false
+    ],
+    "triangles": 14
+  },
+  {
+    "id": 2,
+    "name": "Body_Cream_Panel_1",
+    "material": "cream",
+    "rectangle": [
+      0,
+      1974,
+      468,
+      32,
+      false
+    ],
+    "triangles": 14
+  },
+  {
+    "id": 3,
+    "name": "Body_Cream_Panel_2",
+    "material": "cream",
+    "rectangle": [
+      614,
+      1762,
+      598,
+      106,
+      false
+    ],
+    "triangles": 14
+  },
+  {
+    "id": 4,
+    "name": "Body_Cream_Panel_3",
+    "material": "cream",
+    "rectangle": [
+      0,
+      1670,
+      622,
+      46,
+      false
+    ],
+    "triangles": 14
+  },
+  {
+    "id": 5,
+    "name": "Body_Cream_Panel_4",
+    "material": "cream",
+    "rectangle": [
+      0,
+      1762,
+      614,
+      192,
+      false
+    ],
+    "triangles": 14
+  },
+  {
+    "id": 6,
+    "name": "Body_Cream_Panel_5",
+    "material": "cream",
+    "rectangle": [
+      0,
+      1716,
+      622,
+      46,
+      false
+    ],
+    "triangles": 14
+  },
+  {
+    "id": 7,
+    "name": "Body_Cream_Panel_6",
+    "material": "cream",
+    "rectangle": [
+      614,
+      1868,
+      598,
+      106,
+      false
+    ],
+    "triangles": 14
+  },
+  {
+    "id": 8,
+    "name": "Body_Cream_Panel_7",
+    "material": "cream",
+    "rectangle": [
+      0,
+      2006,
+      468,
+      32,
+      false
+    ],
+    "triangles": 14
+  },
+  {
+    "id": 9,
+    "name": "Body_Rear",
+    "material": "cream",
+    "rectangle": [
+      495,
+      1370,
+      122,
+      225,
+      true
+    ],
+    "triangles": 6
+  },
+  {
+    "id": 10,
+    "name": "Body_Front",
+    "material": "cream",
+    "rectangle": [
+      69,
+      1370,
+      92,
+      292,
+      true
+    ],
+    "triangles": 6
+  },
+  {
+    "id": 11,
+    "name": "Seat_Saddle_unwrap",
+    "material": "seat",
+    "rectangle": [
+      69,
+      0,
+      478,
+      470,
+      true
+    ],
+    "triangles": 68
+  },
+  {
+    "id": 12,
+    "name": "Seat_Saddle_panel_31",
+    "material": "seat",
+    "rectangle": [
+      1631,
+      1376,
+      250,
+      219,
+      true
+    ],
+    "triangles": 8
+  },
+  {
+    "id": 13,
+    "name": "Chassis_Core_unwrap",
+    "material": "frame",
+    "rectangle": [
+      1645,
+      1010,
+      398,
+      366,
+      true
+    ],
+    "triangles": 44
+  },
+  {
+    "id": 14,
+    "name": "Engine_Block_unwrap",
+    "material": "bumper",
+    "rectangle": [
+      161,
+      1370,
+      268,
+      291,
+      false
+    ],
+    "triangles": 44
+  },
+  {
+    "id": 15,
+    "name": "Fender_Front_R_continuous",
+    "material": "teal",
+    "rectangle": [
+      1212,
+      392,
+      433,
+      294,
+      true
+    ],
+    "triangles": 112
+  },
+  {
+    "id": 16,
+    "name": "Fender_Front_R_end_0",
+    "material": "teal",
+    "rectangle": [
+      1823,
+      2005,
+      99,
+      41,
+      false
+    ],
+    "triangles": 6
+  },
+  {
+    "id": 17,
+    "name": "Fender_Front_R_end_7",
+    "material": "teal",
+    "rectangle": [
+      2000,
+      1849,
+      41,
+      99,
+      true
+    ],
+    "triangles": 6
+  },
+  {
+    "id": 18,
+    "name": "Fender_Rear_R_continuous",
+    "material": "teal",
+    "rectangle": [
+      1645,
+      577,
+      294,
+      433,
+      false
+    ],
+    "triangles": 112
+  },
+  {
+    "id": 19,
+    "name": "Fender_Rear_R_end_0",
+    "material": "teal",
+    "rectangle": [
+      1922,
+      1948,
+      41,
+      99,
+      true
+    ],
+    "triangles": 6
+  },
+  {
+    "id": 20,
+    "name": "Fender_Rear_R_end_7",
+    "material": "teal",
+    "rectangle": [
+      1963,
+      1948,
+      41,
+      99,
+      true
+    ],
+    "triangles": 6
+  },
+  {
+    "id": 21,
+    "name": "Footwell_R_unwrap",
+    "material": "bumper",
+    "rectangle": [
+      987,
+      1376,
+      241,
+      324,
+      false
+    ],
+    "triangles": 44
+  },
+  {
+    "id": 22,
+    "name": "Footwell_Outer_R_unwrap",
+    "material": "frame",
+    "rectangle": [
+      1594,
+      1743,
+      170,
+      146,
+      true
+    ],
+    "triangles": 44
+  },
+  {
+    "id": 23,
+    "name": "Rear_Cream_Tip_R_unwrap",
+    "material": "cream",
+    "rectangle": [
+      1645,
+      392,
+      148,
+      183,
+      false
+    ],
+    "triangles": 44
+  },
+  {
+    "id": 24,
+    "name": "Fender_Front_L_continuous",
+    "material": "teal",
+    "rectangle": [
+      1212,
+      686,
+      433,
+      294,
+      true
+    ],
+    "triangles": 112
+  },
+  {
+    "id": 25,
+    "name": "Fender_Front_L_end_0",
+    "material": "teal",
+    "rectangle": [
+      2004,
+      1948,
+      41,
+      99,
+      true
+    ],
+    "triangles": 6
+  },
+  {
+    "id": 26,
+    "name": "Fender_Front_L_end_7",
+    "material": "teal",
+    "rectangle": [
+      1453,
+      1835,
+      99,
+      41,
+      false
+    ],
+    "triangles": 6
+  },
+  {
+    "id": 27,
+    "name": "Fender_Rear_L_continuous",
+    "material": "teal",
+    "rectangle": [
+      1212,
+      980,
+      433,
+      294,
+      true
+    ],
+    "triangles": 112
+  },
+  {
+    "id": 28,
+    "name": "Fender_Rear_L_end_0",
+    "material": "teal",
+    "rectangle": [
+      321,
+      1274,
+      99,
+      41,
+      false
+    ],
+    "triangles": 6
+  },
+  {
+    "id": 29,
+    "name": "Fender_Rear_L_end_7",
+    "material": "teal",
+    "rectangle": [
+      420,
+      1274,
+      99,
+      41,
+      false
+    ],
+    "triangles": 6
+  },
+  {
+    "id": 30,
+    "name": "Footwell_L_unwrap",
+    "material": "bumper",
+    "rectangle": [
+      1212,
+      1700,
+      241,
+      324,
+      false
+    ],
+    "triangles": 44
+  },
+  {
+    "id": 31,
+    "name": "Footwell_Outer_L_unwrap",
+    "material": "frame",
+    "rectangle": [
+      1453,
+      1889,
+      170,
+      146,
+      true
+    ],
+    "triangles": 44
+  },
+  {
+    "id": 32,
+    "name": "Rear_Cream_Tip_L_unwrap",
+    "material": "cream",
+    "rectangle": [
+      1631,
+      1595,
+      183,
+      148,
+      true
+    ],
+    "triangles": 44
+  },
+  {
+    "id": 33,
+    "name": "Wheel_FL_Rubber_shell",
+    "material": "rubber",
+    "rectangle": [
+      622,
+      0,
+      577,
+      166,
+      false
+    ],
+    "triangles": 280
+  },
+  {
+    "id": 34,
+    "name": "Wheel_FL_Rim_-1_shell",
+    "material": "rim",
+    "rectangle": [
+      869,
+      1729,
+      304,
+      32,
+      false
+    ],
+    "triangles": 128
+  },
+  {
+    "id": 35,
+    "name": "Wheel_FL_Well_-1_face",
+    "material": "frame",
+    "rectangle": [
+      1065,
+      910,
+      73,
+      73,
+      false
+    ],
+    "triangles": 16
+  },
+  {
+    "id": 36,
+    "name": "Wheel_FL_Hub_-1_face",
+    "material": "orange",
+    "rectangle": [
+      1552,
+      1835,
+      40,
+      40,
+      false
+    ],
+    "triangles": 12
+  },
+  {
+    "id": 37,
+    "name": "Wheel_FL_Rim_1_shell",
+    "material": "rim",
+    "rectangle": [
+      1228,
+      1376,
+      32,
+      304,
+      true
+    ],
+    "triangles": 128
+  },
+  {
+    "id": 38,
+    "name": "Wheel_FL_Well_1_face",
+    "material": "frame",
+    "rectangle": [
+      1138,
+      910,
+      73,
+      73,
+      false
+    ],
+    "triangles": 16
+  },
+  {
+    "id": 39,
+    "name": "Wheel_FL_Hub_1_face",
+    "material": "orange",
+    "rectangle": [
+      1126,
+      1135,
+      40,
+      40,
+      false
+    ],
+    "triangles": 12
+  },
+  {
+    "id": 40,
+    "name": "Wheel_FL_Lug_-1_00_unwrap",
+    "material": "tread",
+    "rectangle": [
+      69,
+      777,
+      98,
+      84,
+      true
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 41,
+    "name": "Wheel_FL_Lug_-1_01_unwrap",
+    "material": "tread",
+    "rectangle": [
+      69,
+      861,
+      98,
+      84,
+      true
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 42,
+    "name": "Wheel_FL_Lug_-1_02_unwrap",
+    "material": "tread",
+    "rectangle": [
+      69,
+      945,
+      84,
+      98,
+      false
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 43,
+    "name": "Wheel_FL_Lug_-1_03_unwrap",
+    "material": "tread",
+    "rectangle": [
+      69,
+      1043,
+      84,
+      98,
+      false
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 44,
+    "name": "Wheel_FL_Lug_-1_04_unwrap",
+    "material": "tread",
+    "rectangle": [
+      69,
+      1141,
+      84,
+      98,
+      false
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 45,
+    "name": "Wheel_FL_Lug_-1_05_unwrap",
+    "material": "tread",
+    "rectangle": [
+      153,
+      945,
+      84,
+      98,
+      false
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 46,
+    "name": "Wheel_FL_Lug_-1_06_unwrap",
+    "material": "tread",
+    "rectangle": [
+      153,
+      1043,
+      84,
+      98,
+      false
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 47,
+    "name": "Wheel_FL_Lug_-1_07_unwrap",
+    "material": "tread",
+    "rectangle": [
+      153,
+      1141,
+      84,
+      98,
+      false
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 48,
+    "name": "Wheel_FL_Lug_-1_08_unwrap",
+    "material": "tread",
+    "rectangle": [
+      237,
+      887,
+      84,
+      98,
+      false
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 49,
+    "name": "Wheel_FL_Lug_1_00_unwrap",
+    "material": "tread",
+    "rectangle": [
+      693,
+      750,
+      81,
+      96,
+      false
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 50,
+    "name": "Wheel_FL_Lug_1_01_unwrap",
+    "material": "tread",
+    "rectangle": [
+      696,
+      596,
+      81,
+      96,
+      false
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 51,
+    "name": "Wheel_FL_Lug_1_02_unwrap",
+    "material": "tread",
+    "rectangle": [
+      703,
+      498,
+      81,
+      96,
+      false
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 52,
+    "name": "Wheel_FL_Lug_1_03_unwrap",
+    "material": "tread",
+    "rectangle": [
+      657,
+      946,
+      81,
+      96,
+      false
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 53,
+    "name": "Wheel_FL_Lug_1_04_unwrap",
+    "material": "tread",
+    "rectangle": [
+      657,
+      1042,
+      81,
+      96,
+      false
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 54,
+    "name": "Wheel_FL_Lug_1_05_unwrap",
+    "material": "tread",
+    "rectangle": [
+      671,
+      1138,
+      81,
+      96,
+      false
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 55,
+    "name": "Wheel_FL_Lug_1_06_unwrap",
+    "material": "tread",
+    "rectangle": [
+      671,
+      1234,
+      81,
+      96,
+      false
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 56,
+    "name": "Wheel_FL_Lug_1_07_unwrap",
+    "material": "tread",
+    "rectangle": [
+      738,
+      946,
+      81,
+      96,
+      false
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 57,
+    "name": "Wheel_FL_Lug_1_08_unwrap",
+    "material": "tread",
+    "rectangle": [
+      738,
+      1042,
+      81,
+      96,
+      false
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 58,
+    "name": "Wheel_FR_Rubber_shell",
+    "material": "rubber",
+    "rectangle": [
+      622,
+      166,
+      577,
+      166,
+      false
+    ],
+    "triangles": 280
+  },
+  {
+    "id": 59,
+    "name": "Wheel_FR_Rim_-1_shell",
+    "material": "rim",
+    "rectangle": [
+      1260,
+      1376,
+      32,
+      304,
+      true
+    ],
+    "triangles": 128
+  },
+  {
+    "id": 60,
+    "name": "Wheel_FR_Well_-1_face",
+    "material": "frame",
+    "rectangle": [
+      914,
+      1120,
+      73,
+      73,
+      false
+    ],
+    "triangles": 16
+  },
+  {
+    "id": 61,
+    "name": "Wheel_FR_Hub_-1_face",
+    "material": "orange",
+    "rectangle": [
+      1166,
+      1135,
+      40,
+      40,
+      false
+    ],
+    "triangles": 12
+  },
+  {
+    "id": 62,
+    "name": "Wheel_FR_Rim_1_shell",
+    "material": "rim",
+    "rectangle": [
+      1292,
+      1376,
+      32,
+      304,
+      true
+    ],
+    "triangles": 128
+  },
+  {
+    "id": 63,
+    "name": "Wheel_FR_Well_1_face",
+    "material": "frame",
+    "rectangle": [
+      914,
+      1193,
+      73,
+      73,
+      false
+    ],
+    "triangles": 16
+  },
+  {
+    "id": 64,
+    "name": "Wheel_FR_Hub_1_face",
+    "material": "orange",
+    "rectangle": [
+      1060,
+      1154,
+      40,
+      40,
+      false
+    ],
+    "triangles": 12
+  },
+  {
+    "id": 65,
+    "name": "Wheel_FR_Lug_-1_00_unwrap",
+    "material": "tread",
+    "rectangle": [
+      311,
+      796,
+      98,
+      84,
+      true
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 66,
+    "name": "Wheel_FR_Lug_-1_01_unwrap",
+    "material": "tread",
+    "rectangle": [
+      237,
+      985,
+      84,
+      98,
+      false
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 67,
+    "name": "Wheel_FR_Lug_-1_02_unwrap",
+    "material": "tread",
+    "rectangle": [
+      237,
+      1083,
+      84,
+      98,
+      false
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 68,
+    "name": "Wheel_FR_Lug_-1_03_unwrap",
+    "material": "tread",
+    "rectangle": [
+      237,
+      1181,
+      98,
+      84,
+      true
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 69,
+    "name": "Wheel_FR_Lug_-1_04_unwrap",
+    "material": "tread",
+    "rectangle": [
+      321,
+      880,
+      84,
+      98,
+      false
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 70,
+    "name": "Wheel_FR_Lug_-1_05_unwrap",
+    "material": "tread",
+    "rectangle": [
+      321,
+      978,
+      84,
+      98,
+      false
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 71,
+    "name": "Wheel_FR_Lug_-1_06_unwrap",
+    "material": "tread",
+    "rectangle": [
+      321,
+      1076,
+      84,
+      98,
+      false
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 72,
+    "name": "Wheel_FR_Lug_-1_07_unwrap",
+    "material": "tread",
+    "rectangle": [
+      335,
+      1174,
+      84,
+      98,
+      false
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 73,
+    "name": "Wheel_FR_Lug_-1_08_unwrap",
+    "material": "tread",
+    "rectangle": [
+      405,
+      880,
+      84,
+      98,
+      false
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 74,
+    "name": "Wheel_FR_Lug_1_00_unwrap",
+    "material": "tread",
+    "rectangle": [
+      741,
+      846,
+      81,
+      96,
+      false
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 75,
+    "name": "Wheel_FR_Lug_1_01_unwrap",
+    "material": "tread",
+    "rectangle": [
+      774,
+      692,
+      81,
+      96,
+      false
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 76,
+    "name": "Wheel_FR_Lug_1_02_unwrap",
+    "material": "tread",
+    "rectangle": [
+      777,
+      594,
+      81,
+      96,
+      false
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 77,
+    "name": "Wheel_FR_Lug_1_03_unwrap",
+    "material": "tread",
+    "rectangle": [
+      784,
+      498,
+      81,
+      96,
+      false
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 78,
+    "name": "Wheel_FR_Lug_1_04_unwrap",
+    "material": "tread",
+    "rectangle": [
+      752,
+      1138,
+      81,
+      96,
+      false
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 79,
+    "name": "Wheel_FR_Lug_1_05_unwrap",
+    "material": "tread",
+    "rectangle": [
+      752,
+      1234,
+      81,
+      96,
+      false
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 80,
+    "name": "Wheel_FR_Lug_1_06_unwrap",
+    "material": "tread",
+    "rectangle": [
+      819,
+      942,
+      81,
+      96,
+      false
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 81,
+    "name": "Wheel_FR_Lug_1_07_unwrap",
+    "material": "tread",
+    "rectangle": [
+      819,
+      1038,
+      81,
+      96,
+      false
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 82,
+    "name": "Wheel_FR_Lug_1_08_unwrap",
+    "material": "tread",
+    "rectangle": [
+      822,
+      788,
+      81,
+      96,
+      false
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 83,
+    "name": "Wheel_RL_Rubber_shell",
+    "material": "rubber",
+    "rectangle": [
+      622,
+      332,
+      577,
+      166,
+      false
+    ],
+    "triangles": 280
+  },
+  {
+    "id": 84,
+    "name": "Wheel_RL_Rim_-1_shell",
+    "material": "rim",
+    "rectangle": [
+      1324,
+      1274,
+      304,
+      32,
+      false
+    ],
+    "triangles": 128
+  },
+  {
+    "id": 85,
+    "name": "Wheel_RL_Well_-1_face",
+    "material": "frame",
+    "rectangle": [
+      987,
+      1120,
+      73,
+      73,
+      false
+    ],
+    "triangles": 16
+  },
+  {
+    "id": 86,
+    "name": "Wheel_RL_Hub_-1_face",
+    "material": "orange",
+    "rectangle": [
+      1060,
+      1194,
+      40,
+      40,
+      false
+    ],
+    "triangles": 12
+  },
+  {
+    "id": 87,
+    "name": "Wheel_RL_Rim_1_shell",
+    "material": "rim",
+    "rectangle": [
+      1324,
+      1306,
+      304,
+      32,
+      false
+    ],
+    "triangles": 128
+  },
+  {
+    "id": 88,
+    "name": "Wheel_RL_Well_1_face",
+    "material": "frame",
+    "rectangle": [
+      987,
+      1193,
+      73,
+      73,
+      false
+    ],
+    "triangles": 16
+  },
+  {
+    "id": 89,
+    "name": "Wheel_RL_Hub_1_face",
+    "material": "orange",
+    "rectangle": [
+      1060,
+      1234,
+      40,
+      40,
+      false
+    ],
+    "triangles": 12
+  },
+  {
+    "id": 90,
+    "name": "Wheel_RL_Lug_-1_00_unwrap",
+    "material": "tread",
+    "rectangle": [
+      409,
+      796,
+      98,
+      84,
+      true
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 91,
+    "name": "Wheel_RL_Lug_-1_01_unwrap",
+    "material": "tread",
+    "rectangle": [
+      405,
+      978,
+      84,
+      98,
+      false
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 92,
+    "name": "Wheel_RL_Lug_-1_02_unwrap",
+    "material": "tread",
+    "rectangle": [
+      405,
+      1076,
+      84,
+      98,
+      false
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 93,
+    "name": "Wheel_RL_Lug_-1_03_unwrap",
+    "material": "tread",
+    "rectangle": [
+      419,
+      1174,
+      84,
+      98,
+      false
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 94,
+    "name": "Wheel_RL_Lug_-1_04_unwrap",
+    "material": "tread",
+    "rectangle": [
+      489,
+      880,
+      84,
+      98,
+      false
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 95,
+    "name": "Wheel_RL_Lug_-1_05_unwrap",
+    "material": "tread",
+    "rectangle": [
+      507,
+      769,
+      84,
+      98,
+      false
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 96,
+    "name": "Wheel_RL_Lug_-1_06_unwrap",
+    "material": "tread",
+    "rectangle": [
+      528,
+      652,
+      84,
+      98,
+      false
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 97,
+    "name": "Wheel_RL_Lug_-1_07_unwrap",
+    "material": "tread",
+    "rectangle": [
+      489,
+      978,
+      84,
+      98,
+      false
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 98,
+    "name": "Wheel_RL_Lug_-1_08_unwrap",
+    "material": "tread",
+    "rectangle": [
+      489,
+      1076,
+      84,
+      98,
+      false
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 99,
+    "name": "Wheel_RL_Lug_1_00_unwrap",
+    "material": "tread",
+    "rectangle": [
+      855,
+      690,
+      81,
+      96,
+      false
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 100,
+    "name": "Wheel_RL_Lug_1_01_unwrap",
+    "material": "tread",
+    "rectangle": [
+      858,
+      594,
+      81,
+      96,
+      false
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 101,
+    "name": "Wheel_RL_Lug_1_02_unwrap",
+    "material": "tread",
+    "rectangle": [
+      865,
+      498,
+      81,
+      96,
+      false
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 102,
+    "name": "Wheel_RL_Lug_1_03_unwrap",
+    "material": "tread",
+    "rectangle": [
+      833,
+      1134,
+      81,
+      96,
+      false
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 103,
+    "name": "Wheel_RL_Lug_1_04_unwrap",
+    "material": "tread",
+    "rectangle": [
+      833,
+      1230,
+      81,
+      96,
+      false
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 104,
+    "name": "Wheel_RL_Lug_1_05_unwrap",
+    "material": "tread",
+    "rectangle": [
+      900,
+      884,
+      81,
+      96,
+      false
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 105,
+    "name": "Wheel_RL_Lug_1_06_unwrap",
+    "material": "tread",
+    "rectangle": [
+      903,
+      786,
+      81,
+      96,
+      false
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 106,
+    "name": "Wheel_RL_Lug_1_07_unwrap",
+    "material": "tread",
+    "rectangle": [
+      936,
+      690,
+      81,
+      96,
+      false
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 107,
+    "name": "Wheel_RL_Lug_1_08_unwrap",
+    "material": "tread",
+    "rectangle": [
+      939,
+      594,
+      81,
+      96,
+      false
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 108,
+    "name": "Wheel_RR_Rubber_shell",
+    "material": "rubber",
+    "rectangle": [
+      1807,
+      0,
+      166,
+      577,
+      true
+    ],
+    "triangles": 280
+  },
+  {
+    "id": 109,
+    "name": "Wheel_RR_Rim_-1_shell",
+    "material": "rim",
+    "rectangle": [
+      69,
+      1338,
+      304,
+      32,
+      false
+    ],
+    "triangles": 128
+  },
+  {
+    "id": 110,
+    "name": "Wheel_RR_Well_-1_face",
+    "material": "frame",
+    "rectangle": [
+      991,
+      1021,
+      73,
+      73,
+      false
+    ],
+    "triangles": 16
+  },
+  {
+    "id": 111,
+    "name": "Wheel_RR_Hub_-1_face",
+    "material": "orange",
+    "rectangle": [
+      1100,
+      1175,
+      40,
+      40,
+      false
+    ],
+    "triangles": 12
+  },
+  {
+    "id": 112,
+    "name": "Wheel_RR_Rim_1_shell",
+    "material": "rim",
+    "rectangle": [
+      373,
+      1338,
+      304,
+      32,
+      false
+    ],
+    "triangles": 128
+  },
+  {
+    "id": 113,
+    "name": "Wheel_RR_Well_1_face",
+    "material": "frame",
+    "rectangle": [
+      1064,
+      983,
+      73,
+      73,
+      false
+    ],
+    "triangles": 16
+  },
+  {
+    "id": 114,
+    "name": "Wheel_RR_Hub_1_face",
+    "material": "orange",
+    "rectangle": [
+      1100,
+      1215,
+      40,
+      40,
+      false
+    ],
+    "triangles": 12
+  },
+  {
+    "id": 115,
+    "name": "Wheel_RR_Lug_-1_00_unwrap",
+    "material": "tread",
+    "rectangle": [
+      503,
+      1174,
+      84,
+      98,
+      false
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 116,
+    "name": "Wheel_RR_Lug_-1_01_unwrap",
+    "material": "tread",
+    "rectangle": [
+      573,
+      867,
+      84,
+      98,
+      false
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 117,
+    "name": "Wheel_RR_Lug_-1_02_unwrap",
+    "material": "tread",
+    "rectangle": [
+      591,
+      750,
+      84,
+      98,
+      false
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 118,
+    "name": "Wheel_RR_Lug_-1_03_unwrap",
+    "material": "tread",
+    "rectangle": [
+      612,
+      652,
+      84,
+      98,
+      false
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 119,
+    "name": "Wheel_RR_Lug_-1_04_unwrap",
+    "material": "tread",
+    "rectangle": [
+      619,
+      498,
+      84,
+      98,
+      false
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 120,
+    "name": "Wheel_RR_Lug_-1_05_unwrap",
+    "material": "tread",
+    "rectangle": [
+      573,
+      965,
+      84,
+      98,
+      false
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 121,
+    "name": "Wheel_RR_Lug_-1_06_unwrap",
+    "material": "tread",
+    "rectangle": [
+      573,
+      1063,
+      84,
+      98,
+      false
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 122,
+    "name": "Wheel_RR_Lug_-1_07_unwrap",
+    "material": "tread",
+    "rectangle": [
+      587,
+      1161,
+      84,
+      98,
+      false
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 123,
+    "name": "Wheel_RR_Lug_-1_08_unwrap",
+    "material": "tread",
+    "rectangle": [
+      657,
+      848,
+      84,
+      98,
+      false
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 124,
+    "name": "Wheel_RR_Lug_1_00_unwrap",
+    "material": "tread",
+    "rectangle": [
+      946,
+      498,
+      81,
+      96,
+      false
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 125,
+    "name": "Wheel_RR_Lug_1_01_unwrap",
+    "material": "tread",
+    "rectangle": [
+      900,
+      980,
+      81,
+      96,
+      false
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 126,
+    "name": "Wheel_RR_Lug_1_02_unwrap",
+    "material": "tread",
+    "rectangle": [
+      1027,
+      498,
+      96,
+      81,
+      true
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 127,
+    "name": "Wheel_RR_Lug_1_03_unwrap",
+    "material": "tread",
+    "rectangle": [
+      1123,
+      498,
+      81,
+      96,
+      false
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 128,
+    "name": "Wheel_RR_Lug_1_04_unwrap",
+    "material": "tread",
+    "rectangle": [
+      1027,
+      579,
+      96,
+      81,
+      true
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 129,
+    "name": "Wheel_RR_Lug_1_05_unwrap",
+    "material": "tread",
+    "rectangle": [
+      1123,
+      594,
+      81,
+      96,
+      false
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 130,
+    "name": "Wheel_RR_Lug_1_06_unwrap",
+    "material": "tread",
+    "rectangle": [
+      1020,
+      660,
+      96,
+      81,
+      true
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 131,
+    "name": "Wheel_RR_Lug_1_07_unwrap",
+    "material": "tread",
+    "rectangle": [
+      1116,
+      690,
+      96,
+      81,
+      true
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 132,
+    "name": "Wheel_RR_Lug_1_08_unwrap",
+    "material": "tread",
+    "rectangle": [
+      1017,
+      741,
+      96,
+      81,
+      true
+    ],
+    "triangles": 20
+  },
+  {
+    "id": 133,
+    "name": "Front_Axle_tube",
+    "material": "frame",
+    "rectangle": [
+      764,
+      1974,
+      251,
+      74,
+      true
+    ],
+    "triangles": 16
+  },
+  {
+    "id": 134,
+    "name": "Front_Axle_cap_0",
+    "material": "frame",
+    "rectangle": [
+      1180,
+      1175,
+      31,
+      31,
+      false
+    ],
+    "triangles": 6
+  },
+  {
+    "id": 135,
+    "name": "Front_Axle_cap_1",
+    "material": "frame",
+    "rectangle": [
+      1180,
+      1206,
+      31,
+      31,
+      false
+    ],
+    "triangles": 6
+  },
+  {
+    "id": 136,
+    "name": "Front_Diff_unwrap",
+    "material": "bumper",
+    "rectangle": [
+      1623,
+      1889,
+      165,
+      140,
+      true
+    ],
+    "triangles": 44
+  },
+  {
+    "id": 137,
+    "name": "Front_Wishbone_R-0.16_tube",
+    "material": "frame",
+    "rectangle": [
+      1005,
+      1274,
+      90,
+      49,
+      true
+    ],
+    "triangles": 12
+  },
+  {
+    "id": 138,
+    "name": "Front_Wishbone_R-0.16_cap_0",
+    "material": "frame",
+    "rectangle": [
+      321,
+      1315,
+      23,
+      23,
+      false
+    ],
+    "triangles": 4
+  },
+  {
+    "id": 139,
+    "name": "Front_Wishbone_R-0.16_cap_1",
+    "material": "frame",
+    "rectangle": [
+      344,
+      1315,
+      23,
+      23,
+      false
+    ],
+    "triangles": 4
+  },
+  {
+    "id": 140,
+    "name": "Front_Wishbone_R0.16_tube",
+    "material": "frame",
+    "rectangle": [
+      1095,
+      1274,
+      90,
+      49,
+      true
+    ],
+    "triangles": 12
+  },
+  {
+    "id": 141,
+    "name": "Front_Wishbone_R0.16_cap_0",
+    "material": "frame",
+    "rectangle": [
+      367,
+      1315,
+      23,
+      23,
+      false
+    ],
+    "triangles": 4
+  },
+  {
+    "id": 142,
+    "name": "Front_Wishbone_R0.16_cap_1",
+    "material": "frame",
+    "rectangle": [
+      390,
+      1315,
+      23,
+      23,
+      false
+    ],
+    "triangles": 4
+  },
+  {
+    "id": 143,
+    "name": "Front_Shock_R_tube",
+    "material": "steel",
+    "rectangle": [
+      1113,
+      771,
+      91,
+      44,
+      true
+    ],
+    "triangles": 16
+  },
+  {
+    "id": 144,
+    "name": "Front_Shock_R_cap_0",
+    "material": "steel",
+    "rectangle": [
+      1278,
+      2024,
+      22,
+      22,
+      false
+    ],
+    "triangles": 6
+  },
+  {
+    "id": 145,
+    "name": "Front_Shock_R_cap_1",
+    "material": "steel",
+    "rectangle": [
+      1300,
+      2024,
+      22,
+      22,
+      false
+    ],
+    "triangles": 6
+  },
+  {
+    "id": 146,
+    "name": "Front_Spring_R_tube",
+    "material": "orange",
+    "rectangle": [
+      677,
+      1338,
+      271,
+      33,
+      true
+    ],
+    "triangles": 240
+  },
+  {
+    "id": 147,
+    "name": "Front_Spring_R_cap_0",
+    "material": "orange",
+    "rectangle": [
+      572,
+      750,
+      18,
+      18,
+      false
+    ],
+    "triangles": 3
+  },
+  {
+    "id": 148,
+    "name": "Front_Spring_R_cap_24",
+    "material": "orange",
+    "rectangle": [
+      1100,
+      1255,
+      18,
+      18,
+      false
+    ],
+    "triangles": 3
+  },
+  {
+    "id": 149,
+    "name": "Front_Wishbone_L-0.16_tube",
+    "material": "frame",
+    "rectangle": [
+      519,
+      1272,
+      90,
+      49,
+      true
+    ],
+    "triangles": 12
+  },
+  {
+    "id": 150,
+    "name": "Front_Wishbone_L-0.16_cap_0",
+    "material": "frame",
+    "rectangle": [
+      413,
+      1315,
+      23,
+      23,
+      false
+    ],
+    "triangles": 4
+  },
+  {
+    "id": 151,
+    "name": "Front_Wishbone_L-0.16_cap_1",
+    "material": "frame",
+    "rectangle": [
+      436,
+      1315,
+      23,
+      23,
+      false
+    ],
+    "triangles": 4
+  },
+  {
+    "id": 152,
+    "name": "Front_Wishbone_L0.16_tube",
+    "material": "frame",
+    "rectangle": [
+      167,
+      777,
+      49,
+      90,
+      false
+    ],
+    "triangles": 12
+  },
+  {
+    "id": 153,
+    "name": "Front_Wishbone_L0.16_cap_0",
+    "material": "frame",
+    "rectangle": [
+      459,
+      1315,
+      23,
+      23,
+      false
+    ],
+    "triangles": 4
+  },
+  {
+    "id": 154,
+    "name": "Front_Wishbone_L0.16_cap_1",
+    "material": "frame",
+    "rectangle": [
+      482,
+      1315,
+      23,
+      23,
+      false
+    ],
+    "triangles": 4
+  },
+  {
+    "id": 155,
+    "name": "Front_Shock_L_tube",
+    "material": "steel",
+    "rectangle": [
+      1113,
+      815,
+      91,
+      44,
+      true
+    ],
+    "triangles": 16
+  },
+  {
+    "id": 156,
+    "name": "Front_Shock_L_cap_0",
+    "material": "steel",
+    "rectangle": [
+      1322,
+      2024,
+      22,
+      22,
+      false
+    ],
+    "triangles": 6
+  },
+  {
+    "id": 157,
+    "name": "Front_Shock_L_cap_1",
+    "material": "steel",
+    "rectangle": [
+      1344,
+      2024,
+      22,
+      22,
+      false
+    ],
+    "triangles": 6
+  },
+  {
+    "id": 158,
+    "name": "Front_Spring_L_tube",
+    "material": "orange",
+    "rectangle": [
+      948,
+      1338,
+      271,
+      33,
+      true
+    ],
+    "triangles": 240
+  },
+  {
+    "id": 159,
+    "name": "Front_Spring_L_cap_0",
+    "material": "orange",
+    "rectangle": [
+      1118,
+      1255,
+      18,
+      18,
+      false
+    ],
+    "triangles": 3
+  },
+  {
+    "id": 160,
+    "name": "Front_Spring_L_cap_24",
+    "material": "orange",
+    "rectangle": [
+      1136,
+      1255,
+      18,
+      18,
+      false
+    ],
+    "triangles": 3
+  },
+  {
+    "id": 161,
+    "name": "Rear_Axle_tube",
+    "material": "frame",
+    "rectangle": [
+      1973,
+      0,
+      74,
+      251,
+      false
+    ],
+    "triangles": 16
+  },
+  {
+    "id": 162,
+    "name": "Rear_Axle_cap_0",
+    "material": "frame",
+    "rectangle": [
+      1180,
+      1237,
+      31,
+      31,
+      false
+    ],
+    "triangles": 6
+  },
+  {
+    "id": 163,
+    "name": "Rear_Axle_cap_1",
+    "material": "frame",
+    "rectangle": [
+      1420,
+      1565,
+      31,
+      31,
+      false
+    ],
+    "triangles": 6
+  },
+  {
+    "id": 164,
+    "name": "Rear_Diff_unwrap",
+    "material": "bumper",
+    "rectangle": [
+      69,
+      637,
+      165,
+      140,
+      true
+    ],
+    "triangles": 44
+  },
+  {
+    "id": 165,
+    "name": "Rear_Wishbone_R-0.16_tube",
+    "material": "frame",
+    "rectangle": [
+      1973,
+      351,
+      49,
+      90,
+      false
+    ],
+    "triangles": 12
+  },
+  {
+    "id": 166,
+    "name": "Rear_Wishbone_R-0.16_cap_0",
+    "material": "frame",
+    "rectangle": [
+      1788,
+      2005,
+      23,
+      23,
+      false
+    ],
+    "triangles": 4
+  },
+  {
+    "id": 167,
+    "name": "Rear_Wishbone_R-0.16_cap_1",
+    "material": "frame",
+    "rectangle": [
+      598,
+      352,
+      23,
+      23,
+      false
+    ],
+    "triangles": 4
+  },
+  {
+    "id": 168,
+    "name": "Rear_Wishbone_R0.16_tube",
+    "material": "frame",
+    "rectangle": [
+      1973,
+      441,
+      49,
+      90,
+      false
+    ],
+    "triangles": 12
+  },
+  {
+    "id": 169,
+    "name": "Rear_Wishbone_R0.16_cap_0",
+    "material": "frame",
+    "rectangle": [
+      598,
+      375,
+      23,
+      23,
+      false
+    ],
+    "triangles": 4
+  },
+  {
+    "id": 170,
+    "name": "Rear_Wishbone_R0.16_cap_1",
+    "material": "frame",
+    "rectangle": [
+      598,
+      398,
+      23,
+      23,
+      false
+    ],
+    "triangles": 4
+  },
+  {
+    "id": 171,
+    "name": "Rear_Shock_R_tube",
+    "material": "steel",
+    "rectangle": [
+      900,
+      1076,
+      91,
+      44,
+      true
+    ],
+    "triangles": 16
+  },
+  {
+    "id": 172,
+    "name": "Rear_Shock_R_cap_0",
+    "material": "steel",
+    "rectangle": [
+      1366,
+      2024,
+      22,
+      22,
+      false
+    ],
+    "triangles": 6
+  },
+  {
+    "id": 173,
+    "name": "Rear_Shock_R_cap_1",
+    "material": "steel",
+    "rectangle": [
+      1388,
+      2024,
+      22,
+      22,
+      false
+    ],
+    "triangles": 6
+  },
+  {
+    "id": 174,
+    "name": "Rear_Spring_R_tube",
+    "material": "orange",
+    "rectangle": [
+      429,
+      1370,
+      33,
+      271,
+      false
+    ],
+    "triangles": 240
+  },
+  {
+    "id": 175,
+    "name": "Rear_Spring_R_cap_0",
+    "material": "orange",
+    "rectangle": [
+      1154,
+      1255,
+      18,
+      18,
+      false
+    ],
+    "triangles": 3
+  },
+  {
+    "id": 176,
+    "name": "Rear_Spring_R_cap_24",
+    "material": "orange",
+    "rectangle": [
+      1140,
+      2028,
+      18,
+      18,
+      false
+    ],
+    "triangles": 3
+  },
+  {
+    "id": 177,
+    "name": "Rear_Wishbone_L-0.16_tube",
+    "material": "frame",
+    "rectangle": [
+      547,
+      0,
+      49,
+      90,
+      false
+    ],
+    "triangles": 12
+  },
+  {
+    "id": 178,
+    "name": "Rear_Wishbone_L-0.16_cap_0",
+    "material": "frame",
+    "rectangle": [
+      598,
+      421,
+      23,
+      23,
+      false
+    ],
+    "triangles": 4
+  },
+  {
+    "id": 179,
+    "name": "Rear_Wishbone_L-0.16_cap_1",
+    "material": "frame",
+    "rectangle": [
+      1209,
+      2024,
+      23,
+      23,
+      false
+    ],
+    "triangles": 4
+  },
+  {
+    "id": 180,
+    "name": "Rear_Wishbone_L0.16_tube",
+    "material": "frame",
+    "rectangle": [
+      547,
+      90,
+      49,
+      90,
+      false
+    ],
+    "triangles": 12
+  },
+  {
+    "id": 181,
+    "name": "Rear_Wishbone_L0.16_cap_0",
+    "material": "frame",
+    "rectangle": [
+      1232,
+      2024,
+      23,
+      23,
+      false
+    ],
+    "triangles": 4
+  },
+  {
+    "id": 182,
+    "name": "Rear_Wishbone_L0.16_cap_1",
+    "material": "frame",
+    "rectangle": [
+      1255,
+      2024,
+      23,
+      23,
+      false
+    ],
+    "triangles": 4
+  },
+  {
+    "id": 183,
+    "name": "Rear_Shock_L_tube",
+    "material": "steel",
+    "rectangle": [
+      914,
+      1274,
+      91,
+      44,
+      true
+    ],
+    "triangles": 16
+  },
+  {
+    "id": 184,
+    "name": "Rear_Shock_L_cap_0",
+    "material": "steel",
+    "rectangle": [
+      1410,
+      2024,
+      22,
+      22,
+      false
+    ],
+    "triangles": 6
+  },
+  {
+    "id": 185,
+    "name": "Rear_Shock_L_cap_1",
+    "material": "steel",
+    "rectangle": [
+      991,
+      1094,
+      22,
+      22,
+      false
+    ],
+    "triangles": 6
+  },
+  {
+    "id": 186,
+    "name": "Rear_Spring_L_tube",
+    "material": "orange",
+    "rectangle": [
+      462,
+      1370,
+      33,
+      271,
+      false
+    ],
+    "triangles": 240
+  },
+  {
+    "id": 187,
+    "name": "Rear_Spring_L_cap_0",
+    "material": "orange",
+    "rectangle": [
+      1158,
+      2028,
+      18,
+      18,
+      false
+    ],
+    "triangles": 3
+  },
+  {
+    "id": 188,
+    "name": "Rear_Spring_L_cap_24",
+    "material": "orange",
+    "rectangle": [
+      1176,
+      2028,
+      18,
+      18,
+      false
+    ],
+    "triangles": 3
+  },
+  {
+    "id": 189,
+    "name": "Front_Cream_Fascia_unwrap",
+    "material": "cream",
+    "rectangle": [
+      1212,
+      0,
+      595,
+      392,
+      true
+    ],
+    "triangles": 44
+  },
+  {
+    "id": 190,
+    "name": "Headlight_R_Bezel_shell",
+    "material": "rim",
+    "rectangle": [
+      69,
+      1274,
+      252,
+      28,
+      false
+    ],
+    "triangles": 144
+  },
+  {
+    "id": 191,
+    "name": "Headlight_R_Gasket_shell",
+    "material": "grille",
+    "rectangle": [
+      0,
+      1954,
+      189,
+      18,
+      false
+    ],
+    "triangles": 96
+  },
+  {
+    "id": 192,
+    "name": "Headlight_R_Lens_face",
+    "material": "lamp",
+    "rectangle": [
+      991,
+      873,
+      74,
+      74,
+      false
+    ],
+    "triangles": 72
+  },
+  {
+    "id": 193,
+    "name": "Front_Indicator_R_unwrap",
+    "material": "orange",
+    "rectangle": [
+      234,
+      762,
+      77,
+      125,
+      false
+    ],
+    "triangles": 44
+  },
+  {
+    "id": 194,
+    "name": "Headlight_L_Bezel_shell",
+    "material": "rim",
+    "rectangle": [
+      69,
+      1302,
+      252,
+      28,
+      false
+    ],
+    "triangles": 144
+  },
+  {
+    "id": 195,
+    "name": "Headlight_L_Gasket_shell",
+    "material": "grille",
+    "rectangle": [
+      189,
+      1954,
+      189,
+      18,
+      false
+    ],
+    "triangles": 96
+  },
+  {
+    "id": 196,
+    "name": "Headlight_L_Lens_face",
+    "material": "lamp",
+    "rectangle": [
+      981,
+      947,
+      74,
+      74,
+      false
+    ],
+    "triangles": 72
+  },
+  {
+    "id": 197,
+    "name": "Front_Indicator_L_unwrap",
+    "material": "orange",
+    "rectangle": [
+      1807,
+      1763,
+      125,
+      77,
+      true
+    ],
+    "triangles": 44
+  },
+  {
+    "id": 198,
+    "name": "Front_Grille_panel_0",
+    "material": "grille",
+    "rectangle": [
+      547,
+      180,
+      70,
+      86,
+      true
+    ],
+    "triangles": 2
+  },
+  {
+    "id": 199,
+    "name": "Front_Grille_panel_1",
+    "material": "grille",
+    "rectangle": [
+      547,
+      266,
+      70,
+      86,
+      true
+    ],
+    "triangles": 2
+  },
+  {
+    "id": 200,
+    "name": "Front_Grille_panel_2",
+    "material": "grille",
+    "rectangle": [
+      1884,
+      1935,
+      18,
+      70,
+      false
+    ],
+    "triangles": 2
+  },
+  {
+    "id": 201,
+    "name": "Front_Grille_panel_3",
+    "material": "grille",
+    "rectangle": [
+      1902,
+      1935,
+      18,
+      70,
+      false
+    ],
+    "triangles": 2
+  },
+  {
+    "id": 202,
+    "name": "Front_Grille_panel_4",
+    "material": "grille",
+    "rectangle": [
+      216,
+      777,
+      18,
+      86,
+      false
+    ],
+    "triangles": 2
+  },
+  {
+    "id": 203,
+    "name": "Front_Grille_panel_5",
+    "material": "grille",
+    "rectangle": [
+      914,
+      1318,
+      86,
+      18,
+      true
+    ],
+    "triangles": 2
+  },
+  {
+    "id": 204,
+    "name": "Front_Grille_unwrap",
+    "material": "grille",
+    "rectangle": [
+      531,
+      470,
+      88,
+      182,
+      false
+    ],
+    "triangles": 32
+  },
+  {
+    "id": 205,
+    "name": "Front_Bumper_tube",
+    "material": "bumper",
+    "rectangle": [
+      869,
+      1376,
+      118,
+      353,
+      false
+    ],
+    "triangles": 112
+  },
+  {
+    "id": 206,
+    "name": "Front_Bumper_cap_0",
+    "material": "bumper",
+    "rectangle": [
+      774,
+      788,
+      44,
+      44,
+      false
+    ],
+    "triangles": 6
+  },
+  {
+    "id": 207,
+    "name": "Front_Bumper_cap_7",
+    "material": "bumper",
+    "rectangle": [
+      1154,
+      859,
+      44,
+      44,
+      false
+    ],
+    "triangles": 6
+  },
+  {
+    "id": 208,
+    "name": "Front_Skid_unwrap",
+    "material": "frame",
+    "rectangle": [
+      1881,
+      1376,
+      167,
+      246,
+      false
+    ],
+    "triangles": 44
+  },
+  {
+    "id": 209,
+    "name": "Front_Tow_Socket_unwrap",
+    "material": "grille",
+    "rectangle": [
+      1997,
+      1622,
+      49,
+      121,
+      false
+    ],
+    "triangles": 44
+  },
+  {
+    "id": 210,
+    "name": "Rear_Valance_unwrap",
+    "material": "frame",
+    "rectangle": [
+      622,
+      1376,
+      247,
+      356,
+      false
+    ],
+    "triangles": 44
+  },
+  {
+    "id": 211,
+    "name": "Rear_Lamp_Housing_R_unwrap",
+    "material": "teal",
+    "rectangle": [
+      1453,
+      1618,
+      141,
+      183,
+      false
+    ],
+    "triangles": 44
+  },
+  {
+    "id": 212,
+    "name": "Rear_Amber_Lens_R_panel_0",
+    "material": "orange",
+    "rectangle": [
+      1973,
+      531,
+      66,
+      44,
+      false
+    ],
+    "triangles": 2
+  },
+  {
+    "id": 213,
+    "name": "Rear_Amber_Lens_R_panel_1",
+    "material": "orange",
+    "rectangle": [
+      167,
+      867,
+      44,
+      66,
+      true
+    ],
+    "triangles": 2
+  },
+  {
+    "id": 214,
+    "name": "Rear_Amber_Lens_R_panel_2",
+    "material": "orange",
+    "rectangle": [
+      528,
+      750,
+      44,
+      18,
+      true
+    ],
+    "triangles": 2
+  },
+  {
+    "id": 215,
+    "name": "Rear_Amber_Lens_R_panel_3",
+    "material": "orange",
+    "rectangle": [
+      378,
+      1954,
+      44,
+      18,
+      true
+    ],
+    "triangles": 2
+  },
+  {
+    "id": 216,
+    "name": "Rear_Amber_Lens_R_panel_4",
+    "material": "orange",
+    "rectangle": [
+      591,
+      848,
+      66,
+      18,
+      true
+    ],
+    "triangles": 2
+  },
+  {
+    "id": 217,
+    "name": "Rear_Amber_Lens_R_panel_5",
+    "material": "orange",
+    "rectangle": [
+      429,
+      1641,
+      66,
+      18,
+      true
+    ],
+    "triangles": 2
+  },
+  {
+    "id": 218,
+    "name": "Rear_Amber_Lens_R_unwrap",
+    "material": "orange",
+    "rectangle": [
+      495,
+      1595,
+      125,
+      66,
+      true
+    ],
+    "triangles": 32
+  },
+  {
+    "id": 219,
+    "name": "Rear_Lamp_Housing_L_unwrap",
+    "material": "teal",
+    "rectangle": [
+      1814,
+      1622,
+      183,
+      141,
+      true
+    ],
+    "triangles": 44
+  },
+  {
+    "id": 220,
+    "name": "Rear_Amber_Lens_L_panel_0",
+    "material": "orange",
+    "rectangle": [
+      1133,
+      1091,
+      66,
+      44,
+      false
+    ],
+    "triangles": 2
+  },
+  {
+    "id": 221,
+    "name": "Rear_Amber_Lens_L_panel_1",
+    "material": "orange",
+    "rectangle": [
+      1060,
+      1110,
+      66,
+      44,
+      false
+    ],
+    "triangles": 2
+  },
+  {
+    "id": 222,
+    "name": "Rear_Amber_Lens_L_panel_2",
+    "material": "orange",
+    "rectangle": [
+      422,
+      1954,
+      44,
+      18,
+      true
+    ],
+    "triangles": 2
+  },
+  {
+    "id": 223,
+    "name": "Rear_Amber_Lens_L_panel_3",
+    "material": "orange",
+    "rectangle": [
+      466,
+      1954,
+      44,
+      18,
+      true
+    ],
+    "triangles": 2
+  },
+  {
+    "id": 224,
+    "name": "Rear_Amber_Lens_L_panel_4",
+    "material": "orange",
+    "rectangle": [
+      1324,
+      1662,
+      66,
+      18,
+      true
+    ],
+    "triangles": 2
+  },
+  {
+    "id": 225,
+    "name": "Rear_Amber_Lens_L_panel_5",
+    "material": "orange",
+    "rectangle": [
+      1377,
+      1680,
+      66,
+      18,
+      true
+    ],
+    "triangles": 2
+  },
+  {
+    "id": 226,
+    "name": "Rear_Amber_Lens_L_unwrap",
+    "material": "orange",
+    "rectangle": [
+      1015,
+      1974,
+      125,
+      66,
+      true
+    ],
+    "triangles": 32
+  },
+  {
+    "id": 227,
+    "name": "Rear_Exhaust_Box_unwrap",
+    "material": "bumper",
+    "rectangle": [
+      321,
+      637,
+      173,
+      159,
+      true
+    ],
+    "triangles": 44
+  },
+  {
+    "id": 228,
+    "name": "Rear_Exhaust_Rim_shell",
+    "material": "steel",
+    "rectangle": [
+      675,
+      750,
+      18,
+      97,
+      true
+    ],
+    "triangles": 64
+  },
+  {
+    "id": 229,
+    "name": "Rear_Exhaust_Dark_face",
+    "material": "grille",
+    "rectangle": [
+      622,
+      1732,
+      30,
+      30,
+      false
+    ],
+    "triangles": 16
+  },
+  {
+    "id": 230,
+    "name": "Rear_Tow_Recess_unwrap",
+    "material": "grille",
+    "rectangle": [
+      1764,
+      1743,
+      43,
+      132,
+      false
+    ],
+    "triangles": 44
+  },
+  {
+    "id": 231,
+    "name": "Front_Rack_Rail_tube",
+    "material": "frame",
+    "rectangle": [
+      0,
+      0,
+      69,
+      835,
+      false
+    ],
+    "triangles": 192
+  },
+  {
+    "id": 232,
+    "name": "Front_Rack_Slat_-0.23_unwrap",
+    "material": "frame",
+    "rectangle": [
+      1324,
+      1532,
+      96,
+      130,
+      false
+    ],
+    "triangles": 44
+  },
+  {
+    "id": 233,
+    "name": "Front_Rack_Slat_0.23_unwrap",
+    "material": "frame",
+    "rectangle": [
+      1788,
+      1875,
+      96,
+      130,
+      false
+    ],
+    "triangles": 44
+  },
+  {
+    "id": 234,
+    "name": "Front_Rack_Post_0.655_-0.585_unwrap",
+    "material": "frame",
+    "rectangle": [
+      619,
+      596,
+      69,
+      54,
+      true
+    ],
+    "triangles": 12
+  },
+  {
+    "id": 235,
+    "name": "Front_Rack_Post_0.655_0.585_unwrap",
+    "material": "frame",
+    "rectangle": [
+      1140,
+      1974,
+      69,
+      54,
+      true
+    ],
+    "triangles": 12
+  },
+  {
+    "id": 236,
+    "name": "Front_Rack_Post_1.015_-0.585_unwrap",
+    "material": "frame",
+    "rectangle": [
+      696,
+      692,
+      69,
+      54,
+      true
+    ],
+    "triangles": 12
+  },
+  {
+    "id": 237,
+    "name": "Front_Rack_Post_1.015_0.585_unwrap",
+    "material": "frame",
+    "rectangle": [
+      822,
+      884,
+      69,
+      54,
+      true
+    ],
+    "triangles": 12
+  },
+  {
+    "id": 238,
+    "name": "Rear_Rack_Rail_tube",
+    "material": "frame",
+    "rectangle": [
+      0,
+      835,
+      69,
+      835,
+      false
+    ],
+    "triangles": 192
+  },
+  {
+    "id": 239,
+    "name": "Rear_Rack_Slat_-0.23_unwrap",
+    "material": "frame",
+    "rectangle": [
+      1939,
+      726,
+      96,
+      139,
+      false
+    ],
+    "triangles": 44
+  },
+  {
+    "id": 240,
+    "name": "Rear_Rack_Slat_0.23_unwrap",
+    "material": "frame",
+    "rectangle": [
+      1939,
+      865,
+      96,
+      139,
+      false
+    ],
+    "triangles": 44
+  },
+  {
+    "id": 241,
+    "name": "Rear_Rack_Post_-1.045_-0.585_unwrap",
+    "material": "frame",
+    "rectangle": [
+      1137,
+      983,
+      69,
+      54,
+      true
+    ],
+    "triangles": 12
+  },
+  {
+    "id": 242,
+    "name": "Rear_Rack_Post_-1.045_0.585_unwrap",
+    "material": "frame",
+    "rectangle": [
+      1137,
+      1037,
+      69,
+      54,
+      true
+    ],
+    "triangles": 12
+  },
+  {
+    "id": 243,
+    "name": "Rear_Rack_Post_-0.685_-0.585_unwrap",
+    "material": "frame",
+    "rectangle": [
+      1064,
+      1056,
+      69,
+      54,
+      true
+    ],
+    "triangles": 12
+  },
+  {
+    "id": 244,
+    "name": "Rear_Rack_Post_-0.685_0.585_unwrap",
+    "material": "frame",
+    "rectangle": [
+      609,
+      1259,
+      54,
+      69,
+      false
+    ],
+    "triangles": 12
+  },
+  {
+    "id": 245,
+    "name": "Steering_Stem_tube",
+    "material": "frame",
+    "rectangle": [
+      1073,
+      859,
+      81,
+      51,
+      false
+    ],
+    "triangles": 16
+  },
+  {
+    "id": 246,
+    "name": "Steering_Stem_cap_0",
+    "material": "frame",
+    "rectangle": [
+      984,
+      786,
+      33,
+      33,
+      false
+    ],
+    "triangles": 6
+  },
+  {
+    "id": 247,
+    "name": "Steering_Stem_cap_1",
+    "material": "frame",
+    "rectangle": [
+      1420,
+      1532,
+      33,
+      33,
+      false
+    ],
+    "triangles": 6
+  },
+  {
+    "id": 248,
+    "name": "Handlebar_tube",
+    "material": "frame",
+    "rectangle": [
+      468,
+      1974,
+      296,
+      73,
+      true
+    ],
+    "triangles": 112
+  },
+  {
+    "id": 249,
+    "name": "Handlebar_cap_0",
+    "material": "frame",
+    "rectangle": [
+      1420,
+      1596,
+      31,
+      31,
+      false
+    ],
+    "triangles": 6
+  },
+  {
+    "id": 250,
+    "name": "Handlebar_cap_7",
+    "material": "frame",
+    "rectangle": [
+      1420,
+      1627,
+      31,
+      31,
+      false
+    ],
+    "triangles": 6
+  },
+  {
+    "id": 251,
+    "name": "Grip_R_shell",
+    "material": "rubber",
+    "rectangle": [
+      1932,
+      1763,
+      116,
+      86,
+      false
+    ],
+    "triangles": 72
+  },
+  {
+    "id": 252,
+    "name": "Grip_R_End_face",
+    "material": "orange",
+    "rectangle": [
+      1140,
+      1175,
+      40,
+      40,
+      false
+    ],
+    "triangles": 12
+  },
+  {
+    "id": 253,
+    "name": "Grip_R_Collar_shell",
+    "material": "frame",
+    "rectangle": [
+      494,
+      637,
+      34,
+      132,
+      true
+    ],
+    "triangles": 72
+  },
+  {
+    "id": 254,
+    "name": "Grip_R_CollarSide_face",
+    "material": "frame",
+    "rectangle": [
+      1073,
+      822,
+      37,
+      37,
+      false
+    ],
+    "triangles": 12
+  },
+  {
+    "id": 255,
+    "name": "Grip_L_shell",
+    "material": "rubber",
+    "rectangle": [
+      1884,
+      1849,
+      116,
+      86,
+      false
+    ],
+    "triangles": 72
+  },
+  {
+    "id": 256,
+    "name": "Grip_L_End_face",
+    "material": "orange",
+    "rectangle": [
+      1140,
+      1215,
+      40,
+      40,
+      false
+    ],
+    "triangles": 12
+  },
+  {
+    "id": 257,
+    "name": "Grip_L_Collar_shell",
+    "material": "frame",
+    "rectangle": [
+      1453,
+      1801,
+      132,
+      34,
+      false
+    ],
+    "triangles": 72
+  },
+  {
+    "id": 258,
+    "name": "Grip_L_CollarSide_face",
+    "material": "frame",
+    "rectangle": [
+      1594,
+      1618,
+      37,
+      37,
+      false
+    ],
+    "triangles": 12
+  },
+  {
+    "id": 259,
+    "name": "Console_Case_unwrap",
+    "material": "frame",
+    "rectangle": [
+      1453,
+      1338,
+      178,
+      280,
+      false
+    ],
+    "triangles": 44
+  },
+  {
+    "id": 260,
+    "name": "Console_Cream_Face_panel_0",
+    "material": "cream",
+    "rectangle": [
+      1219,
+      1274,
+      67,
+      100,
+      true
+    ],
+    "triangles": 2
+  },
+  {
+    "id": 261,
+    "name": "Console_Cream_Face_panel_1",
+    "material": "cream",
+    "rectangle": [
+      1973,
+      251,
+      67,
+      100,
+      true
+    ],
+    "triangles": 2
+  },
+  {
+    "id": 262,
+    "name": "Console_Cream_Face_panel_2",
+    "material": "cream",
+    "rectangle": [
+      1814,
+      1595,
+      67,
+      18,
+      true
+    ],
+    "triangles": 2
+  },
+  {
+    "id": 263,
+    "name": "Console_Cream_Face_panel_3",
+    "material": "cream",
+    "rectangle": [
+      1310,
+      1680,
+      67,
+      18,
+      true
+    ],
+    "triangles": 2
+  },
+  {
+    "id": 264,
+    "name": "Console_Cream_Face_panel_4",
+    "material": "cream",
+    "rectangle": [
+      1623,
+      2029,
+      100,
+      18,
+      true
+    ],
+    "triangles": 2
+  },
+  {
+    "id": 265,
+    "name": "Console_Cream_Face_panel_5",
+    "material": "cream",
+    "rectangle": [
+      1723,
+      2029,
+      100,
+      18,
+      true
+    ],
+    "triangles": 2
+  },
+  {
+    "id": 266,
+    "name": "Console_Cream_Face_unwrap",
+    "material": "cream",
+    "rectangle": [
+      1939,
+      577,
+      100,
+      149,
+      false
+    ],
+    "triangles": 32
+  },
+  {
+    "id": 267,
+    "name": "Console_Rear_Teal_unwrap",
+    "material": "teal",
+    "rectangle": [
+      1324,
+      1338,
+      124,
+      194,
+      false
+    ],
+    "triangles": 44
+  },
+  {
+    "id": 268,
+    "name": "Console_Rear_Display_panel_0",
+    "material": "screen",
+    "rectangle": [
+      547,
+      352,
+      51,
+      82,
+      true
+    ],
+    "triangles": 2
+  },
+  {
+    "id": 269,
+    "name": "Console_Rear_Display_panel_1",
+    "material": "screen",
+    "rectangle": [
+      991,
+      822,
+      82,
+      51,
+      false
+    ],
+    "triangles": 2
+  },
+  {
+    "id": 270,
+    "name": "Console_Rear_Display_panel_2",
+    "material": "screen",
+    "rectangle": [
+      1997,
+      1743,
+      51,
+      18,
+      true
+    ],
+    "triangles": 2
+  },
+  {
+    "id": 271,
+    "name": "Console_Rear_Display_panel_3",
+    "material": "screen",
+    "rectangle": [
+      1390,
+      1662,
+      51,
+      18,
+      true
+    ],
+    "triangles": 2
+  },
+  {
+    "id": 272,
+    "name": "Console_Rear_Display_panel_4",
+    "material": "screen",
+    "rectangle": [
+      216,
+      863,
+      18,
+      82,
+      false
+    ],
+    "triangles": 2
+  },
+  {
+    "id": 273,
+    "name": "Console_Rear_Display_panel_5",
+    "material": "screen",
+    "rectangle": [
+      1228,
+      1680,
+      82,
+      18,
+      true
+    ],
+    "triangles": 2
+  },
+  {
+    "id": 274,
+    "name": "Console_Rear_Display_unwrap",
+    "material": "screen",
+    "rectangle": [
+      234,
+      637,
+      82,
+      125,
+      false
+    ],
+    "triangles": 32
+  }
+]
