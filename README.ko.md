@@ -23,3 +23,13 @@ Codex Astra 모델을 mid 추론강도로 작업한 비교용 에셋입니다.
 - [English documentation](ATV_codex/docs/README.md)
 - [한국어 문서](ATV_codex/docs/README.ko.md)
 - [日本語ドキュメント](ATV_codex/docs/README.ja.md)
+
+## wooden_food_shed_v1
+
+![목재 식량 창고 개요](wooden_food_shed_v1/previews/overview.jpg)
+
+열린 문과 닫힌 문 GLB 버전을 포함한 저폴리 목조건물 에셋입니다.
+
+- [English documentation](wooden_food_shed_v1/README.md)
+- [한국어 문서](wooden_food_shed_v1/README.ko.md)
+- [日本語ドキュメント](wooden_food_shed_v1/README.ja.md)

@@ -1,0 +1,41 @@
+{
+  "triangles": 2952,
+  "objects_in_blender_source": 46,
+  "glb_meshes": 1,
+  "glb_materials": 1,
+  "export_vertices": 6064,
+  "unique_surface_islands": 1556,
+  "atlas_size": [
+    4096,
+    4096
+  ],
+  "island_padding_px": 6,
+  "density_px_per_meter": 222.0886,
+  "texture_rectangle_occupancy": 0.7253473401069641,
+  "bounds_gltf_m": {
+    "min": [
+      -2.075000047683716,
+      0.0,
+      -1.4900000095367432
+    ],
+    "max": [
+      2.45154070854187,
+      3.2816102504730225,
+      2.526721477508545
+    ]
+  },
+  "runtime_verified": {
+    "GLB": "PASS: binary, embedded textures, source parity, independent trimesh round-trip",
+    "Blender": false,
+    "Unreal_5_7": false
+  },
+  "notes": [
+    "Base color authored with image generation; UVs never tile, stack or mirror.",
+    "Normal/ORM maps are conservative image-derived approximations, not sculpt-baked or measured PBR.",
+    "All source faces retain their own padded atlas allocation; sub-pixel rounding affects the smallest bevels."
+  ],
+  "actual_density_px_per_m_range": [
+    222.08789531672576,
+    222.08924165562792
+  ]
+}

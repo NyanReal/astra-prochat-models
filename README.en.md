@@ -23,3 +23,13 @@ Codex Astra model comparison asset created with mid reasoning effort.
 - [English documentation](ATV_codex/docs/README.md)
 - [한국어 문서](ATV_codex/docs/README.ko.md)
 - [日本語ドキュメント](ATV_codex/docs/README.ja.md)
+
+## wooden_food_shed_v1
+
+![Wooden food shed overview](wooden_food_shed_v1/previews/overview.jpg)
+
+Low-poly wooden food shed asset with open and closed GLB variants.
+
+- [English documentation](wooden_food_shed_v1/README.md)
+- [한국어 문서](wooden_food_shed_v1/README.ko.md)
+- [日本語ドキュメント](wooden_food_shed_v1/README.ja.md)

@@ -1,0 +1,215 @@
+﻿{
+    "asset":  "WoodenFoodShed_v1",
+    "files":  [
+                  {
+                      "path":  "CHANGES.md",
+                      "bytes":  863,
+                      "sha256":  "71a3ecfaff16c7dd065e720200bb2b31f574d198ee3161b9037f6d222fb19da0"
+                  },
+                  {
+                      "path":  "blender/create_wooden_food_shed.py",
+                      "bytes":  13080,
+                      "sha256":  "692200ad986bd38e599d41d7e9c88d38b8007b36e68b6b2515e9eb73c584a900"
+                  },
+                  {
+                      "path":  "models/wooden_food_shed.glb",
+                      "bytes":  25242016,
+                      "sha256":  "8d5b4d2e05bc69d11dbfeb9841299155db82ccdb13cd1f9b159d198cb1b0ad31"
+                  },
+                  {
+                      "path":  "models/wooden_food_shed_closed.glb",
+                      "bytes":  25242024,
+                      "sha256":  "30198ed5d426f3eb4f466227a14e2f13b5d9e2604bab60651d1781c46f375df8"
+                  },
+                  {
+                      "path":  "previews/UV_Layout_4096.png",
+                      "bytes":  176853,
+                      "sha256":  "cefa38b9cb8634d39adc3b48bd16509f3f92d44048deb7d7271e24461fa56f3d"
+                  },
+                  {
+                      "path":  "previews/closed.png",
+                      "bytes":  1087696,
+                      "sha256":  "eff50346ae2d4d555bdec5cfccb24c2f4e65b8e6e86517ddbc78d2a89722138f"
+                  },
+                  {
+                      "path":  "previews/front.png",
+                      "bytes":  711943,
+                      "sha256":  "b47b887d2020d789385a2401059f1f52b6b4c37d292bb5e8a0deaf1ab8fae3dc"
+                  },
+                  {
+                      "path":  "previews/hero.png",
+                      "bytes":  1098554,
+                      "sha256":  "506ed551eac9f61c389cb60528bf0bd2fd0f6e23458defcc206e66afac18d72f"
+                  },
+                  {
+                      "path":  "previews/interior.png",
+                      "bytes":  1353947,
+                      "sha256":  "e9342a78ca1745fc1130eca6ebd163b5efc1c52573e0df3f2ed3b2ff636a89db"
+                  },
+                  {
+                      "path":  "previews/overview.jpg",
+                      "bytes":  731087,
+                      "sha256":  "b9c76db9579801350854ba637e5f2d6d17be2febd31c99b7d06f4145726b9817"
+                  },
+                  {
+                      "path":  "previews/rear.png",
+                      "bytes":  1379832,
+                      "sha256":  "05b426bf4254bdcd3805157684f94eb38bd8607cff30d0a84270a246537d68a7"
+                  },
+                  {
+                      "path":  "previews/topdown.png",
+                      "bytes":  1348418,
+                      "sha256":  "25b361dd36afb5cd4f33c666b300a89951e96165632f08a2a74d902c3682c6be"
+                  },
+                  {
+                      "path":  "previews/wireframe.png",
+                      "bytes":  1143953,
+                      "sha256":  "2498ccb154786eba472c01dc3007b33cbc7e3079af78832a41601e3629c59b6a"
+                  },
+                  {
+                      "path":  "source/generated_architecture.png",
+                      "bytes":  2425728,
+                      "sha256":  "8dbbcffb44fe2961ec093fec85a00fa029598e28d2e06f25bbaef6f5aa3920ae"
+                  },
+                  {
+                      "path":  "source/mesh_payload.json",
+                      "bytes":  1007849,
+                      "sha256":  "63dabf7f0210fa18382743f2a23f0e9a7fb655ad4e92482521539cbaabdbac23"
+                  },
+                  {
+                      "path":  "source/prop_barrel.png",
+                      "bytes":  562286,
+                      "sha256":  "4a87ce50f35792ce7b2dcddd61a56ed0850c9c12d44af8ceb109c1e5998c71e7"
+                  },
+                  {
+                      "path":  "source/prop_crate.png",
+                      "bytes":  120863,
+                      "sha256":  "805c0b23c30bd8ed7d98b2418eeb1fd13fd236e6be712125175dfbf9b1469fdf"
+                  },
+                  {
+                      "path":  "source/prop_glass.png",
+                      "bytes":  23984,
+                      "sha256":  "500713ae8d18a12f37489ca9f5e1541123c61a27ac1996e83cbe3ab2d9c17484"
+                  },
+                  {
+                      "path":  "source/prop_pot.png",
+                      "bytes":  12060,
+                      "sha256":  "a53879447aa727f68140cee827a0531fdca8f826fd033fdad024be742f5b97d2"
+                  },
+                  {
+                      "path":  "source/prop_sack.png",
+                      "bytes":  86030,
+                      "sha256":  "d6d707112b5c46735dda2b29c807a2fe2bb5e864b44b49bf4326bdf459c71db3"
+                  },
+                  {
+                      "path":  "source/prop_stone.png",
+                      "bytes":  31762,
+                      "sha256":  "5123e5eb0b131bcc546c88afb32b82a4aee6728dc2b390c1cb43a14ea4110f4a"
+                  },
+                  {
+                      "path":  "source/texture_provenance.md",
+                      "bytes":  2294,
+                      "sha256":  "347462a1f44475e8e66cf732df081b3491ccc772d878303ecc219014ba7e4153"
+                  },
+                  {
+                      "path":  "textures/T_Shed_BaseColor.png",
+                      "bytes":  15145149,
+                      "sha256":  "b37e2c597ecfdf38069e6ee67e958a5716a3000391e7933255cde9ee35f53c50"
+                  },
+                  {
+                      "path":  "textures/T_Shed_Emissive.png",
+                      "bytes":  62716,
+                      "sha256":  "9fb8f55180a1625fb73ed0c9145f4e36d3316f4e3575dc31ac8b84f5f89f6b93"
+                  },
+                  {
+                      "path":  "textures/T_Shed_Normal_DX.png",
+                      "bytes":  6484282,
+                      "sha256":  "4adf2006889759aa38736f63d637f6a6b895017c1b7381204dec70be3ff4b878"
+                  },
+                  {
+                      "path":  "textures/T_Shed_Normal_GL.png",
+                      "bytes":  6483241,
+                      "sha256":  "bc3acb593d6cd7572c1296cb0542b4fe7b7e7a477cb7afaffb946a5bec0ff881"
+                  },
+                  {
+                      "path":  "textures/T_Shed_ORM.png",
+                      "bytes":  3239588,
+                      "sha256":  "47ad64417b3c4f6f35ffa683f745adb288249cd1936a502cd15ea3967c0c9279"
+                  },
+                  {
+                      "path":  "tools/build_asset.py",
+                      "bytes":  26682,
+                      "sha256":  "188ae7e8c1693ed355bd041c4edfc178bfd142692dba45bf83a3ab996cd93655"
+                  },
+                  {
+                      "path":  "tools/render_preview.py",
+                      "bytes":  10284,
+                      "sha256":  "cdc5b556d4ac54b49ffeea5398700de5333c88a75f9b3c59ed06b09ddbbada5f"
+                  },
+                  {
+                      "path":  "tools/requirements.txt",
+                      "bytes":  72,
+                      "sha256":  "65f9a036e0d42f9f7b073f287602400069fc8c5102457d8f94c9522a70ea78be"
+                  },
+                  {
+                      "path":  "unreal/import_wooden_food_shed_ue57.py",
+                      "bytes":  14718,
+                      "sha256":  "b7d72c1a49331c1e1278e0e30c23dfeb174a3abfdba43fd1e36ea9a51ba894ed"
+                  },
+                  {
+                      "path":  "validation/asset_stats.json",
+                      "bytes":  1094,
+                      "sha256":  "c78c4f6070ece9d07581529d54846c5783a09831a4f0f0f0b3c86a457652ef1d"
+                  },
+                  {
+                      "path":  "validation/environment_versions.json",
+                      "bytes":  226,
+                      "sha256":  "82ef0d2627ebbaa8af48042e317a411d98c0f6064eed2d0366089bafc4ae4677"
+                  },
+                  {
+                      "path":  "validation/test_asset.py",
+                      "bytes":  3195,
+                      "sha256":  "5b892ee5ea784a4c67cc1716f9573b8cca2b30ec1232dddd5a388bc691ca3eb5"
+                  },
+                  {
+                      "path":  "validation/test_results.txt",
+                      "bytes":  547,
+                      "sha256":  "ae2c0d7b191c8772632ed4bcd41d805e263f7ce1ebe0b8e368d189a12e93eece"
+                  },
+                  {
+                      "path":  "validation/verification_log.txt",
+                      "bytes":  2707,
+                      "sha256":  "3d7a4912ed9d4f12eae3564a1737720624e543d08fb0b9ffa52989091d81a340"
+                  },
+                  {
+                      "path":  "validation/verification_report.json",
+                      "bytes":  2706,
+                      "sha256":  "b69f0a4db303e463ac9fb531ddbc060083847d2a43cc7a925c66786049a02a05"
+                  },
+                  {
+                      "path":  "validation/verify_delivery.py",
+                      "bytes":  5896,
+                      "sha256":  "1b2508d2e15e5ed558324e3e5b6267b0bdcc77b8c2744bf5ff2d6a61e8383094"
+                  },
+                  {
+                      "path":  "README.md",
+                      "bytes":  7713,
+                      "sha256":  "b503b6946fe5dd556ae6f1ec39d11ecbbd760c3afd4abcaf7a0286d108f2b81d"
+                  },
+                  {
+                      "path":  "README.en.md",
+                      "bytes":  7713,
+                      "sha256":  "b503b6946fe5dd556ae6f1ec39d11ecbbd760c3afd4abcaf7a0286d108f2b81d"
+                  },
+                  {
+                      "path":  "README.ko.md",
+                      "bytes":  13255,
+                      "sha256":  "96212d5d0717a0fc2567e5cf60bdc5881ea6408ddaacc1aade389ae49ca3d98a"
+                  },
+                  {
+                      "path":  "README.ja.md",
+                      "bytes":  8496,
+                      "sha256":  "828fc784a549780c5c0a8965b17b169a3d609d9ceb2e61bd9db4320856404bcc"
+                  }
+              ]
+}

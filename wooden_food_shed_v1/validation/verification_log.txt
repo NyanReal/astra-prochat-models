@@ -1,0 +1,111 @@
+{
+  "geometry": {
+    "triangles": 2952,
+    "degenerate_triangles": 0,
+    "winding_normal_mismatches": 0,
+    "mirrored_or_zero_area_uv_triangles": 0,
+    "actual_density_px_per_m_min": 222.08789531672576,
+    "actual_density_px_per_m_max": 222.08924165562792,
+    "actual_density_max_relative_error": 3.172982648624867e-06
+  },
+  "models": [
+    {
+      "name": "wooden_food_shed.glb",
+      "bytes": 25242016,
+      "triangles": 2952,
+      "vertices": 6064,
+      "embedded_images": [
+        {
+          "name": "T_Shed_BaseColor",
+          "size": [
+            4096,
+            4096
+          ],
+          "bytes": 15145149
+        },
+        {
+          "name": "T_Shed_Normal_GL",
+          "size": [
+            4096,
+            4096
+          ],
+          "bytes": 6483241
+        },
+        {
+          "name": "T_Shed_ORM",
+          "size": [
+            4096,
+            4096
+          ],
+          "bytes": 3239588
+        },
+        {
+          "name": "T_Shed_Emissive",
+          "size": [
+            4096,
+            4096
+          ],
+          "bytes": 62716
+        }
+      ],
+      "independent_trimesh_load": "PASS",
+      "single_mesh_single_material": true
+    },
+    {
+      "name": "wooden_food_shed_closed.glb",
+      "bytes": 25242024,
+      "triangles": 2952,
+      "vertices": 6064,
+      "embedded_images": [
+        {
+          "name": "T_Shed_BaseColor",
+          "size": [
+            4096,
+            4096
+          ],
+          "bytes": 15145149
+        },
+        {
+          "name": "T_Shed_Normal_GL",
+          "size": [
+            4096,
+            4096
+          ],
+          "bytes": 6483241
+        },
+        {
+          "name": "T_Shed_ORM",
+          "size": [
+            4096,
+            4096
+          ],
+          "bytes": 3239588
+        },
+        {
+          "name": "T_Shed_Emissive",
+          "size": [
+            4096,
+            4096
+          ],
+          "bytes": 62716
+        }
+      ],
+      "independent_trimesh_load": "PASS",
+      "single_mesh_single_material": true
+    }
+  ],
+  "python_syntax": {
+    "status": "PASS",
+    "files": [
+      "blender/create_wooden_food_shed.py",
+      "tools/build_asset.py",
+      "tools/render_preview.py",
+      "unreal/import_wooden_food_shed_ue57.py",
+      "validation/test_asset.py",
+      "validation/verify_delivery.py"
+    ]
+  },
+  "blender_editor_runtime": "NOT TESTED: Blender was unavailable in the execution environment.",
+  "unreal_5_7_editor_runtime": "NOT TESTED: Unreal Editor was unavailable. Official 5.7 API documentation was checked.",
+  "preview_source": "CPU rasterization of source mesh payload; positions/UVs independently matched against final open GLB binary."
+}

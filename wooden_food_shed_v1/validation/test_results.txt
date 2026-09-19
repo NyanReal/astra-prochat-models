@@ -1,0 +1,10 @@
+test_glb_self_contained_and_budget (__main__.AssetTests.test_glb_self_contained_and_budget) ... ok
+test_required_deliverables (__main__.AssetTests.test_required_deliverables) ... ok
+test_texel_density (__main__.AssetTests.test_texel_density) ... ok
+test_triangle_budget_and_finite_data (__main__.AssetTests.test_triangle_budget_and_finite_data) ... ok
+test_uvs_are_unique_and_in_bounds (__main__.AssetTests.test_uvs_are_unique_and_in_bounds) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.084s
+
+OK
