@@ -1,0 +1,21 @@
+{
+  "triangles": 8536,
+  "vertices": 4744,
+  "materialSlots": 8,
+  "textureWidth": 2048,
+  "textureHeight": 2048,
+  "generatedSourceSize": [
+    1254,
+    1254
+  ],
+  "textureProcess": "ImageGen source transferred by emission bake to unique UV atlas",
+  "dimensionsMetres": [
+    1.81,
+    2.391,
+    1.459
+  ],
+  "frontAxis": "-Y (Blender)",
+  "upAxis": "+Z (Blender)",
+  "uvPolicy": "Unique, non-overlapping UV0; no stacking, no mirroring, no tiling",
+  "blenderVersion": "4.5.12 LTS"
+}

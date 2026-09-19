@@ -1,0 +1,13 @@
+{
+  "result": "PASS",
+  "glbTriangles": 8536,
+  "budget": 9999,
+  "embeddedTextures": 1,
+  "uvTriangles": 8536,
+  "positiveAreaOverlapPairs": 0,
+  "degenerateUVTriangles": 0,
+  "uvOutOfBounds": 0,
+  "maximumOverlapArea": 0,
+  "method": "Spatial buckets + convex triangle clipping; shared edges ignored; area epsilon 1e-10",
+  "verifiedAt": "2026-09-19T10:32:40.325Z"
+}

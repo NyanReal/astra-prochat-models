@@ -1,0 +1,18 @@
+{
+  "result": "PASS",
+  "browser": "Codex In-app Browser",
+  "url": "http://127.0.0.1:4177/",
+  "checks": {
+    "glbLoaded": true,
+    "topDownCameraButton": true,
+    "uniqueUVTab": true,
+    "desktopAndNarrowLayoutInspected": true,
+    "browserZipCreated": true,
+    "browserZipStatus": "ZIP 생성 완료 · 35개 파일 · 21.0 MB · 다운로드가 시작되었습니다.",
+    "briefCopyButtonReportedSuccess": true,
+    "windowsClipboardMatchesBrief": true,
+    "metadataImmediatelyBelowInstructions": true,
+    "sameFinalResponseDisplayed": true
+  },
+  "note": "ZIP file count reflects the UI test before adding this verification record. Final manifest is regenerated afterward. Package round trip is verified byte-for-byte by scripts/verify-package.mjs. Browser clipboard API and Windows clipboard are distinct; the latter matched the copied brief."
+}

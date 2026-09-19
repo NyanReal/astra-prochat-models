@@ -1,0 +1,9 @@
+{
+  "reasoningEffort": "확인 불가 · 세션 설정값 미공개",
+  "completedAt": "2026-09-19T10:32:40.4042776Z",
+  "startedAt": "2026-09-19T10:08:06.1709685Z",
+  "measurementNote": "측정: 2026-09-19 19:08:06 ~ 19:32:40 KST. atv 폴더 생성부터 GLB·UV·UE 임포트·브라우저 ZIP·복사 검증 완료까지. 이미지 생성·렌더·검증 대기시간 포함; 최종 메타데이터 저장과 패키징 시간은 제외.",
+  "elapsedSeconds": 1474.0,
+  "elapsedDisplay": "24분 34초",
+  "model": "GPT-6 · Codex (세션에 공개된 모델 계열)"
+}

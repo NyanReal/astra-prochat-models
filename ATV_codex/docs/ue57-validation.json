@@ -1,0 +1,28 @@
+{
+  "engine": "5.7.4-51494982+++UE5+Release-5.7",
+  "mesh": "/Game/ATV_Trail/SM_ATV_Trail.SM_ATV_Trail",
+  "materialSlots": [
+    "M_ATV_Teal_Panels",
+    "M_ATV_Chassis",
+    "M_ATV_Ivory_Body",
+    "M_ATV_Graphite_Seat",
+    "M_ATV_Steel_Racks",
+    "M_ATV_Rubber_Tires",
+    "M_ATV_Amber_Accents",
+    "M_ATV_Headlamps"
+  ],
+  "lod0Triangles": 8536,
+  "boundsExtentCentimetres": [
+    119.56472778320312,
+    90.5,
+    72.9577624797821
+  ],
+  "result": "PASS",
+  "pipeline": "FBX companion + explicit Python materials",
+  "verifiedAt": "2026-09-19T10:30:46.155451+00:00",
+  "inputSHA256": {
+    "atv.fbx": "cfdaaa93efafae3e7ea8228f7f3e9c97741750278a035487469f66c24b6d1c3f",
+    "atv_basecolor.png": "1033eb695f803a87e3eb1a4689e391c37bc43523b9f70f37707abebae3a8d5ee"
+  },
+  "note": "Static mesh only; no vehicle rig, physics driving system, or level changes."
+}
