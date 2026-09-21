@@ -1,0 +1,4 @@
+2026-09-21 14:29:48.038 (   0.799s) [    7F24D5CEB780]vtkXOpenGLRenderWindow.:1460  WARN| bad X server connection. DISPLAY=:0
+Rendering 1379 instances / 65 meshes / 1152x768 shadows=True ssao=True
+GPU render done 1.51
+Saved /mnt/data/StillHere_D3/previews/scene_clay.png

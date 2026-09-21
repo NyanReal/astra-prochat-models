@@ -1,0 +1,4 @@
+-r requirements-generation.txt
+shapely>=2,<3
+trimesh>=4,<5
+pytest>=8,<10

@@ -1,0 +1,27 @@
+{
+  "projection": "orthographic",
+  "resolution": [
+    1536,
+    1024
+  ],
+  "ortho_width_m": 36.0,
+  "position_m": [
+    0.0,
+    -46.0,
+    51.088175682142875
+  ],
+  "target_m": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "up": [
+    0.0,
+    0.0,
+    1.0
+  ],
+  "elevation_degrees": 48.0,
+  "clip_start_m": 0.05,
+  "clip_end_m": 250.0,
+  "fit_note": "Artist-fitted orthographic reconstruction from a single image; original camera intrinsics are unknown."
+}

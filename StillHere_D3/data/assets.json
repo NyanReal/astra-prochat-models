@@ -1,0 +1,2382 @@
+{
+  "schema_version": 1,
+  "coordinate_system": "RH_Z_UP_METRES",
+  "assets": [
+    {
+      "id": "Ground_Meadow_A",
+      "category": "ground",
+      "triangles": 106,
+      "vertices": 127,
+      "charts": 20,
+      "atlas_size": 1024,
+      "requested_texel_density_px_m": 56,
+      "packing_texel_density_px_m": 56.0,
+      "effective_texel_density_px_m": 55.76,
+      "surface_area_m2": 67.9312,
+      "uv_coverage": 0.2015,
+      "bounds_m": [
+        [
+          -3.0762865506273993,
+          -2.9887114226275417,
+          -0.65
+        ],
+        [
+          3.5378291565578053,
+          3.1981425076523093,
+          0.04
+        ]
+      ],
+      "double_sided": false,
+      "surface_type": "opaque",
+      "description": "Irregular overlapping surface module with a lowered feathered perimeter; separate seam-cover meshes are placed in the scene.",
+      "glb": "assets/glb/Ground_Meadow_A.glb",
+      "mesh_data": "data/meshes/Ground_Meadow_A.npz",
+      "base_color": "assets/textures/Ground_Meadow_A_BaseColor.png",
+      "normal": "assets/textures/Ground_Meadow_A_Normal.png",
+      "orm": "assets/textures/Ground_Meadow_A_ORM.png"
+    },
+    {
+      "id": "Ground_Meadow_B",
+      "category": "ground",
+      "triangles": 106,
+      "vertices": 127,
+      "charts": 20,
+      "atlas_size": 1024,
+      "requested_texel_density_px_m": 56,
+      "packing_texel_density_px_m": 56.0,
+      "effective_texel_density_px_m": 55.81,
+      "surface_area_m2": 67.5019,
+      "uv_coverage": 0.2005,
+      "bounds_m": [
+        [
+          -2.840033165303817,
+          -2.887440422211681,
+          -0.65
+        ],
+        [
+          3.036836641922853,
+          3.132488732719574,
+          0.04
+        ]
+      ],
+      "double_sided": false,
+      "surface_type": "opaque",
+      "description": "Irregular overlapping surface module with a lowered feathered perimeter; separate seam-cover meshes are placed in the scene.",
+      "glb": "assets/glb/Ground_Meadow_B.glb",
+      "mesh_data": "data/meshes/Ground_Meadow_B.npz",
+      "base_color": "assets/textures/Ground_Meadow_B_BaseColor.png",
+      "normal": "assets/textures/Ground_Meadow_B_Normal.png",
+      "orm": "assets/textures/Ground_Meadow_B_ORM.png"
+    },
+    {
+      "id": "Ground_Meadow_C",
+      "category": "ground",
+      "triangles": 106,
+      "vertices": 127,
+      "charts": 20,
+      "atlas_size": 1024,
+      "requested_texel_density_px_m": 56,
+      "packing_texel_density_px_m": 56.0,
+      "effective_texel_density_px_m": 55.8,
+      "surface_area_m2": 74.1098,
+      "uv_coverage": 0.22,
+      "bounds_m": [
+        [
+          -3.339731230444721,
+          -3.5209253343481666,
+          -0.65
+        ],
+        [
+          3.2472339592684367,
+          3.065156925483628,
+          0.04
+        ]
+      ],
+      "double_sided": false,
+      "surface_type": "opaque",
+      "description": "Irregular overlapping surface module with a lowered feathered perimeter; separate seam-cover meshes are placed in the scene.",
+      "glb": "assets/glb/Ground_Meadow_C.glb",
+      "mesh_data": "data/meshes/Ground_Meadow_C.npz",
+      "base_color": "assets/textures/Ground_Meadow_C_BaseColor.png",
+      "normal": "assets/textures/Ground_Meadow_C_Normal.png",
+      "orm": "assets/textures/Ground_Meadow_C_ORM.png"
+    },
+    {
+      "id": "Ground_Meadow_D",
+      "category": "ground",
+      "triangles": 106,
+      "vertices": 127,
+      "charts": 20,
+      "atlas_size": 1024,
+      "requested_texel_density_px_m": 56,
+      "packing_texel_density_px_m": 56.0,
+      "effective_texel_density_px_m": 55.75,
+      "surface_area_m2": 58.9584,
+      "uv_coverage": 0.1748,
+      "bounds_m": [
+        [
+          -3.3272687074609175,
+          -2.367838641720671,
+          -0.65
+        ],
+        [
+          3.2066285091401387,
+          2.9024397650736162,
+          0.04
+        ]
+      ],
+      "double_sided": false,
+      "surface_type": "opaque",
+      "description": "Irregular overlapping surface module with a lowered feathered perimeter; separate seam-cover meshes are placed in the scene.",
+      "glb": "assets/glb/Ground_Meadow_D.glb",
+      "mesh_data": "data/meshes/Ground_Meadow_D.npz",
+      "base_color": "assets/textures/Ground_Meadow_D_BaseColor.png",
+      "normal": "assets/textures/Ground_Meadow_D_Normal.png",
+      "orm": "assets/textures/Ground_Meadow_D_ORM.png"
+    },
+    {
+      "id": "Ground_Dirt_A",
+      "category": "ground",
+      "triangles": 106,
+      "vertices": 127,
+      "charts": 20,
+      "atlas_size": 512,
+      "requested_texel_density_px_m": 72,
+      "packing_texel_density_px_m": 72.0,
+      "effective_texel_density_px_m": 71.64,
+      "surface_area_m2": 18.1134,
+      "uv_coverage": 0.3546,
+      "bounds_m": [
+        [
+          -2.0308586647598363,
+          -1.5087010336346833,
+          -0.15
+        ],
+        [
+          2.0890476550241854,
+          1.516717337449523,
+          0.04
+        ]
+      ],
+      "double_sided": false,
+      "surface_type": "opaque",
+      "description": "Irregular overlapping surface module with a lowered feathered perimeter; separate seam-cover meshes are placed in the scene.",
+      "glb": "assets/glb/Ground_Dirt_A.glb",
+      "mesh_data": "data/meshes/Ground_Dirt_A.npz",
+      "base_color": "assets/textures/Ground_Dirt_A_BaseColor.png",
+      "normal": "assets/textures/Ground_Dirt_A_Normal.png",
+      "orm": "assets/textures/Ground_Dirt_A_ORM.png"
+    },
+    {
+      "id": "Ground_Dirt_B",
+      "category": "ground",
+      "triangles": 106,
+      "vertices": 127,
+      "charts": 20,
+      "atlas_size": 1024,
+      "requested_texel_density_px_m": 72,
+      "packing_texel_density_px_m": 72.0,
+      "effective_texel_density_px_m": 71.67,
+      "surface_area_m2": 21.9264,
+      "uv_coverage": 0.1074,
+      "bounds_m": [
+        [
+          -1.9228793298509577,
+          -1.857944631376479,
+          -0.15
+        ],
+        [
+          1.962236274262409,
+          1.8422839439644438,
+          0.04
+        ]
+      ],
+      "double_sided": false,
+      "surface_type": "opaque",
+      "description": "Irregular overlapping surface module with a lowered feathered perimeter; separate seam-cover meshes are placed in the scene.",
+      "glb": "assets/glb/Ground_Dirt_B.glb",
+      "mesh_data": "data/meshes/Ground_Dirt_B.npz",
+      "base_color": "assets/textures/Ground_Dirt_B_BaseColor.png",
+      "normal": "assets/textures/Ground_Dirt_B_Normal.png",
+      "orm": "assets/textures/Ground_Dirt_B_ORM.png"
+    },
+    {
+      "id": "Transition_Moss_A",
+      "category": "ground",
+      "triangles": 54,
+      "vertices": 37,
+      "charts": 1,
+      "atlas_size": 512,
+      "requested_texel_density_px_m": 88,
+      "packing_texel_density_px_m": 88.0,
+      "effective_texel_density_px_m": 86.67,
+      "surface_area_m2": 4.1553,
+      "uv_coverage": 0.1191,
+      "bounds_m": [
+        [
+          -1.1974329398735932,
+          -1.2748936502315509,
+          -0.11
+        ],
+        [
+          1.1789940642276608,
+          1.2056236374210514,
+          0.052000000000000005
+        ]
+      ],
+      "double_sided": false,
+      "surface_type": "opaque",
+      "description": "Irregular overlapping surface module with a lowered feathered perimeter; separate seam-cover meshes are placed in the scene.",
+      "glb": "assets/glb/Transition_Moss_A.glb",
+      "mesh_data": "data/meshes/Transition_Moss_A.npz",
+      "base_color": "assets/textures/Transition_Moss_A_BaseColor.png",
+      "normal": "assets/textures/Transition_Moss_A_Normal.png",
+      "orm": "assets/textures/Transition_Moss_A_ORM.png"
+    },
+    {
+      "id": "Transition_Moss_B",
+      "category": "ground",
+      "triangles": 54,
+      "vertices": 37,
+      "charts": 1,
+      "atlas_size": 512,
+      "requested_texel_density_px_m": 88,
+      "packing_texel_density_px_m": 88.0,
+      "effective_texel_density_px_m": 86.37,
+      "surface_area_m2": 4.0913,
+      "uv_coverage": 0.1164,
+      "bounds_m": [
+        [
+          -1.334710154271362,
+          -1.0602480187291419,
+          -0.11
+        ],
+        [
+          1.2493127250097382,
+          1.1778945177001687,
+          0.052000000000000005
+        ]
+      ],
+      "double_sided": false,
+      "surface_type": "opaque",
+      "description": "Irregular overlapping surface module with a lowered feathered perimeter; separate seam-cover meshes are placed in the scene.",
+      "glb": "assets/glb/Transition_Moss_B.glb",
+      "mesh_data": "data/meshes/Transition_Moss_B.npz",
+      "base_color": "assets/textures/Transition_Moss_B_BaseColor.png",
+      "normal": "assets/textures/Transition_Moss_B_Normal.png",
+      "orm": "assets/textures/Transition_Moss_B_ORM.png"
+    },
+    {
+      "id": "Transition_Moss_C",
+      "category": "ground",
+      "triangles": 54,
+      "vertices": 37,
+      "charts": 1,
+      "atlas_size": 512,
+      "requested_texel_density_px_m": 88,
+      "packing_texel_density_px_m": 88.0,
+      "effective_texel_density_px_m": 86.61,
+      "surface_area_m2": 4.8769,
+      "uv_coverage": 0.1396,
+      "bounds_m": [
+        [
+          -1.2903804324561285,
+          -1.337027810937502,
+          -0.11
+        ],
+        [
+          1.2280827505135565,
+          1.283599697046154,
+          0.052000000000000005
+        ]
+      ],
+      "double_sided": false,
+      "surface_type": "opaque",
+      "description": "Irregular overlapping surface module with a lowered feathered perimeter; separate seam-cover meshes are placed in the scene.",
+      "glb": "assets/glb/Transition_Moss_C.glb",
+      "mesh_data": "data/meshes/Transition_Moss_C.npz",
+      "base_color": "assets/textures/Transition_Moss_C_BaseColor.png",
+      "normal": "assets/textures/Transition_Moss_C_Normal.png",
+      "orm": "assets/textures/Transition_Moss_C_ORM.png"
+    },
+    {
+      "id": "Transition_Soil_A",
+      "category": "ground",
+      "triangles": 54,
+      "vertices": 37,
+      "charts": 1,
+      "atlas_size": 256,
+      "requested_texel_density_px_m": 88,
+      "packing_texel_density_px_m": 88.0,
+      "effective_texel_density_px_m": 85.6,
+      "surface_area_m2": 2.7552,
+      "uv_coverage": 0.3081,
+      "bounds_m": [
+        [
+          -1.212523208472958,
+          -0.8572624414040474,
+          -0.11
+        ],
+        [
+          1.1119736560792546,
+          0.8689746675801573,
+          0.052000000000000005
+        ]
+      ],
+      "double_sided": false,
+      "surface_type": "opaque",
+      "description": "Irregular overlapping surface module with a lowered feathered perimeter; separate seam-cover meshes are placed in the scene.",
+      "glb": "assets/glb/Transition_Soil_A.glb",
+      "mesh_data": "data/meshes/Transition_Soil_A.npz",
+      "base_color": "assets/textures/Transition_Soil_A_BaseColor.png",
+      "normal": "assets/textures/Transition_Soil_A_Normal.png",
+      "orm": "assets/textures/Transition_Soil_A_ORM.png"
+    },
+    {
+      "id": "Transition_Soil_B",
+      "category": "ground",
+      "triangles": 54,
+      "vertices": 37,
+      "charts": 1,
+      "atlas_size": 512,
+      "requested_texel_density_px_m": 88,
+      "packing_texel_density_px_m": 88.0,
+      "effective_texel_density_px_m": 86.32,
+      "surface_area_m2": 3.4699,
+      "uv_coverage": 0.0986,
+      "bounds_m": [
+        [
+          -1.147233336982292,
+          -1.137870154874125,
+          -0.11
+        ],
+        [
+          1.144687475405092,
+          1.0700083592359753,
+          0.052000000000000005
+        ]
+      ],
+      "double_sided": false,
+      "surface_type": "opaque",
+      "description": "Irregular overlapping surface module with a lowered feathered perimeter; separate seam-cover meshes are placed in the scene.",
+      "glb": "assets/glb/Transition_Soil_B.glb",
+      "mesh_data": "data/meshes/Transition_Soil_B.npz",
+      "base_color": "assets/textures/Transition_Soil_B_BaseColor.png",
+      "normal": "assets/textures/Transition_Soil_B_Normal.png",
+      "orm": "assets/textures/Transition_Soil_B_ORM.png"
+    },
+    {
+      "id": "Paving_Broken_A",
+      "category": "ground",
+      "triangles": 66,
+      "vertices": 120,
+      "charts": 27,
+      "atlas_size": 256,
+      "requested_texel_density_px_m": 112,
+      "packing_texel_density_px_m": 112.0,
+      "effective_texel_density_px_m": 109.6,
+      "surface_area_m2": 2.5117,
+      "uv_coverage": 0.4604,
+      "bounds_m": [
+        [
+          -1.10051839104032,
+          -0.5757368658689614,
+          -0.035
+        ],
+        [
+          1.0792194778515105,
+          0.4728585725318099,
+          0.045
+        ]
+      ],
+      "double_sided": false,
+      "surface_type": "opaque",
+      "description": "",
+      "glb": "assets/glb/Paving_Broken_A.glb",
+      "mesh_data": "data/meshes/Paving_Broken_A.npz",
+      "base_color": "assets/textures/Paving_Broken_A_BaseColor.png",
+      "normal": "assets/textures/Paving_Broken_A_Normal.png",
+      "orm": "assets/textures/Paving_Broken_A_ORM.png"
+    },
+    {
+      "id": "Paving_Broken_B",
+      "category": "ground",
+      "triangles": 66,
+      "vertices": 120,
+      "charts": 27,
+      "atlas_size": 256,
+      "requested_texel_density_px_m": 112,
+      "packing_texel_density_px_m": 112.0,
+      "effective_texel_density_px_m": 109.64,
+      "surface_area_m2": 2.5172,
+      "uv_coverage": 0.4617,
+      "bounds_m": [
+        [
+          -1.0386139850308969,
+          -0.4748255299628036,
+          -0.035
+        ],
+        [
+          1.091937992224159,
+          0.5400035801142153,
+          0.045
+        ]
+      ],
+      "double_sided": false,
+      "surface_type": "opaque",
+      "description": "",
+      "glb": "assets/glb/Paving_Broken_B.glb",
+      "mesh_data": "data/meshes/Paving_Broken_B.npz",
+      "base_color": "assets/textures/Paving_Broken_B_BaseColor.png",
+      "normal": "assets/textures/Paving_Broken_B_Normal.png",
+      "orm": "assets/textures/Paving_Broken_B_ORM.png"
+    },
+    {
+      "id": "Paving_Broken_C",
+      "category": "ground",
+      "triangles": 22,
+      "vertices": 40,
+      "charts": 9,
+      "atlas_size": 256,
+      "requested_texel_density_px_m": 112,
+      "packing_texel_density_px_m": 112.0,
+      "effective_texel_density_px_m": 109.48,
+      "surface_area_m2": 0.6904,
+      "uv_coverage": 0.1263,
+      "bounds_m": [
+        [
+          -0.32533904777600764,
+          -0.44651768633860456,
+          -0.035
+        ],
+        [
+          0.3386298099999226,
+          0.31642757625796647,
+          0.045
+        ]
+      ],
+      "double_sided": false,
+      "surface_type": "opaque",
+      "description": "",
+      "glb": "assets/glb/Paving_Broken_C.glb",
+      "mesh_data": "data/meshes/Paving_Broken_C.npz",
+      "base_color": "assets/textures/Paving_Broken_C_BaseColor.png",
+      "normal": "assets/textures/Paving_Broken_C_Normal.png",
+      "orm": "assets/textures/Paving_Broken_C_ORM.png"
+    },
+    {
+      "id": "Rock_Bank_A",
+      "category": "rocks",
+      "triangles": 74,
+      "vertices": 222,
+      "charts": 74,
+      "atlas_size": 1024,
+      "requested_texel_density_px_m": 72,
+      "packing_texel_density_px_m": 72.0,
+      "effective_texel_density_px_m": 71.18,
+      "surface_area_m2": 15.462,
+      "uv_coverage": 0.0747,
+      "bounds_m": [
+        [
+          -1.3255646200845104,
+          -1.0178806442919348,
+          -0.36592881187572346
+        ],
+        [
+          1.3484605165754964,
+          1.0496223652179302,
+          1.6960879751358395
+        ]
+      ],
+      "double_sided": false,
+      "surface_type": "opaque",
+      "description": "",
+      "glb": "assets/glb/Rock_Bank_A.glb",
+      "mesh_data": "data/meshes/Rock_Bank_A.npz",
+      "base_color": "assets/textures/Rock_Bank_A_BaseColor.png",
+      "normal": "assets/textures/Rock_Bank_A_Normal.png",
+      "orm": "assets/textures/Rock_Bank_A_ORM.png"
+    },
+    {
+      "id": "Rock_River_A",
+      "category": "rocks",
+      "triangles": 78,
+      "vertices": 234,
+      "charts": 78,
+      "atlas_size": 512,
+      "requested_texel_density_px_m": 80,
+      "packing_texel_density_px_m": 80.0,
+      "effective_texel_density_px_m": 78.85,
+      "surface_area_m2": 9.1822,
+      "uv_coverage": 0.2178,
+      "bounds_m": [
+        [
+          -1.1918824730438722,
+          -0.9234316900915905,
+          -0.2320255512453525
+        ],
+        [
+          1.0439024309232139,
+          0.7549502316512275,
+          1.032306932494968
+        ]
+      ],
+      "double_sided": false,
+      "surface_type": "opaque",
+      "description": "",
+      "glb": "assets/glb/Rock_River_A.glb",
+      "mesh_data": "data/meshes/Rock_River_A.npz",
+      "base_color": "assets/textures/Rock_River_A_BaseColor.png",
+      "normal": "assets/textures/Rock_River_A_Normal.png",
+      "orm": "assets/textures/Rock_River_A_ORM.png"
+    },
+    {
+      "id": "Rock_Bank_B",
+      "category": "rocks",
+      "triangles": 72,
+      "vertices": 216,
+      "charts": 72,
+      "atlas_size": 1024,
+      "requested_texel_density_px_m": 72,
+      "packing_texel_density_px_m": 72.0,
+      "effective_texel_density_px_m": 71.19,
+      "surface_area_m2": 16.5588,
+      "uv_coverage": 0.08,
+      "bounds_m": [
+        [
+          -1.3434285573402247,
+          -0.9928714850805381,
+          -0.38769018665799704
+        ],
+        [
+          1.2264758713050183,
+          1.000591739205728,
+          1.7028785897737244
+        ]
+      ],
+      "double_sided": false,
+      "surface_type": "opaque",
+      "description": "",
+      "glb": "assets/glb/Rock_Bank_B.glb",
+      "mesh_data": "data/meshes/Rock_Bank_B.npz",
+      "base_color": "assets/textures/Rock_Bank_B_BaseColor.png",
+      "normal": "assets/textures/Rock_Bank_B_Normal.png",
+      "orm": "assets/textures/Rock_Bank_B_ORM.png"
+    },
+    {
+      "id": "Rock_River_B",
+      "category": "rocks",
+      "triangles": 66,
+      "vertices": 198,
+      "charts": 66,
+      "atlas_size": 512,
+      "requested_texel_density_px_m": 80,
+      "packing_texel_density_px_m": 80.0,
+      "effective_texel_density_px_m": 79.13,
+      "surface_area_m2": 10.1239,
+      "uv_coverage": 0.2418,
+      "bounds_m": [
+        [
+          -1.0543624420837423,
+          -0.8517167088905307,
+          -0.25640624986042804
+        ],
+        [
+          1.0936061836369306,
+          0.8173283904837056,
+          1.247750132012496
+        ]
+      ],
+      "double_sided": false,
+      "surface_type": "opaque",
+      "description": "",
+      "glb": "assets/glb/Rock_River_B.glb",
+      "mesh_data": "data/meshes/Rock_River_B.npz",
+      "base_color": "assets/textures/Rock_River_B_BaseColor.png",
+      "normal": "assets/textures/Rock_River_B_Normal.png",
+      "orm": "assets/textures/Rock_River_B_ORM.png"
+    },
+    {
+      "id": "Rock_Bank_C",
+      "category": "rocks",
+      "triangles": 72,
+      "vertices": 216,
+      "charts": 72,
+      "atlas_size": 1024,
+      "requested_texel_density_px_m": 72,
+      "packing_texel_density_px_m": 72.0,
+      "effective_texel_density_px_m": 71.22,
+      "surface_area_m2": 17.3986,
+      "uv_coverage": 0.0842,
+      "bounds_m": [
+        [
+          -1.6301224254432547,
+          -0.9744499952128127,
+          -0.39003568577571596
+        ],
+        [
+          1.45902537812547,
+          0.9188949602551976,
+          1.6688506115982489
+        ]
+      ],
+      "double_sided": false,
+      "surface_type": "opaque",
+      "description": "",
+      "glb": "assets/glb/Rock_Bank_C.glb",
+      "mesh_data": "data/meshes/Rock_Bank_C.npz",
+      "base_color": "assets/textures/Rock_Bank_C_BaseColor.png",
+      "normal": "assets/textures/Rock_Bank_C_Normal.png",
+      "orm": "assets/textures/Rock_Bank_C_ORM.png"
+    },
+    {
+      "id": "Rock_River_C",
+      "category": "rocks",
+      "triangles": 82,
+      "vertices": 246,
+      "charts": 82,
+      "atlas_size": 1024,
+      "requested_texel_density_px_m": 80,
+      "packing_texel_density_px_m": 80.0,
+      "effective_texel_density_px_m": 79.06,
+      "surface_area_m2": 11.5204,
+      "uv_coverage": 0.0687,
+      "bounds_m": [
+        [
+          -1.1392079325444053,
+          -0.9125386359876942,
+          -0.3142281240853942
+        ],
+        [
+          0.9898071261673924,
+          0.8197417265916984,
+          1.5132055768849986
+        ]
+      ],
+      "double_sided": false,
+      "surface_type": "opaque",
+      "description": "",
+      "glb": "assets/glb/Rock_River_C.glb",
+      "mesh_data": "data/meshes/Rock_River_C.npz",
+      "base_color": "assets/textures/Rock_River_C_BaseColor.png",
+      "normal": "assets/textures/Rock_River_C_Normal.png",
+      "orm": "assets/textures/Rock_River_C_ORM.png"
+    },
+    {
+      "id": "Cliff_Block_A",
+      "category": "architecture",
+      "triangles": 44,
+      "vertices": 80,
+      "charts": 18,
+      "atlas_size": 1024,
+      "requested_texel_density_px_m": 56,
+      "packing_texel_density_px_m": 56.0,
+      "effective_texel_density_px_m": 55.72,
+      "surface_area_m2": 83.2761,
+      "uv_coverage": 0.2465,
+      "bounds_m": [
+        [
+          -2.1728767292191336,
+          -1.5399790056028462,
+          -0.3
+        ],
+        [
+          2.0951941922395996,
+          1.5094359915632973,
+          5.182296773371201
+        ]
+      ],
+      "double_sided": false,
+      "surface_type": "opaque",
+      "description": "",
+      "glb": "assets/glb/Cliff_Block_A.glb",
+      "mesh_data": "data/meshes/Cliff_Block_A.npz",
+      "base_color": "assets/textures/Cliff_Block_A_BaseColor.png",
+      "normal": "assets/textures/Cliff_Block_A_Normal.png",
+      "orm": "assets/textures/Cliff_Block_A_ORM.png"
+    },
+    {
+      "id": "Cliff_Block_B",
+      "category": "architecture",
+      "triangles": 44,
+      "vertices": 80,
+      "charts": 18,
+      "atlas_size": 1024,
+      "requested_texel_density_px_m": 56,
+      "packing_texel_density_px_m": 56.0,
+      "effective_texel_density_px_m": 55.73,
+      "surface_area_m2": 84.915,
+      "uv_coverage": 0.2515,
+      "bounds_m": [
+        [
+          -2.0768342570244394,
+          -1.522832586461025,
+          -0.3
+        ],
+        [
+          2.170806371266681,
+          1.4641913976116903,
+          5.218297146450978
+        ]
+      ],
+      "double_sided": false,
+      "surface_type": "opaque",
+      "description": "",
+      "glb": "assets/glb/Cliff_Block_B.glb",
+      "mesh_data": "data/meshes/Cliff_Block_B.npz",
+      "base_color": "assets/textures/Cliff_Block_B_BaseColor.png",
+      "normal": "assets/textures/Cliff_Block_B_Normal.png",
+      "orm": "assets/textures/Cliff_Block_B_ORM.png"
+    },
+    {
+      "id": "Tank_Arc_A",
+      "category": "architecture",
+      "triangles": 76,
+      "vertices": 108,
+      "charts": 16,
+      "atlas_size": 1024,
+      "requested_texel_density_px_m": 80,
+      "packing_texel_density_px_m": 80.0,
+      "effective_texel_density_px_m": 80.91,
+      "surface_area_m2": 53.2031,
+      "uv_coverage": 0.3322,
+      "bounds_m": [
+        [
+          6.35579193698207,
+          -1.8117333157176452,
+          0.0
+        ],
+        [
+          7.0,
+          1.8117333157176452,
+          6.576353800175546
+        ]
+      ],
+      "double_sided": false,
+      "surface_type": "opaque",
+      "description": "",
+      "glb": "assets/glb/Tank_Arc_A.glb",
+      "mesh_data": "data/meshes/Tank_Arc_A.npz",
+      "base_color": "assets/textures/Tank_Arc_A_BaseColor.png",
+      "normal": "assets/textures/Tank_Arc_A_Normal.png",
+      "orm": "assets/textures/Tank_Arc_A_ORM.png"
+    },
+    {
+      "id": "Tank_Arc_B",
+      "category": "architecture",
+      "triangles": 76,
+      "vertices": 108,
+      "charts": 16,
+      "atlas_size": 1024,
+      "requested_texel_density_px_m": 80,
+      "packing_texel_density_px_m": 80.0,
+      "effective_texel_density_px_m": 81.29,
+      "surface_area_m2": 52.7301,
+      "uv_coverage": 0.3323,
+      "bounds_m": [
+        [
+          6.35579193698207,
+          -1.8117333157176452,
+          0.0
+        ],
+        [
+          7.0,
+          1.8117333157176452,
+          6.519189124083563
+        ]
+      ],
+      "double_sided": false,
+      "surface_type": "opaque",
+      "description": "",
+      "glb": "assets/glb/Tank_Arc_B.glb",
+      "mesh_data": "data/meshes/Tank_Arc_B.npz",
+      "base_color": "assets/textures/Tank_Arc_B_BaseColor.png",
+      "normal": "assets/textures/Tank_Arc_B_Normal.png",
+      "orm": "assets/textures/Tank_Arc_B_ORM.png"
+    },
+    {
+      "id": "Tank_Arc_C",
+      "category": "architecture",
+      "triangles": 76,
+      "vertices": 108,
+      "charts": 16,
+      "atlas_size": 1024,
+      "requested_texel_density_px_m": 80,
+      "packing_texel_density_px_m": 80.0,
+      "effective_texel_density_px_m": 80.9,
+      "surface_area_m2": 53.2065,
+      "uv_coverage": 0.3321,
+      "bounds_m": [
+        [
+          6.35579193698207,
+          -1.8117333157176452,
+          0.0
+        ],
+        [
+          7.0,
+          1.8117333157176452,
+          6.589216322774443
+        ]
+      ],
+      "double_sided": false,
+      "surface_type": "opaque",
+      "description": "",
+      "glb": "assets/glb/Tank_Arc_C.glb",
+      "mesh_data": "data/meshes/Tank_Arc_C.npz",
+      "base_color": "assets/textures/Tank_Arc_C_BaseColor.png",
+      "normal": "assets/textures/Tank_Arc_C_Normal.png",
+      "orm": "assets/textures/Tank_Arc_C_ORM.png"
+    },
+    {
+      "id": "Tank_D3_Marking",
+      "category": "architecture",
+      "triangles": 48,
+      "vertices": 50,
+      "charts": 1,
+      "atlas_size": 1024,
+      "requested_texel_density_px_m": 88,
+      "packing_texel_density_px_m": 88.0,
+      "effective_texel_density_px_m": 87.74,
+      "surface_area_m2": 20.5403,
+      "uv_coverage": 0.1508,
+      "bounds_m": [
+        [
+          1.8163920585294906,
+          -6.778867448896682,
+          1.0
+        ],
+        [
+          5.9516015388257975,
+          -3.718973396388632,
+          4.9
+        ]
+      ],
+      "double_sided": false,
+      "surface_type": "opaque",
+      "description": "",
+      "glb": "assets/glb/Tank_D3_Marking.glb",
+      "mesh_data": "data/meshes/Tank_D3_Marking.npz",
+      "base_color": "assets/textures/Tank_D3_Marking_BaseColor.png",
+      "normal": "assets/textures/Tank_D3_Marking_Normal.png",
+      "orm": "assets/textures/Tank_D3_Marking_ORM.png"
+    },
+    {
+      "id": "Catwalk_Deck_3m",
+      "category": "architecture",
+      "triangles": 120,
+      "vertices": 240,
+      "charts": 60,
+      "atlas_size": 1024,
+      "requested_texel_density_px_m": 88,
+      "packing_texel_density_px_m": 88.0,
+      "effective_texel_density_px_m": 86.15,
+      "surface_area_m2": 19.4506,
+      "uv_coverage": 0.1377,
+      "bounds_m": [
+        [
+          -1.535,
+          -0.7350000000000001,
+          -0.315
+        ],
+        [
+          1.535,
+          0.7350000000000001,
+          0.07
+        ]
+      ],
+      "double_sided": false,
+      "surface_type": "opaque",
+      "description": "",
+      "glb": "assets/glb/Catwalk_Deck_3m.glb",
+      "mesh_data": "data/meshes/Catwalk_Deck_3m.npz",
+      "base_color": "assets/textures/Catwalk_Deck_3m_BaseColor.png",
+      "normal": "assets/textures/Catwalk_Deck_3m_Normal.png",
+      "orm": "assets/textures/Catwalk_Deck_3m_ORM.png"
+    },
+    {
+      "id": "Stairs_Industrial",
+      "category": "architecture",
+      "triangles": 712,
+      "vertices": 1216,
+      "charts": 252,
+      "atlas_size": 1024,
+      "requested_texel_density_px_m": 88,
+      "packing_texel_density_px_m": 88.0,
+      "effective_texel_density_px_m": 87.49,
+      "surface_area_m2": 43.2546,
+      "uv_coverage": 0.3158,
+      "bounds_m": [
+        [
+          -0.06503447473528312,
+          -0.775,
+          0.0
+        ],
+        [
+          4.6650344747352825,
+          0.775,
+          5.514857546215509
+        ]
+      ],
+      "double_sided": false,
+      "surface_type": "opaque",
+      "description": "",
+      "glb": "assets/glb/Stairs_Industrial.glb",
+      "mesh_data": "data/meshes/Stairs_Industrial.npz",
+      "base_color": "assets/textures/Stairs_Industrial_BaseColor.png",
+      "normal": "assets/textures/Stairs_Industrial_Normal.png",
+      "orm": "assets/textures/Stairs_Industrial_ORM.png"
+    },
+    {
+      "id": "Utility_Bunker_Bay",
+      "category": "architecture",
+      "triangles": 96,
+      "vertices": 192,
+      "charts": 48,
+      "atlas_size": 2048,
+      "requested_texel_density_px_m": 88,
+      "packing_texel_density_px_m": 88.0,
+      "effective_texel_density_px_m": 87.57,
+      "surface_area_m2": 92.2217,
+      "uv_coverage": 0.1686,
+      "bounds_m": [
+        [
+          -2.9,
+          -0.30000000000000004,
+          0.0
+        ],
+        [
+          2.9,
+          1.175,
+          4.16
+        ]
+      ],
+      "double_sided": false,
+      "surface_type": "opaque",
+      "description": "",
+      "glb": "assets/glb/Utility_Bunker_Bay.glb",
+      "mesh_data": "data/meshes/Utility_Bunker_Bay.npz",
+      "base_color": "assets/textures/Utility_Bunker_Bay_BaseColor.png",
+      "normal": "assets/textures/Utility_Bunker_Bay_Normal.png",
+      "orm": "assets/textures/Utility_Bunker_Bay_ORM.png"
+    },
+    {
+      "id": "Banner_Still_Here",
+      "category": "architecture",
+      "triangles": 412,
+      "vertices": 279,
+      "charts": 10,
+      "atlas_size": 512,
+      "requested_texel_density_px_m": 88,
+      "packing_texel_density_px_m": 88.0,
+      "effective_texel_density_px_m": 85.94,
+      "surface_area_m2": 8.1646,
+      "uv_coverage": 0.23,
+      "bounds_m": [
+        [
+          -1.0,
+          -0.195,
+          -4.08998294412166
+        ],
+        [
+          1.0,
+          0.034166666666666665,
+          0.24
+        ]
+      ],
+      "double_sided": true,
+      "surface_type": "opaque",
+      "description": "",
+      "glb": "assets/glb/Banner_Still_Here.glb",
+      "mesh_data": "data/meshes/Banner_Still_Here.npz",
+      "base_color": "assets/textures/Banner_Still_Here_BaseColor.png",
+      "normal": "assets/textures/Banner_Still_Here_Normal.png",
+      "orm": "assets/textures/Banner_Still_Here_ORM.png"
+    },
+    {
+      "id": "Bridge_Deck_Broken",
+      "category": "architecture",
+      "triangles": 132,
+      "vertices": 214,
+      "charts": 41,
+      "atlas_size": 1024,
+      "requested_texel_density_px_m": 88,
+      "packing_texel_density_px_m": 88.0,
+      "effective_texel_density_px_m": 87.57,
+      "surface_area_m2": 38.7676,
+      "uv_coverage": 0.2835,
+      "bounds_m": [
+        [
+          -2.6,
+          -1.2,
+          -0.6
+        ],
+        [
+          2.903603211896329,
+          1.2,
+          0.435
+        ]
+      ],
+      "double_sided": false,
+      "surface_type": "opaque",
+      "description": "",
+      "glb": "assets/glb/Bridge_Deck_Broken.glb",
+      "mesh_data": "data/meshes/Bridge_Deck_Broken.npz",
+      "base_color": "assets/textures/Bridge_Deck_Broken_BaseColor.png",
+      "normal": "assets/textures/Bridge_Deck_Broken_Normal.png",
+      "orm": "assets/textures/Bridge_Deck_Broken_ORM.png"
+    },
+    {
+      "id": "Bridge_Pier",
+      "category": "architecture",
+      "triangles": 36,
+      "vertices": 72,
+      "charts": 18,
+      "atlas_size": 1024,
+      "requested_texel_density_px_m": 88,
+      "packing_texel_density_px_m": 88.0,
+      "effective_texel_density_px_m": 87.46,
+      "surface_area_m2": 30.1888,
+      "uv_coverage": 0.2202,
+      "bounds_m": [
+        [
+          -0.9,
+          -0.75,
+          0.0
+        ],
+        [
+          0.9,
+          0.75,
+          4.465
+        ]
+      ],
+      "double_sided": false,
+      "surface_type": "opaque",
+      "description": "",
+      "glb": "assets/glb/Bridge_Pier.glb",
+      "mesh_data": "data/meshes/Bridge_Pier.npz",
+      "base_color": "assets/textures/Bridge_Pier_BaseColor.png",
+      "normal": "assets/textures/Bridge_Pier_Normal.png",
+      "orm": "assets/textures/Bridge_Pier_ORM.png"
+    },
+    {
+      "id": "Concrete_Wall_Ruined",
+      "category": "architecture",
+      "triangles": 60,
+      "vertices": 120,
+      "charts": 30,
+      "atlas_size": 1024,
+      "requested_texel_density_px_m": 88,
+      "packing_texel_density_px_m": 88.0,
+      "effective_texel_density_px_m": 87.57,
+      "surface_area_m2": 72.5572,
+      "uv_coverage": 0.5306,
+      "bounds_m": [
+        [
+          -2.2,
+          -0.275,
+          0.0
+        ],
+        [
+          2.2,
+          0.275,
+          4.9
+        ]
+      ],
+      "double_sided": false,
+      "surface_type": "opaque",
+      "description": "",
+      "glb": "assets/glb/Concrete_Wall_Ruined.glb",
+      "mesh_data": "data/meshes/Concrete_Wall_Ruined.npz",
+      "base_color": "assets/textures/Concrete_Wall_Ruined_BaseColor.png",
+      "normal": "assets/textures/Concrete_Wall_Ruined_Normal.png",
+      "orm": "assets/textures/Concrete_Wall_Ruined_ORM.png"
+    },
+    {
+      "id": "Wall_Marking_Nature",
+      "category": "architecture",
+      "triangles": 2,
+      "vertices": 4,
+      "charts": 1,
+      "atlas_size": 512,
+      "requested_texel_density_px_m": 88,
+      "packing_texel_density_px_m": 88.0,
+      "effective_texel_density_px_m": 87.82,
+      "surface_area_m2": 9.43,
+      "uv_coverage": 0.2774,
+      "bounds_m": [
+        [
+          -1.15,
+          -0.312,
+          0.22
+        ],
+        [
+          1.15,
+          -0.312,
+          4.32
+        ]
+      ],
+      "double_sided": false,
+      "surface_type": "opaque",
+      "description": "",
+      "glb": "assets/glb/Wall_Marking_Nature.glb",
+      "mesh_data": "data/meshes/Wall_Marking_Nature.npz",
+      "base_color": "assets/textures/Wall_Marking_Nature_BaseColor.png",
+      "normal": "assets/textures/Wall_Marking_Nature_Normal.png",
+      "orm": "assets/textures/Wall_Marking_Nature_ORM.png"
+    },
+    {
+      "id": "Lattice_Pylon",
+      "category": "architecture",
+      "triangles": 608,
+      "vertices": 914,
+      "charts": 153,
+      "atlas_size": 1024,
+      "requested_texel_density_px_m": 88,
+      "packing_texel_density_px_m": 88.0,
+      "effective_texel_density_px_m": 91.18,
+      "surface_area_m2": 34.2384,
+      "uv_coverage": 0.2714,
+      "bounds_m": [
+        [
+          -1.221351976285156,
+          -1.2213620593839893,
+          -0.010288632294887393
+        ],
+        [
+          1.221351976285156,
+          1.2213620593839893,
+          6.932042939940024
+        ]
+      ],
+      "double_sided": false,
+      "surface_type": "opaque",
+      "description": "",
+      "glb": "assets/glb/Lattice_Pylon.glb",
+      "mesh_data": "data/meshes/Lattice_Pylon.npz",
+      "base_color": "assets/textures/Lattice_Pylon_BaseColor.png",
+      "normal": "assets/textures/Lattice_Pylon_Normal.png",
+      "orm": "assets/textures/Lattice_Pylon_ORM.png"
+    },
+    {
+      "id": "Railing_3m",
+      "category": "architecture",
+      "triangles": 100,
+      "vertices": 130,
+      "charts": 15,
+      "atlas_size": 512,
+      "requested_texel_density_px_m": 96,
+      "packing_texel_density_px_m": 96.0,
+      "effective_texel_density_px_m": 97.4,
+      "surface_area_m2": 1.4282,
+      "uv_coverage": 0.0517,
+      "bounds_m": [
+        [
+          -1.527,
+          -0.025,
+          0.0
+        ],
+        [
+          1.527,
+          0.025,
+          1.0716506350946111
+        ]
+      ],
+      "double_sided": false,
+      "surface_type": "opaque",
+      "description": "",
+      "glb": "assets/glb/Railing_3m.glb",
+      "mesh_data": "data/meshes/Railing_3m.npz",
+      "base_color": "assets/textures/Railing_3m_BaseColor.png",
+      "normal": "assets/textures/Railing_3m_Normal.png",
+      "orm": "assets/textures/Railing_3m_ORM.png"
+    },
+    {
+      "id": "Railing_Broken",
+      "category": "architecture",
+      "triangles": 100,
+      "vertices": 130,
+      "charts": 15,
+      "atlas_size": 512,
+      "requested_texel_density_px_m": 96,
+      "packing_texel_density_px_m": 96.0,
+      "effective_texel_density_px_m": 97.5,
+      "surface_area_m2": 1.3944,
+      "uv_coverage": 0.0506,
+      "bounds_m": [
+        [
+          -1.527,
+          -0.024997778074030187,
+          -0.005612186407141204
+        ],
+        [
+          1.696410288974782,
+          0.10327162011928812,
+          1.0715758617910773
+        ]
+      ],
+      "double_sided": false,
+      "surface_type": "opaque",
+      "description": "",
+      "glb": "assets/glb/Railing_Broken.glb",
+      "mesh_data": "data/meshes/Railing_Broken.npz",
+      "base_color": "assets/textures/Railing_Broken_BaseColor.png",
+      "normal": "assets/textures/Railing_Broken_Normal.png",
+      "orm": "assets/textures/Railing_Broken_ORM.png"
+    },
+    {
+      "id": "Truck_Abandoned",
+      "category": "props",
+      "triangles": 1530,
+      "vertices": 1874,
+      "charts": 292,
+      "atlas_size": 2048,
+      "requested_texel_density_px_m": 96,
+      "packing_texel_density_px_m": 96.0,
+      "effective_texel_density_px_m": 95.52,
+      "surface_area_m2": 104.9044,
+      "uv_coverage": 0.2282,
+      "bounds_m": [
+        [
+          -2.629,
+          -1.2325,
+          0.015000000000000013
+        ],
+        [
+          2.325,
+          1.2325,
+          2.82
+        ]
+      ],
+      "double_sided": false,
+      "surface_type": "opaque",
+      "description": "Static damaged delivery truck with cargo seams, slanted cab, glazing, mirrors, grille and tyres; vines are separate reused objects.",
+      "glb": "assets/glb/Truck_Abandoned.glb",
+      "mesh_data": "data/meshes/Truck_Abandoned.npz",
+      "base_color": "assets/textures/Truck_Abandoned_BaseColor.png",
+      "normal": "assets/textures/Truck_Abandoned_Normal.png",
+      "orm": "assets/textures/Truck_Abandoned_ORM.png"
+    },
+    {
+      "id": "Crate_Wood",
+      "category": "props",
+      "triangles": 180,
+      "vertices": 348,
+      "charts": 84,
+      "atlas_size": 512,
+      "requested_texel_density_px_m": 96,
+      "packing_texel_density_px_m": 96.0,
+      "effective_texel_density_px_m": 93.7,
+      "surface_area_m2": 10.5889,
+      "uv_coverage": 0.3546,
+      "bounds_m": [
+        [
+          -0.5850000000000001,
+          -0.557,
+          -0.009999999999999898
+        ],
+        [
+          0.5850000000000001,
+          0.545,
+          1.155
+        ]
+      ],
+      "double_sided": false,
+      "surface_type": "opaque",
+      "description": "",
+      "glb": "assets/glb/Crate_Wood.glb",
+      "mesh_data": "data/meshes/Crate_Wood.npz",
+      "base_color": "assets/textures/Crate_Wood_BaseColor.png",
+      "normal": "assets/textures/Crate_Wood_Normal.png",
+      "orm": "assets/textures/Crate_Wood_ORM.png"
+    },
+    {
+      "id": "Tarp_Covered_Stack",
+      "category": "props",
+      "triangles": 484,
+      "vertices": 315,
+      "charts": 13,
+      "atlas_size": 1024,
+      "requested_texel_density_px_m": 96,
+      "packing_texel_density_px_m": 96.0,
+      "effective_texel_density_px_m": 90.8,
+      "surface_area_m2": 17.5605,
+      "uv_coverage": 0.1381,
+      "bounds_m": [
+        [
+          -1.05,
+          -0.85,
+          0.0
+        ],
+        [
+          1.05,
+          0.85,
+          1.2952653067100937
+        ]
+      ],
+      "double_sided": true,
+      "surface_type": "opaque",
+      "description": "",
+      "glb": "assets/glb/Tarp_Covered_Stack.glb",
+      "mesh_data": "data/meshes/Tarp_Covered_Stack.npz",
+      "base_color": "assets/textures/Tarp_Covered_Stack_BaseColor.png",
+      "normal": "assets/textures/Tarp_Covered_Stack_Normal.png",
+      "orm": "assets/textures/Tarp_Covered_Stack_ORM.png"
+    },
+    {
+      "id": "Drum_Aged",
+      "category": "props",
+      "triangles": 376,
+      "vertices": 412,
+      "charts": 18,
+      "atlas_size": 512,
+      "requested_texel_density_px_m": 96,
+      "packing_texel_density_px_m": 96.0,
+      "effective_texel_density_px_m": 95.18,
+      "surface_area_m2": 7.2554,
+      "uv_coverage": 0.2507,
+      "bounds_m": [
+        [
+          -0.378,
+          -0.37225733063861466,
+          0.015
+        ],
+        [
+          0.378,
+          0.37225733063861466,
+          1.12
+        ]
+      ],
+      "double_sided": false,
+      "surface_type": "opaque",
+      "description": "",
+      "glb": "assets/glb/Drum_Aged.glb",
+      "mesh_data": "data/meshes/Drum_Aged.npz",
+      "base_color": "assets/textures/Drum_Aged_BaseColor.png",
+      "normal": "assets/textures/Drum_Aged_Normal.png",
+      "orm": "assets/textures/Drum_Aged_ORM.png"
+    },
+    {
+      "id": "Log_Fallen_Bridge",
+      "category": "props",
+      "triangles": 420,
+      "vertices": 514,
+      "charts": 47,
+      "atlas_size": 1024,
+      "requested_texel_density_px_m": 96,
+      "packing_texel_density_px_m": 96.0,
+      "effective_texel_density_px_m": 99.58,
+      "surface_area_m2": 29.2187,
+      "uv_coverage": 0.2763,
+      "bounds_m": [
+        [
+          -4.340664999009065,
+          -0.5841963838582629,
+          -0.5510782250525169
+        ],
+        [
+          4.115719229579503,
+          0.5784845399969158,
+          0.5849060031332916
+        ]
+      ],
+      "double_sided": false,
+      "surface_type": "opaque",
+      "description": "",
+      "glb": "assets/glb/Log_Fallen_Bridge.glb",
+      "mesh_data": "data/meshes/Log_Fallen_Bridge.npz",
+      "base_color": "assets/textures/Log_Fallen_Bridge_BaseColor.png",
+      "normal": "assets/textures/Log_Fallen_Bridge_Normal.png",
+      "orm": "assets/textures/Log_Fallen_Bridge_ORM.png"
+    },
+    {
+      "id": "Traveller_Static",
+      "category": "character",
+      "triangles": 968,
+      "vertices": 969,
+      "charts": 96,
+      "atlas_size": 512,
+      "requested_texel_density_px_m": 96,
+      "packing_texel_density_px_m": 96.0,
+      "effective_texel_density_px_m": 104.79,
+      "surface_area_m2": 5.667,
+      "uv_coverage": 0.2374,
+      "bounds_m": [
+        [
+          -0.43757748629615584,
+          -0.3695,
+          0.0
+        ],
+        [
+          0.43757748629615584,
+          0.31,
+          1.7299916800443733
+        ]
+      ],
+      "double_sided": false,
+      "surface_type": "opaque",
+      "description": "",
+      "glb": "assets/glb/Traveller_Static.glb",
+      "mesh_data": "data/meshes/Traveller_Static.npz",
+      "base_color": "assets/textures/Traveller_Static_BaseColor.png",
+      "normal": "assets/textures/Traveller_Static_Normal.png",
+      "orm": "assets/textures/Traveller_Static_ORM.png"
+    },
+    {
+      "id": "Gull_Perched",
+      "category": "wildlife",
+      "triangles": 832,
+      "vertices": 579,
+      "charts": 20,
+      "atlas_size": 256,
+      "requested_texel_density_px_m": 96,
+      "packing_texel_density_px_m": 96.0,
+      "effective_texel_density_px_m": 142.04,
+      "surface_area_m2": 1.468,
+      "uv_coverage": 0.452,
+      "bounds_m": [
+        [
+          -0.20193280815834214,
+          -0.27847733464215235,
+          0.015734152255572696
+        ],
+        [
+          0.20193280815834214,
+          0.411215607956005,
+          0.7899955200238933
+        ]
+      ],
+      "double_sided": false,
+      "surface_type": "opaque",
+      "description": "",
+      "glb": "assets/glb/Gull_Perched.glb",
+      "mesh_data": "data/meshes/Gull_Perched.npz",
+      "base_color": "assets/textures/Gull_Perched_BaseColor.png",
+      "normal": "assets/textures/Gull_Perched_Normal.png",
+      "orm": "assets/textures/Gull_Perched_ORM.png"
+    },
+    {
+      "id": "Crate_Open",
+      "category": "props",
+      "triangles": 204,
+      "vertices": 408,
+      "charts": 102,
+      "atlas_size": 512,
+      "requested_texel_density_px_m": 96,
+      "packing_texel_density_px_m": 96.0,
+      "effective_texel_density_px_m": 93.75,
+      "surface_area_m2": 14.8104,
+      "uv_coverage": 0.4965,
+      "bounds_m": [
+        [
+          -0.5850000000000001,
+          -0.545,
+          -0.009999999999999898
+        ],
+        [
+          0.5850000000000001,
+          0.545,
+          1.13
+        ]
+      ],
+      "double_sided": false,
+      "surface_type": "opaque",
+      "description": "",
+      "glb": "assets/glb/Crate_Open.glb",
+      "mesh_data": "data/meshes/Crate_Open.npz",
+      "base_color": "assets/textures/Crate_Open_BaseColor.png",
+      "normal": "assets/textures/Crate_Open_Normal.png",
+      "orm": "assets/textures/Crate_Open_ORM.png"
+    },
+    {
+      "id": "Broadleaf_A",
+      "category": "trees",
+      "triangles": 6744,
+      "vertices": 7920,
+      "charts": 1098,
+      "atlas_size": 1024,
+      "requested_texel_density_px_m": 72,
+      "packing_texel_density_px_m": 72.0,
+      "effective_texel_density_px_m": 72.8,
+      "surface_area_m2": 52.2861,
+      "uv_coverage": 0.2642,
+      "bounds_m": [
+        [
+          -2.217219225209429,
+          -2.3723231001573004,
+          -0.016487391907047403
+        ],
+        [
+          2.365065013049287,
+          2.380771888872603,
+          5.553098156560934
+        ]
+      ],
+      "double_sided": true,
+      "surface_type": "opaque",
+      "description": "Bent trunk and radial branch structure with individual folded six-point leaves; reusable canopy silhouette.",
+      "glb": "assets/glb/Broadleaf_A.glb",
+      "mesh_data": "data/meshes/Broadleaf_A.npz",
+      "base_color": "assets/textures/Broadleaf_A_BaseColor.png",
+      "normal": "assets/textures/Broadleaf_A_Normal.png",
+      "orm": "assets/textures/Broadleaf_A_ORM.png"
+    },
+    {
+      "id": "Broadleaf_B",
+      "category": "trees",
+      "triangles": 6744,
+      "vertices": 7920,
+      "charts": 1098,
+      "atlas_size": 1024,
+      "requested_texel_density_px_m": 72,
+      "packing_texel_density_px_m": 72.0,
+      "effective_texel_density_px_m": 72.94,
+      "surface_area_m2": 52.6223,
+      "uv_coverage": 0.267,
+      "bounds_m": [
+        [
+          -2.619759801608583,
+          -2.291105155588847,
+          -0.017470978035193294
+        ],
+        [
+          2.507195801209221,
+          2.0601483218395167,
+          5.606670620090282
+        ]
+      ],
+      "double_sided": true,
+      "surface_type": "opaque",
+      "description": "Bent trunk and radial branch structure with individual folded six-point leaves; reusable canopy silhouette.",
+      "glb": "assets/glb/Broadleaf_B.glb",
+      "mesh_data": "data/meshes/Broadleaf_B.npz",
+      "base_color": "assets/textures/Broadleaf_B_BaseColor.png",
+      "normal": "assets/textures/Broadleaf_B_Normal.png",
+      "orm": "assets/textures/Broadleaf_B_ORM.png"
+    },
+    {
+      "id": "Broadleaf_C",
+      "category": "trees",
+      "triangles": 6744,
+      "vertices": 7920,
+      "charts": 1098,
+      "atlas_size": 1024,
+      "requested_texel_density_px_m": 72,
+      "packing_texel_density_px_m": 72.0,
+      "effective_texel_density_px_m": 72.84,
+      "surface_area_m2": 53.0126,
+      "uv_coverage": 0.2682,
+      "bounds_m": [
+        [
+          -2.172821602172565,
+          -2.6244951711097078,
+          -0.017306119929813804
+        ],
+        [
+          2.505498729521343,
+          2.4058434283207877,
+          5.749471988444009
+        ]
+      ],
+      "double_sided": true,
+      "surface_type": "opaque",
+      "description": "Bent trunk and radial branch structure with individual folded six-point leaves; reusable canopy silhouette.",
+      "glb": "assets/glb/Broadleaf_C.glb",
+      "mesh_data": "data/meshes/Broadleaf_C.npz",
+      "base_color": "assets/textures/Broadleaf_C_BaseColor.png",
+      "normal": "assets/textures/Broadleaf_C_Normal.png",
+      "orm": "assets/textures/Broadleaf_C_ORM.png"
+    },
+    {
+      "id": "Pine_A",
+      "category": "trees",
+      "triangles": 12836,
+      "vertices": 17162,
+      "charts": 2803,
+      "atlas_size": 2048,
+      "requested_texel_density_px_m": 64,
+      "packing_texel_density_px_m": 64.0,
+      "effective_texel_density_px_m": 64.86,
+      "surface_area_m2": 118.2949,
+      "uv_coverage": 0.1186,
+      "bounds_m": [
+        [
+          -2.0505224347692557,
+          -2.048807069245191,
+          -0.0022498242393466836
+        ],
+        [
+          2.0468168761310683,
+          2.045262889807372,
+          8.000224982423935
+        ]
+      ],
+      "double_sided": true,
+      "surface_type": "opaque",
+      "description": "",
+      "glb": "assets/glb/Pine_A.glb",
+      "mesh_data": "data/meshes/Pine_A.npz",
+      "base_color": "assets/textures/Pine_A_BaseColor.png",
+      "normal": "assets/textures/Pine_A_Normal.png",
+      "orm": "assets/textures/Pine_A_ORM.png"
+    },
+    {
+      "id": "Pine_B",
+      "category": "trees",
+      "triangles": 12836,
+      "vertices": 17162,
+      "charts": 2803,
+      "atlas_size": 2048,
+      "requested_texel_density_px_m": 64,
+      "packing_texel_density_px_m": 64.0,
+      "effective_texel_density_px_m": 64.97,
+      "surface_area_m2": 118.8454,
+      "uv_coverage": 0.1196,
+      "bounds_m": [
+        [
+          -2.0438223871755747,
+          -2.0505325870287066,
+          -0.0020223442570109535
+        ],
+        [
+          2.0503708137901357,
+          2.044522267357706,
+          8.900202234425702
+        ]
+      ],
+      "double_sided": true,
+      "surface_type": "opaque",
+      "description": "",
+      "glb": "assets/glb/Pine_B.glb",
+      "mesh_data": "data/meshes/Pine_B.npz",
+      "base_color": "assets/textures/Pine_B_BaseColor.png",
+      "normal": "assets/textures/Pine_B_Normal.png",
+      "orm": "assets/textures/Pine_B_ORM.png"
+    },
+    {
+      "id": "Bush_A",
+      "category": "shrubs",
+      "triangles": 1666,
+      "vertices": 1967,
+      "charts": 280,
+      "atlas_size": 512,
+      "requested_texel_density_px_m": 80,
+      "packing_texel_density_px_m": 80.0,
+      "effective_texel_density_px_m": 79.26,
+      "surface_area_m2": 6.2411,
+      "uv_coverage": 0.1496,
+      "bounds_m": [
+        [
+          -0.7829958856190459,
+          -0.9341314832136154,
+          0.006081875123825926
+        ],
+        [
+          0.8572814374574304,
+          0.7931150673603935,
+          1.4070641327408269
+        ]
+      ],
+      "double_sided": true,
+      "surface_type": "opaque",
+      "description": "",
+      "glb": "assets/glb/Bush_A.glb",
+      "mesh_data": "data/meshes/Bush_A.npz",
+      "base_color": "assets/textures/Bush_A_BaseColor.png",
+      "normal": "assets/textures/Bush_A_Normal.png",
+      "orm": "assets/textures/Bush_A_ORM.png"
+    },
+    {
+      "id": "Bush_B",
+      "category": "shrubs",
+      "triangles": 1666,
+      "vertices": 1967,
+      "charts": 280,
+      "atlas_size": 512,
+      "requested_texel_density_px_m": 80,
+      "packing_texel_density_px_m": 80.0,
+      "effective_texel_density_px_m": 79.12,
+      "surface_area_m2": 6.1959,
+      "uv_coverage": 0.1479,
+      "bounds_m": [
+        [
+          -0.6969226592100164,
+          -0.7071191511556714,
+          0.010025349806269067
+        ],
+        [
+          0.8278993188446115,
+          0.691944545328816,
+          1.323011452229505
+        ]
+      ],
+      "double_sided": true,
+      "surface_type": "opaque",
+      "description": "",
+      "glb": "assets/glb/Bush_B.glb",
+      "mesh_data": "data/meshes/Bush_B.npz",
+      "base_color": "assets/textures/Bush_B_BaseColor.png",
+      "normal": "assets/textures/Bush_B_Normal.png",
+      "orm": "assets/textures/Bush_B_ORM.png"
+    },
+    {
+      "id": "Bush_C",
+      "category": "shrubs",
+      "triangles": 1666,
+      "vertices": 1967,
+      "charts": 280,
+      "atlas_size": 512,
+      "requested_texel_density_px_m": 80,
+      "packing_texel_density_px_m": 80.0,
+      "effective_texel_density_px_m": 79.12,
+      "surface_area_m2": 6.0991,
+      "uv_coverage": 0.1457,
+      "bounds_m": [
+        [
+          -0.76460374091338,
+          -0.8771842398627878,
+          0.007107494297121845
+        ],
+        [
+          0.6566305006413516,
+          0.7996325834742668,
+          1.2789746126798895
+        ]
+      ],
+      "double_sided": true,
+      "surface_type": "opaque",
+      "description": "",
+      "glb": "assets/glb/Bush_C.glb",
+      "mesh_data": "data/meshes/Bush_C.npz",
+      "base_color": "assets/textures/Bush_C_BaseColor.png",
+      "normal": "assets/textures/Bush_C_Normal.png",
+      "orm": "assets/textures/Bush_C_ORM.png"
+    },
+    {
+      "id": "Grass_A",
+      "category": "groundcover",
+      "triangles": 192,
+      "vertices": 320,
+      "charts": 64,
+      "atlas_size": 256,
+      "requested_texel_density_px_m": 96,
+      "packing_texel_density_px_m": 96.0,
+      "effective_texel_density_px_m": 89.71,
+      "surface_area_m2": 1.0978,
+      "uv_coverage": 0.1348,
+      "bounds_m": [
+        [
+          -0.6537739492043388,
+          -0.6621672176228732,
+          0.0
+        ],
+        [
+          0.6755760814272913,
+          0.6572941130081574,
+          0.5146331284652373
+        ]
+      ],
+      "double_sided": true,
+      "surface_type": "opaque",
+      "description": "",
+      "glb": "assets/glb/Grass_A.glb",
+      "mesh_data": "data/meshes/Grass_A.npz",
+      "base_color": "assets/textures/Grass_A_BaseColor.png",
+      "normal": "assets/textures/Grass_A_Normal.png",
+      "orm": "assets/textures/Grass_A_ORM.png"
+    },
+    {
+      "id": "Grass_B",
+      "category": "groundcover",
+      "triangles": 192,
+      "vertices": 320,
+      "charts": 64,
+      "atlas_size": 256,
+      "requested_texel_density_px_m": 96,
+      "packing_texel_density_px_m": 96.0,
+      "effective_texel_density_px_m": 90.67,
+      "surface_area_m2": 1.1153,
+      "uv_coverage": 0.1399,
+      "bounds_m": [
+        [
+          -0.6985214104412047,
+          -0.6613668725049584,
+          0.0
+        ],
+        [
+          0.7438483055413336,
+          0.7507184092835948,
+          0.5131581990359425
+        ]
+      ],
+      "double_sided": true,
+      "surface_type": "opaque",
+      "description": "",
+      "glb": "assets/glb/Grass_B.glb",
+      "mesh_data": "data/meshes/Grass_B.npz",
+      "base_color": "assets/textures/Grass_B_BaseColor.png",
+      "normal": "assets/textures/Grass_B_Normal.png",
+      "orm": "assets/textures/Grass_B_ORM.png"
+    },
+    {
+      "id": "Flowers_White",
+      "category": "groundcover",
+      "triangles": 640,
+      "vertices": 960,
+      "charts": 180,
+      "atlas_size": 256,
+      "requested_texel_density_px_m": 96,
+      "packing_texel_density_px_m": 96.0,
+      "effective_texel_density_px_m": 95.54,
+      "surface_area_m2": 1.1754,
+      "uv_coverage": 0.1637,
+      "bounds_m": [
+        [
+          -0.38456616253224424,
+          -0.5160499333779802,
+          -0.0013915619711171103
+        ],
+        [
+          0.395318348006785,
+          0.6655619099640618,
+          0.603567917330152
+        ]
+      ],
+      "double_sided": true,
+      "surface_type": "opaque",
+      "description": "",
+      "glb": "assets/glb/Flowers_White.glb",
+      "mesh_data": "data/meshes/Flowers_White.npz",
+      "base_color": "assets/textures/Flowers_White_BaseColor.png",
+      "normal": "assets/textures/Flowers_White_Normal.png",
+      "orm": "assets/textures/Flowers_White_ORM.png"
+    },
+    {
+      "id": "Flowers_Pink",
+      "category": "groundcover",
+      "triangles": 640,
+      "vertices": 960,
+      "charts": 180,
+      "atlas_size": 256,
+      "requested_texel_density_px_m": 96,
+      "packing_texel_density_px_m": 96.0,
+      "effective_texel_density_px_m": 95.48,
+      "surface_area_m2": 1.1677,
+      "uv_coverage": 0.1624,
+      "bounds_m": [
+        [
+          -0.5771610242621359,
+          -0.6572492384135094,
+          -0.0013874628960472036
+        ],
+        [
+          0.7655667526452152,
+          0.6066492517670177,
+          0.6949723490169668
+        ]
+      ],
+      "double_sided": true,
+      "surface_type": "opaque",
+      "description": "",
+      "glb": "assets/glb/Flowers_Pink.glb",
+      "mesh_data": "data/meshes/Flowers_Pink.npz",
+      "base_color": "assets/textures/Flowers_Pink_BaseColor.png",
+      "normal": "assets/textures/Flowers_Pink_Normal.png",
+      "orm": "assets/textures/Flowers_Pink_ORM.png"
+    },
+    {
+      "id": "Fern",
+      "category": "groundcover",
+      "triangles": 768,
+      "vertices": 896,
+      "charts": 128,
+      "atlas_size": 256,
+      "requested_texel_density_px_m": 96,
+      "packing_texel_density_px_m": 96.0,
+      "effective_texel_density_px_m": 91.79,
+      "surface_area_m2": 0.8293,
+      "uv_coverage": 0.1066,
+      "bounds_m": [
+        [
+          -0.7596627475003952,
+          -0.721948772648489,
+          0.10489058435364079
+        ],
+        [
+          0.5764964213240247,
+          0.72641433668033,
+          0.6333658175924286
+        ]
+      ],
+      "double_sided": true,
+      "surface_type": "opaque",
+      "description": "",
+      "glb": "assets/glb/Fern.glb",
+      "mesh_data": "data/meshes/Fern.npz",
+      "base_color": "assets/textures/Fern_BaseColor.png",
+      "normal": "assets/textures/Fern_Normal.png",
+      "orm": "assets/textures/Fern_ORM.png"
+    },
+    {
+      "id": "Ivy_Long",
+      "category": "vines",
+      "triangles": 1440,
+      "vertices": 1728,
+      "charts": 216,
+      "atlas_size": 512,
+      "requested_texel_density_px_m": 88,
+      "packing_texel_density_px_m": 88.0,
+      "effective_texel_density_px_m": 86.22,
+      "surface_area_m2": 4.1862,
+      "uv_coverage": 0.1187,
+      "bounds_m": [
+        [
+          -0.6342140116143847,
+          -0.13059254406645115,
+          -3.282394228147912
+        ],
+        [
+          0.6226933713744739,
+          0.08046195601099501,
+          0.03198166352827117
+        ]
+      ],
+      "double_sided": true,
+      "surface_type": "opaque",
+      "description": "",
+      "glb": "assets/glb/Ivy_Long.glb",
+      "mesh_data": "data/meshes/Ivy_Long.npz",
+      "base_color": "assets/textures/Ivy_Long_BaseColor.png",
+      "normal": "assets/textures/Ivy_Long_Normal.png",
+      "orm": "assets/textures/Ivy_Long_ORM.png"
+    },
+    {
+      "id": "Ivy_Short",
+      "category": "vines",
+      "triangles": 1440,
+      "vertices": 1728,
+      "charts": 216,
+      "atlas_size": 512,
+      "requested_texel_density_px_m": 88,
+      "packing_texel_density_px_m": 88.0,
+      "effective_texel_density_px_m": 85.4,
+      "surface_area_m2": 3.7625,
+      "uv_coverage": 0.1047,
+      "bounds_m": [
+        [
+          -0.6406210245931522,
+          -0.1300317511166284,
+          -1.5853058608570432
+        ],
+        [
+          0.6455599277359672,
+          0.07802712075865828,
+          0.10077244752576546
+        ]
+      ],
+      "double_sided": true,
+      "surface_type": "opaque",
+      "description": "",
+      "glb": "assets/glb/Ivy_Short.glb",
+      "mesh_data": "data/meshes/Ivy_Short.npz",
+      "base_color": "assets/textures/Ivy_Short_BaseColor.png",
+      "normal": "assets/textures/Ivy_Short_Normal.png",
+      "orm": "assets/textures/Ivy_Short_ORM.png"
+    },
+    {
+      "id": "River_Surface_A",
+      "category": "water",
+      "triangles": 240,
+      "vertices": 147,
+      "charts": 1,
+      "atlas_size": 1024,
+      "requested_texel_density_px_m": 88,
+      "packing_texel_density_px_m": 88.0,
+      "effective_texel_density_px_m": 87.8,
+      "surface_area_m2": 35.0193,
+      "uv_coverage": 0.2575,
+      "bounds_m": [
+        [
+          -2.5,
+          -3.5,
+          -0.022176343773404335
+        ],
+        [
+          2.5,
+          3.5,
+          0.02217634377340434
+        ]
+      ],
+      "double_sided": false,
+      "surface_type": "water",
+      "description": "Opaque stylised water base; engine scripts add time-dependent normal ripples, foam geometry remains separate.",
+      "glb": "assets/glb/River_Surface_A.glb",
+      "mesh_data": "data/meshes/River_Surface_A.npz",
+      "base_color": "assets/textures/River_Surface_A_BaseColor.png",
+      "normal": "assets/textures/River_Surface_A_Normal.png",
+      "orm": "assets/textures/River_Surface_A_ORM.png"
+    },
+    {
+      "id": "River_Surface_B",
+      "category": "water",
+      "triangles": 240,
+      "vertices": 147,
+      "charts": 1,
+      "atlas_size": 1024,
+      "requested_texel_density_px_m": 88,
+      "packing_texel_density_px_m": 88.0,
+      "effective_texel_density_px_m": 87.8,
+      "surface_area_m2": 35.0193,
+      "uv_coverage": 0.2575,
+      "bounds_m": [
+        [
+          -2.5,
+          -3.5,
+          -0.022176343773404335
+        ],
+        [
+          2.5,
+          3.5,
+          0.02217634377340434
+        ]
+      ],
+      "double_sided": false,
+      "surface_type": "water",
+      "description": "Opaque stylised water base; engine scripts add time-dependent normal ripples, foam geometry remains separate.",
+      "glb": "assets/glb/River_Surface_B.glb",
+      "mesh_data": "data/meshes/River_Surface_B.npz",
+      "base_color": "assets/textures/River_Surface_B_BaseColor.png",
+      "normal": "assets/textures/River_Surface_B_Normal.png",
+      "orm": "assets/textures/River_Surface_B_ORM.png"
+    },
+    {
+      "id": "Waterfall",
+      "category": "water",
+      "triangles": 2248,
+      "vertices": 2385,
+      "charts": 205,
+      "atlas_size": 1024,
+      "requested_texel_density_px_m": 104,
+      "packing_texel_density_px_m": 104.0,
+      "effective_texel_density_px_m": 103.27,
+      "surface_area_m2": 34.66,
+      "uv_coverage": 0.3525,
+      "bounds_m": [
+        [
+          -1.3432844232897732,
+          -0.14999988008003293,
+          -0.007291803465260185
+        ],
+        [
+          1.3432844232897732,
+          0.53,
+          5.503752033561389
+        ]
+      ],
+      "double_sided": true,
+      "surface_type": "waterfall",
+      "description": "",
+      "glb": "assets/glb/Waterfall.glb",
+      "mesh_data": "data/meshes/Waterfall.npz",
+      "base_color": "assets/textures/Waterfall_BaseColor.png",
+      "normal": "assets/textures/Waterfall_Normal.png",
+      "orm": "assets/textures/Waterfall_ORM.png"
+    },
+    {
+      "id": "Foam_Ring",
+      "category": "water",
+      "triangles": 192,
+      "vertices": 384,
+      "charts": 96,
+      "atlas_size": 256,
+      "requested_texel_density_px_m": 112,
+      "packing_texel_density_px_m": 112.0,
+      "effective_texel_density_px_m": 104.81,
+      "surface_area_m2": 0.4334,
+      "uv_coverage": 0.0726,
+      "bounds_m": [
+        [
+          -1.253357925873559,
+          -1.139479984378309,
+          0.035
+        ],
+        [
+          0.45657452804391585,
+          1.0811065743155506,
+          0.040600000000000004
+        ]
+      ],
+      "double_sided": true,
+      "surface_type": "foam",
+      "description": "",
+      "glb": "assets/glb/Foam_Ring.glb",
+      "mesh_data": "data/meshes/Foam_Ring.npz",
+      "base_color": "assets/textures/Foam_Ring_BaseColor.png",
+      "normal": "assets/textures/Foam_Ring_Normal.png",
+      "orm": "assets/textures/Foam_Ring_ORM.png"
+    },
+    {
+      "id": "Foam_Stream",
+      "category": "water",
+      "triangles": 144,
+      "vertices": 288,
+      "charts": 72,
+      "atlas_size": 128,
+      "requested_texel_density_px_m": 112,
+      "packing_texel_density_px_m": 112.0,
+      "effective_texel_density_px_m": 102.1,
+      "surface_area_m2": 0.174,
+      "uv_coverage": 0.1107,
+      "bounds_m": [
+        [
+          -1.7545980855413181,
+          -1.9458438172337522,
+          0.04009050558644794
+        ],
+        [
+          1.612161926025126,
+          2.256593907161885,
+          0.04399574966806637
+        ]
+      ],
+      "double_sided": true,
+      "surface_type": "foam",
+      "description": "",
+      "glb": "assets/glb/Foam_Stream.glb",
+      "mesh_data": "data/meshes/Foam_Stream.npz",
+      "base_color": "assets/textures/Foam_Stream_BaseColor.png",
+      "normal": "assets/textures/Foam_Stream_Normal.png",
+      "orm": "assets/textures/Foam_Stream_ORM.png"
+    },
+    {
+      "id": "Axis_Probe_X",
+      "category": "calibration",
+      "triangles": 12,
+      "vertices": 24,
+      "charts": 6,
+      "atlas_size": 128,
+      "requested_texel_density_px_m": 24,
+      "packing_texel_density_px_m": 24.0,
+      "effective_texel_density_px_m": 16.67,
+      "surface_area_m2": 0.0864,
+      "uv_coverage": 0.0015,
+      "bounds_m": [
+        [
+          0.94,
+          -0.06,
+          -0.06
+        ],
+        [
+          1.06,
+          0.06,
+          0.06
+        ]
+      ],
+      "double_sided": false,
+      "surface_type": "opaque",
+      "description": "",
+      "glb": "assets/glb/Axis_Probe_X.glb",
+      "mesh_data": "data/meshes/Axis_Probe_X.npz",
+      "base_color": "assets/textures/Axis_Probe_X_BaseColor.png",
+      "normal": "assets/textures/Axis_Probe_X_Normal.png",
+      "orm": "assets/textures/Axis_Probe_X_ORM.png"
+    },
+    {
+      "id": "Axis_Probe_Y",
+      "category": "calibration",
+      "triangles": 12,
+      "vertices": 24,
+      "charts": 6,
+      "atlas_size": 128,
+      "requested_texel_density_px_m": 24,
+      "packing_texel_density_px_m": 24.0,
+      "effective_texel_density_px_m": 16.67,
+      "surface_area_m2": 0.0864,
+      "uv_coverage": 0.0015,
+      "bounds_m": [
+        [
+          -0.06,
+          0.94,
+          -0.06
+        ],
+        [
+          0.06,
+          1.06,
+          0.06
+        ]
+      ],
+      "double_sided": false,
+      "surface_type": "opaque",
+      "description": "",
+      "glb": "assets/glb/Axis_Probe_Y.glb",
+      "mesh_data": "data/meshes/Axis_Probe_Y.npz",
+      "base_color": "assets/textures/Axis_Probe_Y_BaseColor.png",
+      "normal": "assets/textures/Axis_Probe_Y_Normal.png",
+      "orm": "assets/textures/Axis_Probe_Y_ORM.png"
+    },
+    {
+      "id": "Axis_Probe_Z",
+      "category": "calibration",
+      "triangles": 12,
+      "vertices": 24,
+      "charts": 6,
+      "atlas_size": 128,
+      "requested_texel_density_px_m": 24,
+      "packing_texel_density_px_m": 24.0,
+      "effective_texel_density_px_m": 16.67,
+      "surface_area_m2": 0.0864,
+      "uv_coverage": 0.0015,
+      "bounds_m": [
+        [
+          -0.06,
+          -0.06,
+          0.94
+        ],
+        [
+          0.06,
+          0.06,
+          1.06
+        ]
+      ],
+      "double_sided": false,
+      "surface_type": "opaque",
+      "description": "",
+      "glb": "assets/glb/Axis_Probe_Z.glb",
+      "mesh_data": "data/meshes/Axis_Probe_Z.npz",
+      "base_color": "assets/textures/Axis_Probe_Z_BaseColor.png",
+      "normal": "assets/textures/Axis_Probe_Z_Normal.png",
+      "orm": "assets/textures/Axis_Probe_Z_ORM.png"
+    },
+    {
+      "id": "River_Main",
+      "category": "water",
+      "triangles": 1620,
+      "vertices": 902,
+      "charts": 1,
+      "atlas_size": 2048,
+      "requested_texel_density_px_m": 72,
+      "packing_texel_density_px_m": 49.07,
+      "effective_texel_density_px_m": 49.05,
+      "surface_area_m2": 408.4943,
+      "uv_coverage": 0.2343,
+      "bounds_m": [
+        [
+          -7.59765625,
+          -26.978796807941414,
+          -0.004999995902478335
+        ],
+        [
+          11.460937500000004,
+          10.236358370234925,
+          0.004999986497104578
+        ]
+      ],
+      "double_sided": false,
+      "surface_type": "water",
+      "description": "Continuous curved lower river with no overlapping water-sheet seams; placement pivot [10.5, 0, -0.09] metres.",
+      "glb": "assets/glb/River_Main.glb",
+      "mesh_data": "data/meshes/River_Main.npz",
+      "base_color": "assets/textures/River_Main_BaseColor.png",
+      "normal": "assets/textures/River_Main_Normal.png",
+      "orm": "assets/textures/River_Main_ORM.png"
+    },
+    {
+      "id": "Tank_Interior_Floor",
+      "category": "ground",
+      "triangles": 106,
+      "vertices": 127,
+      "charts": 20,
+      "atlas_size": 1024,
+      "requested_texel_density_px_m": 48,
+      "packing_texel_density_px_m": 48.0,
+      "effective_texel_density_px_m": 47.9,
+      "surface_area_m2": 198.9641,
+      "uv_coverage": 0.4354,
+      "bounds_m": [
+        [
+          -5.733021098957745,
+          -4.921594116754897,
+          -0.1
+        ],
+        [
+          6.464162826810337,
+          5.356258697443722,
+          0.04
+        ]
+      ],
+      "double_sided": false,
+      "surface_type": "opaque",
+      "description": "Irregular overlapping surface module with a lowered feathered perimeter; separate seam-cover meshes are placed in the scene.",
+      "glb": "assets/glb/Tank_Interior_Floor.glb",
+      "mesh_data": "data/meshes/Tank_Interior_Floor.npz",
+      "base_color": "assets/textures/Tank_Interior_Floor_BaseColor.png",
+      "normal": "assets/textures/Tank_Interior_Floor_Normal.png",
+      "orm": "assets/textures/Tank_Interior_Floor_ORM.png"
+    },
+    {
+      "id": "Rock_Hero_Island",
+      "category": "rocks",
+      "triangles": 110,
+      "vertices": 137,
+      "charts": 23,
+      "atlas_size": 1024,
+      "requested_texel_density_px_m": 96,
+      "packing_texel_density_px_m": 96.0,
+      "effective_texel_density_px_m": 95.55,
+      "surface_area_m2": 23.3104,
+      "uv_coverage": 0.2029,
+      "bounds_m": [
+        [
+          -1.6182094433651093,
+          -1.1594717964869605,
+          -0.12
+        ],
+        [
+          1.4682539275827646,
+          1.1202918910379587,
+          1.717
+        ]
+      ],
+      "double_sided": false,
+      "surface_type": "opaque",
+      "description": "Broad, flat-topped river island with bevelled rock faces and a separate feathered moss cap.",
+      "glb": "assets/glb/Rock_Hero_Island.glb",
+      "mesh_data": "data/meshes/Rock_Hero_Island.npz",
+      "base_color": "assets/textures/Rock_Hero_Island_BaseColor.png",
+      "normal": "assets/textures/Rock_Hero_Island_Normal.png",
+      "orm": "assets/textures/Rock_Hero_Island_ORM.png"
+    },
+    {
+      "id": "Foam_Generated_Eddies",
+      "category": "water",
+      "triangles": 221,
+      "vertices": 295,
+      "charts": 37,
+      "atlas_size": 256,
+      "requested_texel_density_px_m": 144,
+      "packing_texel_density_px_m": 144.0,
+      "effective_texel_density_px_m": 140.04,
+      "surface_area_m2": 0.2673,
+      "uv_coverage": 0.08,
+      "bounds_m": [
+        [
+          -1.297265625,
+          -1.3130859375000001,
+          0.035
+        ],
+        [
+          1.2234375000000002,
+          1.24453125,
+          0.035
+        ]
+      ],
+      "double_sided": true,
+      "surface_type": "foam",
+      "description": "Actual silhouettes extracted from the image-generated water source; no rectangular transparent card and no procedural repeating foam texture.",
+      "glb": "assets/glb/Foam_Generated_Eddies.glb",
+      "mesh_data": "data/meshes/Foam_Generated_Eddies.npz",
+      "base_color": "assets/textures/Foam_Generated_Eddies_BaseColor.png",
+      "normal": "assets/textures/Foam_Generated_Eddies_Normal.png",
+      "orm": "assets/textures/Foam_Generated_Eddies_ORM.png"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "renderer": "VTK 9.6.2 offscreen OpenGL",
+  "source_scene": "data/scene.json",
+  "output": "previews/assets/Paving_Broken_A.png",
+  "resolution": [
+    600,
+    400
+  ],
+  "instances_rendered": 1,
+  "unique_assets_rendered": 1,
+  "shadows": true,
+  "ssao": true,
+  "clay": false,
+  "elapsed_seconds": 0.08,
+  "is_blender_render": false,
+  "is_unreal_render": false,
+  "is_generated_illustration": false
+}

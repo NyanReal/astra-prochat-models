@@ -1,0 +1,4 @@
+2026-09-21 14:20:40.990 (   1.717s) [    7FAF1EA6C780]vtkXOpenGLRenderWindow.:1460  WARN| bad X server connection. DISPLAY=:0
+Rendering 1379 instances / 65 meshes / 1536x1024 shadows=True ssao=True
+GPU render done 3.44
+Saved /mnt/data/StillHere_D3/previews/scene_camera.png

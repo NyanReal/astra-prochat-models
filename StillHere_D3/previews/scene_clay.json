@@ -1,0 +1,18 @@
+{
+  "renderer": "VTK 9.6.2 offscreen OpenGL",
+  "source_scene": "data/scene.json",
+  "output": "previews/scene_clay.png",
+  "resolution": [
+    1152,
+    768
+  ],
+  "instances_rendered": 1379,
+  "unique_assets_rendered": 65,
+  "shadows": true,
+  "ssao": true,
+  "clay": true,
+  "elapsed_seconds": 1.83,
+  "is_blender_render": false,
+  "is_unreal_render": false,
+  "is_generated_illustration": false
+}

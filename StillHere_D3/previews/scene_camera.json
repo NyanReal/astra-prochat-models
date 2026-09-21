@@ -1,0 +1,18 @@
+{
+  "renderer": "VTK 9.6.2 offscreen OpenGL",
+  "source_scene": "data/scene.json",
+  "output": "previews/scene_camera.png",
+  "resolution": [
+    1536,
+    1024
+  ],
+  "instances_rendered": 1379,
+  "unique_assets_rendered": 65,
+  "shadows": true,
+  "ssao": true,
+  "clay": false,
+  "elapsed_seconds": 4.03,
+  "is_blender_render": false,
+  "is_unreal_render": false,
+  "is_generated_illustration": false
+}

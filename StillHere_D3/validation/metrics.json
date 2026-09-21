@@ -1,0 +1,35 @@
+{
+  "asset_count": 72,
+  "scene_asset_count": 69,
+  "calibration_asset_count": 3,
+  "placed_asset_count": 65,
+  "instance_count": 1379,
+  "unique_triangles": 70611,
+  "placed_triangles": 682501,
+  "group_counts": {
+    "Ground": 530,
+    "Water": 27,
+    "Rocks": 56,
+    "Vegetation": 718,
+    "Architecture": 38,
+    "Props": 8,
+    "Wildlife": 1,
+    "Character": 1
+  },
+  "atlas_resolution_counts": {
+    "1024": 31,
+    "512": 20,
+    "256": 12,
+    "2048": 5,
+    "128": 4
+  },
+  "standalone_versions": {
+    "numpy": "2.3.5",
+    "Pillow": "12.3.0",
+    "scipy": "1.17.0",
+    "vtk": "9.6.2",
+    "trimesh": "4.11.1",
+    "shapely": "2.1.2",
+    "pytest": "9.0.2"
+  }
+}
