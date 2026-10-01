@@ -1,0 +1,27 @@
+{
+  "asset": "HOPPER_03_ArmModules_v5",
+  "models": {
+    "L": {
+      "bytes": 1282536,
+      "sha256": "6c6c0461772257b00a398257f4c5c4d746fa1c3feb8fe15729e525f537ae9d68"
+    },
+    "R": {
+      "bytes": 1282540,
+      "sha256": "570c260bf04bc49d5df29d1c09dc0d644f950be9c74665cae9b49de4243299dd"
+    }
+  },
+  "base_original_sha256": "41b73050655b0c0764e33edb4816cf079ff7dca6c15f6f34e3e617e02fddc5e5",
+  "base_triangles": 25058,
+  "per_arm_triangles": 2406,
+  "pair_triangles": 4812,
+  "assembled_triangles": 29870,
+  "independent_module_webgl_loads": 2,
+  "unit_tests_passed": 28,
+  "browser_checks_passed": 30,
+  "cockpit_surface_intersection_samples": 181,
+  "base_modified": false,
+  "arm_animation_included": false,
+  "primary_assets": "Separate L/R GLBs; FitCheck is only a preview assembly.",
+  "browser_test_limitation": "In-memory HTML and bundled JS; GLB parsed from package base64",
+  "native_application_tests": "Physical iPad/Safari and Blender/Unreal not executed."
+}

@@ -1,0 +1,19 @@
+{
+  "L": {
+    "nodes": 12,
+    "triangles": 2406,
+    "textures": 3,
+    "animations": 0,
+    "gl_error": 0,
+    "page_errors": []
+  },
+  "R": {
+    "nodes": 12,
+    "triangles": 2406,
+    "textures": 3,
+    "animations": 0,
+    "gl_error": 0,
+    "page_errors": []
+  },
+  "scope": "Direct standalone GLB parsing and actual WebGL render; no base asset loaded."
+}

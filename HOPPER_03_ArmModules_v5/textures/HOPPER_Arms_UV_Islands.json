@@ -1,0 +1,7202 @@
+[
+  {
+    "id": 0,
+    "name": "L_M1_female_register__ring_0",
+    "category": "frame",
+    "node": 1,
+    "outer_rect": [
+      1670,
+      892,
+      321,
+      19
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.017898889883109906,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 1848.0
+  },
+  {
+    "id": 1,
+    "name": "L_M1_female_register__ring_1",
+    "category": "frame",
+    "node": 1,
+    "outer_rect": [
+      968,
+      892,
+      351,
+      20
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.021581086177507,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 2366.0
+  },
+  {
+    "id": 2,
+    "name": "L_M1_female_register__ring_2",
+    "category": "frame",
+    "node": 1,
+    "outer_rect": [
+      0,
+      1897,
+      443,
+      29
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.05535981285390604,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 6880.0
+  },
+  {
+    "id": 3,
+    "name": "L_M1_female_register__ring_3",
+    "category": "frame",
+    "node": 1,
+    "outer_rect": [
+      0,
+      2003,
+      402,
+      21
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.02856333385622042,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 3112.0
+  },
+  {
+    "id": 4,
+    "name": "L_M1_female_register__ring_4",
+    "category": "frame",
+    "node": 1,
+    "outer_rect": [
+      640,
+      1712,
+      282,
+      50
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.07728854324851475,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 9953.0
+  },
+  {
+    "id": 5,
+    "name": "L_M1_female_register__ring_5",
+    "category": "frame",
+    "node": 1,
+    "outer_rect": [
+      443,
+      2026,
+      163,
+      20
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.009097153492968715,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 1050.0
+  },
+  {
+    "id": 6,
+    "name": "L_M1_female_register__ring_6",
+    "category": "frame",
+    "node": 1,
+    "outer_rect": [
+      968,
+      1386,
+      271,
+      46
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.06697719249163032,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 8514.0
+  },
+  {
+    "id": 7,
+    "name": "L_M1_female_register__ring_7",
+    "category": "frame",
+    "node": 1,
+    "outer_rect": [
+      968,
+      859,
+      381,
+      33
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.06052238480859352,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 7360.0
+  },
+  {
+    "id": 8,
+    "name": "L_shoulder_output_journal__side",
+    "category": "frame",
+    "node": 1,
+    "outer_rect": [
+      1790,
+      1160,
+      158,
+      39
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.030611046102365334,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 3770.0
+  },
+  {
+    "id": 9,
+    "name": "L_shoulder_output_journal__cap_top",
+    "category": "frame",
+    "node": 1,
+    "outer_rect": [
+      1400,
+      1952,
+      58,
+      58
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.012287999999999999,
+    "uv_coverage": 0.75,
+    "uv_pixel_area": 1518.75
+  },
+  {
+    "id": 10,
+    "name": "L_shoulder_index_disc__side",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1754,
+      835,
+      220,
+      18
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.008174540720518016,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 1035.0
+  },
+  {
+    "id": 11,
+    "name": "L_shoulder_index_disc__cap_top",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1458,
+      1780,
+      80,
+      80
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.026507999999999997,
+    "uv_coverage": 0.75,
+    "uv_pixel_area": 3366.75
+  },
+  {
+    "id": 12,
+    "name": "L_M1_fastener_00__side",
+    "category": "frame",
+    "node": 1,
+    "outer_rect": [
+      1948,
+      1193,
+      32,
+      18
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.000648,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 95.0
+  },
+  {
+    "id": 13,
+    "name": "L_M1_fastener_00__cap_top",
+    "category": "frame",
+    "node": 1,
+    "outer_rect": [
+      2022,
+      1246,
+      18,
+      18
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.00021044417311961883,
+    "uv_coverage": 0.6495190528383289,
+    "uv_pixel_area": 16.23797632095822
+  },
+  {
+    "id": 14,
+    "name": "L_M1_fastener_01__side",
+    "category": "frame",
+    "node": 1,
+    "outer_rect": [
+      1980,
+      1193,
+      32,
+      18
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0006479999999999998,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 95.0
+  },
+  {
+    "id": 15,
+    "name": "L_M1_fastener_01__cap_top",
+    "category": "frame",
+    "node": 1,
+    "outer_rect": [
+      2006,
+      816,
+      18,
+      18
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.00021044417311961855,
+    "uv_coverage": 0.6495190528383289,
+    "uv_pixel_area": 16.23797632095822
+  },
+  {
+    "id": 16,
+    "name": "L_M1_fastener_02__side",
+    "category": "frame",
+    "node": 1,
+    "outer_rect": [
+      1982,
+      1141,
+      32,
+      18
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0006480000000000002,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 95.0
+  },
+  {
+    "id": 17,
+    "name": "L_M1_fastener_02__cap_top",
+    "category": "frame",
+    "node": 1,
+    "outer_rect": [
+      1681,
+      2029,
+      18,
+      18
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.00021044417311961877,
+    "uv_coverage": 0.6495190528383289,
+    "uv_pixel_area": 16.23797632095822
+  },
+  {
+    "id": 18,
+    "name": "L_M1_fastener_03__side",
+    "category": "frame",
+    "node": 1,
+    "outer_rect": [
+      2014,
+      1141,
+      32,
+      18
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.000648,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 95.0
+  },
+  {
+    "id": 19,
+    "name": "L_M1_fastener_03__cap_top",
+    "category": "frame",
+    "node": 1,
+    "outer_rect": [
+      2028,
+      333,
+      18,
+      18
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.00021044417311961883,
+    "uv_coverage": 0.6495190528383289,
+    "uv_pixel_area": 16.23797632095822
+  },
+  {
+    "id": 20,
+    "name": "L_M1_fastener_04__side",
+    "category": "frame",
+    "node": 1,
+    "outer_rect": [
+      1942,
+      816,
+      32,
+      18
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.000647999999999999,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 95.0
+  },
+  {
+    "id": 21,
+    "name": "L_M1_fastener_04__cap_top",
+    "category": "frame",
+    "node": 1,
+    "outer_rect": [
+      2023,
+      892,
+      18,
+      18
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.00021044417311961812,
+    "uv_coverage": 0.6495190528383289,
+    "uv_pixel_area": 16.23797632095822
+  },
+  {
+    "id": 22,
+    "name": "L_M1_fastener_05__side",
+    "category": "frame",
+    "node": 1,
+    "outer_rect": [
+      1974,
+      816,
+      32,
+      18
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0006479999999999992,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 95.0
+  },
+  {
+    "id": 23,
+    "name": "L_M1_fastener_05__cap_top",
+    "category": "frame",
+    "node": 1,
+    "outer_rect": [
+      1946,
+      1968,
+      18,
+      18
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.00021044417311961823,
+    "uv_coverage": 0.6495190528383289,
+    "uv_pixel_area": 16.23797632095822
+  },
+  {
+    "id": 24,
+    "name": "L_M1_top_index__-X",
+    "category": "accent",
+    "node": 1,
+    "outer_rect": [
+      2017,
+      1160,
+      30,
+      48
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0008000000000000007,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 595.0
+  },
+  {
+    "id": 25,
+    "name": "L_M1_top_index__+X",
+    "category": "accent",
+    "node": 1,
+    "outer_rect": [
+      2009,
+      1285,
+      30,
+      48
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0008000000000000007,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 595.0
+  },
+  {
+    "id": 26,
+    "name": "L_M1_top_index__-Y",
+    "category": "accent",
+    "node": 1,
+    "outer_rect": [
+      1540,
+      1849,
+      59,
+      48
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0020800000000000003,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 1610.0
+  },
+  {
+    "id": 27,
+    "name": "L_M1_top_index__+Y",
+    "category": "accent",
+    "node": 1,
+    "outer_rect": [
+      1540,
+      1897,
+      59,
+      48
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0020800000000000003,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 1610.0
+  },
+  {
+    "id": 28,
+    "name": "L_M1_top_index__-Z",
+    "category": "accent",
+    "node": 1,
+    "outer_rect": [
+      1601,
+      1671,
+      59,
+      30
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.001040000000000001,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 782.0
+  },
+  {
+    "id": 29,
+    "name": "L_M1_top_index__+Z",
+    "category": "accent",
+    "node": 1,
+    "outer_rect": [
+      1601,
+      1701,
+      59,
+      30
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0010400000000000008,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 782.0
+  },
+  {
+    "id": 30,
+    "name": "L_M1_service_key__-X",
+    "category": "frame",
+    "node": 1,
+    "outer_rect": [
+      1926,
+      1112,
+      28,
+      35
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0028599999999999997,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 330.0
+  },
+  {
+    "id": 31,
+    "name": "L_M1_service_key__+X",
+    "category": "frame",
+    "node": 1,
+    "outer_rect": [
+      1954,
+      1112,
+      28,
+      35
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0028599999999999997,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 330.0
+  },
+  {
+    "id": 32,
+    "name": "L_M1_service_key__-Y",
+    "category": "frame",
+    "node": 1,
+    "outer_rect": [
+      610,
+      2007,
+      29,
+      35
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0031200000000000004,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 352.0
+  },
+  {
+    "id": 33,
+    "name": "L_M1_service_key__+Y",
+    "category": "frame",
+    "node": 1,
+    "outer_rect": [
+      1681,
+      1804,
+      29,
+      35
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0031200000000000004,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 352.0
+  },
+  {
+    "id": 34,
+    "name": "L_M1_service_key__-Z",
+    "category": "frame",
+    "node": 1,
+    "outer_rect": [
+      2019,
+      1442,
+      29,
+      28
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0021119999999999993,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 240.0
+  },
+  {
+    "id": 35,
+    "name": "L_M1_service_key__+Z",
+    "category": "frame",
+    "node": 1,
+    "outer_rect": [
+      928,
+      1573,
+      29,
+      28
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0021119999999999993,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 240.0
+  },
+  {
+    "id": 36,
+    "name": "L_upper_main_spar__-X",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1609,
+      1334,
+      138,
+      35
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.022124057084189477,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 2750.0
+  },
+  {
+    "id": 37,
+    "name": "L_upper_main_spar__+X",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1747,
+      1334,
+      138,
+      35
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.022124057084189484,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 2750.0
+  },
+  {
+    "id": 38,
+    "name": "L_upper_main_spar__-Y",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1711,
+      2004,
+      43,
+      35
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.00544,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 660.0
+  },
+  {
+    "id": 39,
+    "name": "L_upper_main_spar__+Y",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1756,
+      1746,
+      43,
+      35
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.00544,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 660.0
+  },
+  {
+    "id": 40,
+    "name": "L_upper_main_spar__-Z",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      914,
+      1812,
+      43,
+      138
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.02938351331493915,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 3750.0
+  },
+  {
+    "id": 41,
+    "name": "L_upper_main_spar__+Z",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1187,
+      1878,
+      43,
+      138
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.02938351331493915,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 3750.0
+  },
+  {
+    "id": 42,
+    "name": "L_upper_main_spar__bevels",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1942,
+      680,
+      97,
+      80
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.028676621644257036,
+    "uv_coverage": 0.6480000000000004,
+    "uv_pixel_area": 3646.9440000000022
+  },
+  {
+    "id": 43,
+    "name": "L_upper_front_web__-X",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1568,
+      1369,
+      108,
+      21
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0065740493609342445,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 760.0
+  },
+  {
+    "id": 44,
+    "name": "L_upper_front_web__+X",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1676,
+      1369,
+      108,
+      21
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0065740493609342445,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 760.0
+  },
+  {
+    "id": 45,
+    "name": "L_upper_front_web__-Y",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1372,
+      2026,
+      28,
+      21
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0010999999999999994,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 120.0
+  },
+  {
+    "id": 46,
+    "name": "L_upper_front_web__+Y",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1756,
+      2027,
+      28,
+      21
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0010999999999999994,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 120.0
+  },
+  {
+    "id": 47,
+    "name": "L_upper_front_web__-Z",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1942,
+      138,
+      28,
+      108
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.011570326875244273,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 1425.0
+  },
+  {
+    "id": 48,
+    "name": "L_upper_front_web__+Z",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1970,
+      138,
+      28,
+      108
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.011570326875244263,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 1425.0
+  },
+  {
+    "id": 49,
+    "name": "L_upper_rear_web__-X",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1899,
+      1264,
+      110,
+      21
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.006733591166680673,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 776.0
+  },
+  {
+    "id": 50,
+    "name": "L_upper_rear_web__+X",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1899,
+      1285,
+      110,
+      21
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.00673359116668067,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 776.0
+  },
+  {
+    "id": 51,
+    "name": "L_upper_rear_web__-Y",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1954,
+      1805,
+      28,
+      21
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0010999999999999998,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 120.0
+  },
+  {
+    "id": 52,
+    "name": "L_upper_rear_web__+Y",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1982,
+      1805,
+      28,
+      21
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.001099999999999999,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 120.0
+  },
+  {
+    "id": 53,
+    "name": "L_upper_rear_web__-Z",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1926,
+      1002,
+      28,
+      110
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.011851120453357985,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 1455.0
+  },
+  {
+    "id": 54,
+    "name": "L_upper_rear_web__+Z",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1954,
+      1002,
+      28,
+      110
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.011851120453357993,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 1455.0
+  },
+  {
+    "id": 55,
+    "name": "L_upper_rear_bridge__-X",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1997,
+      1781,
+      29,
+      22
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0014209999999999995,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 144.0
+  },
+  {
+    "id": 56,
+    "name": "L_upper_rear_bridge__+X",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1794,
+      1805,
+      29,
+      22
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0014209999999999995,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 144.0
+  },
+  {
+    "id": 57,
+    "name": "L_upper_rear_bridge__-Y",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1540,
+      1761,
+      61,
+      22
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0039440000000000005,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 432.0
+  },
+  {
+    "id": 58,
+    "name": "L_upper_rear_bridge__+Y",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1540,
+      1783,
+      61,
+      22
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0039440000000000005,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 432.0
+  },
+  {
+    "id": 59,
+    "name": "L_upper_rear_bridge__-Z",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1982,
+      1112,
+      61,
+      29
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.006664,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 768.0
+  },
+  {
+    "id": 60,
+    "name": "L_upper_rear_bridge__+Z",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1689,
+      1551,
+      61,
+      29
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.006664,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 768.0
+  },
+  {
+    "id": 61,
+    "name": "L_upper_rear_bridge__bevels",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1894,
+      1526,
+      63,
+      52
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.010127939481868579,
+    "uv_coverage": 0.6480000000000004,
+    "uv_pixel_area": 1263.6000000000008
+  },
+  {
+    "id": 62,
+    "name": "L_shoulder_cowling__surface",
+    "category": "armor",
+    "node": 4,
+    "outer_rect": [
+      0,
+      0,
+      971,
+      835
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.2860571756862875,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 787476.0
+  },
+  {
+    "id": 63,
+    "name": "L_shoulder_cowling_inner__inside",
+    "category": "frame",
+    "node": 4,
+    "outer_rect": [
+      1242,
+      1334,
+      216,
+      187
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.26814015386406964,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 35322.0
+  },
+  {
+    "id": 64,
+    "name": "L_shoulder_cowling_rims__return_0",
+    "category": "armor",
+    "node": 4,
+    "outer_rect": [
+      0,
+      1739,
+      634,
+      27
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.003510659937975064,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 8694.0
+  },
+  {
+    "id": 65,
+    "name": "L_shoulder_cowling_rims__return_1",
+    "category": "armor",
+    "node": 4,
+    "outer_rect": [
+      0,
+      1793,
+      600,
+      26
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0031423509274009958,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 7631.0
+  },
+  {
+    "id": 66,
+    "name": "L_shoulder_cowling_rims__return_2",
+    "category": "armor",
+    "node": 4,
+    "outer_rect": [
+      0,
+      1573,
+      663,
+      28
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0038422683894253572,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 9750.0
+  },
+  {
+    "id": 67,
+    "name": "L_shoulder_cowling_rims__return_3",
+    "category": "armor",
+    "node": 4,
+    "outer_rect": [
+      0,
+      1629,
+      658,
+      28
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.003783814229971802,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 9675.0
+  },
+  {
+    "id": 68,
+    "name": "L_shoulder_cowling_roof__roof",
+    "category": "armor",
+    "node": 4,
+    "outer_rect": [
+      968,
+      912,
+      342,
+      248
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.024707509942292524,
+    "uv_coverage": 0.8742793443969991,
+    "uv_pixel_area": 67594.907512054
+  },
+  {
+    "id": 69,
+    "name": "L_shoulder_cowling_roof_inner__roof_inner",
+    "category": "frame",
+    "node": 4,
+    "outer_rect": [
+      1458,
+      1940,
+      80,
+      61
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.022124792450531824,
+    "uv_coverage": 0.8779212922112765,
+    "uv_pixel_area": 2823.394875751465
+  },
+  {
+    "id": 70,
+    "name": "L_shoulder_cowling_roof_rear_edge__edge",
+    "category": "armor",
+    "node": 4,
+    "outer_rect": [
+      663,
+      1573,
+      196,
+      27
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0010285005265489615,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 2562.0
+  },
+  {
+    "id": 71,
+    "name": "L_shoulder_lower_trim__-X",
+    "category": "armor",
+    "node": 4,
+    "outer_rect": [
+      1601,
+      2017,
+      51,
+      31
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0002880000000000005,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 684.0
+  },
+  {
+    "id": 72,
+    "name": "L_shoulder_lower_trim__+X",
+    "category": "armor",
+    "node": 4,
+    "outer_rect": [
+      1187,
+      2016,
+      51,
+      31
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0002880000000000005,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 684.0
+  },
+  {
+    "id": 73,
+    "name": "L_shoulder_lower_trim__-Y",
+    "category": "armor",
+    "node": 4,
+    "outer_rect": [
+      968,
+      1262,
+      274,
+      31
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.001896000000000002,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 4698.0
+  },
+  {
+    "id": 74,
+    "name": "L_shoulder_lower_trim__+Y",
+    "category": "armor",
+    "node": 4,
+    "outer_rect": [
+      968,
+      1293,
+      274,
+      31
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.001896000000000002,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 4698.0
+  },
+  {
+    "id": 75,
+    "name": "L_shoulder_lower_trim__-Z",
+    "category": "armor",
+    "node": 4,
+    "outer_rect": [
+      968,
+      1160,
+      274,
+      51
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.003792000000000004,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 9918.0
+  },
+  {
+    "id": 76,
+    "name": "L_shoulder_lower_trim__+Z",
+    "category": "armor",
+    "node": 4,
+    "outer_rect": [
+      1242,
+      1160,
+      274,
+      51
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.003792000000000004,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 9918.0
+  },
+  {
+    "id": 77,
+    "name": "L_shoulder_lower_trim__bevels",
+    "category": "armor",
+    "node": 4,
+    "outer_rect": [
+      968,
+      1478,
+      247,
+      200
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.010438051981266008,
+    "uv_coverage": 0.6480000000000004,
+    "uv_pixel_area": 28355.184000000016
+  },
+  {
+    "id": 78,
+    "name": "L_elbow_fork_-0.074__-X",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      914,
+      1950,
+      52,
+      44
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.009793640232314028,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 1209.0
+  },
+  {
+    "id": 79,
+    "name": "L_elbow_fork_-0.074__+X",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      914,
+      1994,
+      52,
+      44
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.009793640232314028,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 1209.0
+  },
+  {
+    "id": 80,
+    "name": "L_elbow_fork_-0.074__-Y",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      2022,
+      1633,
+      21,
+      44
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.002403000000000002,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 248.0
+  },
+  {
+    "id": 81,
+    "name": "L_elbow_fork_-0.074__+Y",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1660,
+      1781,
+      21,
+      44
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0024030000000000015,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 248.0
+  },
+  {
+    "id": 82,
+    "name": "L_elbow_fork_-0.074__-Z",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      2026,
+      138,
+      21,
+      52
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0029711043401402138,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 312.0
+  },
+  {
+    "id": 83,
+    "name": "L_elbow_fork_-0.074__+Z",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      2026,
+      190,
+      21,
+      52
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0029711043401402138,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 312.0
+  },
+  {
+    "id": 84,
+    "name": "L_elbow_fork_0.074__-X",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1131,
+      2001,
+      52,
+      44
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.009793640232314028,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 1209.0
+  },
+  {
+    "id": 85,
+    "name": "L_elbow_fork_0.074__+X",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1660,
+      1633,
+      52,
+      44
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.009793640232314028,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 1209.0
+  },
+  {
+    "id": 86,
+    "name": "L_elbow_fork_0.074__-Y",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1660,
+      1825,
+      21,
+      44
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0024030000000000024,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 248.0
+  },
+  {
+    "id": 87,
+    "name": "L_elbow_fork_0.074__+Y",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1660,
+      1869,
+      21,
+      44
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.002403000000000002,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 248.0
+  },
+  {
+    "id": 88,
+    "name": "L_elbow_fork_0.074__-Z",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      617,
+      1897,
+      21,
+      52
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0029711043401402138,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 312.0
+  },
+  {
+    "id": 89,
+    "name": "L_elbow_fork_0.074__+Z",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      617,
+      1952,
+      21,
+      52
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0029711043401402138,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 312.0
+  },
+  {
+    "id": 90,
+    "name": "L_elbow_through_pin__side",
+    "category": "frame",
+    "node": 5,
+    "outer_rect": [
+      1458,
+      1470,
+      82,
+      87
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.03965924105808072,
+    "uv_coverage": 1.0000000000000002,
+    "uv_pixel_area": 5106.000000000001
+  },
+  {
+    "id": 91,
+    "name": "L_elbow_drum__side",
+    "category": "frame",
+    "node": 5,
+    "outer_rect": [
+      443,
+      1897,
+      174,
+      55
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.052482290689708735,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 6762.0
+  },
+  {
+    "id": 92,
+    "name": "L_elbow_outer_race__ring_0",
+    "category": "frame",
+    "node": 5,
+    "outer_rect": [
+      1926,
+      958,
+      119,
+      22
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.008639999999999998,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 954.0
+  },
+  {
+    "id": 93,
+    "name": "L_elbow_outer_race__ring_1",
+    "category": "frame",
+    "node": 5,
+    "outer_rect": [
+      1730,
+      859,
+      167,
+      19
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.008172391353055085,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 924.0
+  },
+  {
+    "id": 94,
+    "name": "L_elbow_outer_race__ring_2",
+    "category": "frame",
+    "node": 5,
+    "outer_rect": [
+      658,
+      1629,
+      170,
+      19
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.009414588487886701,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 942.0
+  },
+  {
+    "id": 95,
+    "name": "L_elbow_outer_race__ring_3",
+    "category": "frame",
+    "node": 5,
+    "outer_rect": [
+      1926,
+      912,
+      121,
+      23
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.009408,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 1080.0
+  },
+  {
+    "id": 96,
+    "name": "L_elbow_axis_cap__side",
+    "category": "frame",
+    "node": 5,
+    "outer_rect": [
+      1974,
+      835,
+      73,
+      21
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.004171729424061795,
+    "uv_coverage": 1.0000000000000002,
+    "uv_pixel_area": 480.0000000000001
+  },
+  {
+    "id": 97,
+    "name": "L_elbow_axis_cap__cap_top",
+    "category": "frame",
+    "node": 5,
+    "outer_rect": [
+      1888,
+      1677,
+      31,
+      31
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0021424772446060666,
+    "uv_coverage": 0.7347315653655915,
+    "uv_pixel_area": 238.05302717845166
+  },
+  {
+    "id": 98,
+    "name": "L_forearm_backbone__-X",
+    "category": "frame",
+    "node": 6,
+    "outer_rect": [
+      1942,
+      556,
+      101,
+      31
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.012768441907644404,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 1584.0
+  },
+  {
+    "id": 99,
+    "name": "L_forearm_backbone__+X",
+    "category": "frame",
+    "node": 6,
+    "outer_rect": [
+      1942,
+      587,
+      101,
+      31
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.012768441907644396,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 1584.0
+  },
+  {
+    "id": 100,
+    "name": "L_forearm_backbone__-Y",
+    "category": "frame",
+    "node": 6,
+    "outer_rect": [
+      1732,
+      1677,
+      39,
+      31
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0039000000000000016,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 468.0
+  },
+  {
+    "id": 101,
+    "name": "L_forearm_backbone__+Y",
+    "category": "frame",
+    "node": 6,
+    "outer_rect": [
+      1771,
+      1677,
+      39,
+      31
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0039000000000000007,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 468.0
+  },
+  {
+    "id": 102,
+    "name": "L_forearm_backbone__-Z",
+    "category": "frame",
+    "node": 6,
+    "outer_rect": [
+      1942,
+      354,
+      39,
+      101
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.01841602198217942,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 2288.0
+  },
+  {
+    "id": 103,
+    "name": "L_forearm_backbone__+Z",
+    "category": "frame",
+    "node": 6,
+    "outer_rect": [
+      1981,
+      354,
+      39,
+      101
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.01841602198217942,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 2288.0
+  },
+  {
+    "id": 104,
+    "name": "L_forearm_backbone__bevels",
+    "category": "frame",
+    "node": 6,
+    "outer_rect": [
+      1458,
+      1644,
+      82,
+      68
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.019528179133858507,
+    "uv_coverage": 0.6480000000000004,
+    "uv_pixel_area": 2459.160000000001
+  },
+  {
+    "id": 105,
+    "name": "L_forearm_rear_bracket__-X",
+    "category": "frame",
+    "node": 6,
+    "outer_rect": [
+      1098,
+      2021,
+      33,
+      25
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0022040000000000024,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 240.0
+  },
+  {
+    "id": 106,
+    "name": "L_forearm_rear_bracket__+X",
+    "category": "frame",
+    "node": 6,
+    "outer_rect": [
+      600,
+      1793,
+      33,
+      25
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.002204000000000003,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 240.0
+  },
+  {
+    "id": 107,
+    "name": "L_forearm_rear_bracket__-Y",
+    "category": "frame",
+    "node": 6,
+    "outer_rect": [
+      1620,
+      1559,
+      69,
+      25
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0059660000000000026,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 672.0
+  },
+  {
+    "id": 108,
+    "name": "L_forearm_rear_bracket__+Y",
+    "category": "frame",
+    "node": 6,
+    "outer_rect": [
+      859,
+      1573,
+      69,
+      25
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0059660000000000026,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 672.0
+  },
+  {
+    "id": 109,
+    "name": "L_forearm_rear_bracket__-Z",
+    "category": "frame",
+    "node": 6,
+    "outer_rect": [
+      1948,
+      1160,
+      69,
+      33
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.00910600000000001,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 1120.0
+  },
+  {
+    "id": 110,
+    "name": "L_forearm_rear_bracket__+Z",
+    "category": "frame",
+    "node": 6,
+    "outer_rect": [
+      1862,
+      1470,
+      69,
+      33
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.00910600000000001,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 1120.0
+  },
+  {
+    "id": 111,
+    "name": "L_damper_barrel__side",
+    "category": "frame",
+    "node": 6,
+    "outer_rect": [
+      1758,
+      1526,
+      68,
+      54
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.018232002668121902,
+    "uv_coverage": 1.0000000000000002,
+    "uv_pixel_area": 2255.0000000000005
+  },
+  {
+    "id": 112,
+    "name": "L_damper_gland__side",
+    "category": "frame",
+    "node": 6,
+    "outer_rect": [
+      1458,
+      2001,
+      80,
+      20
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.004264434522374279,
+    "uv_coverage": 1.0000000000000002,
+    "uv_pixel_area": 469.0000000000001
+  },
+  {
+    "id": 113,
+    "name": "L_damper_rod__side",
+    "category": "frame",
+    "node": 6,
+    "outer_rect": [
+      922,
+      1712,
+      36,
+      50
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.007275620247997076,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 851.0
+  },
+  {
+    "id": 114,
+    "name": "L_damper_eye_0__side",
+    "category": "frame",
+    "node": 6,
+    "outer_rect": [
+      1540,
+      1587,
+      61,
+      29
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0064658192732405615,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 768.0
+  },
+  {
+    "id": 115,
+    "name": "L_damper_eye_0__cap_top",
+    "category": "frame",
+    "node": 6,
+    "outer_rect": [
+      1842,
+      1805,
+      28,
+      28
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0013689587283771557,
+    "uv_coverage": 0.7071067811865476,
+    "uv_pixel_area": 159.0990257669732
+  },
+  {
+    "id": 116,
+    "name": "L_damper_pin_0__side",
+    "category": "frame",
+    "node": 6,
+    "outer_rect": [
+      2014,
+      1587,
+      34,
+      35
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0039000000000000007,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 462.0
+  },
+  {
+    "id": 117,
+    "name": "L_damper_eye_1__side",
+    "category": "frame",
+    "node": 6,
+    "outer_rect": [
+      1540,
+      1616,
+      61,
+      29
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.006465819273240563,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 768.0
+  },
+  {
+    "id": 118,
+    "name": "L_damper_eye_1__cap_top",
+    "category": "frame",
+    "node": 6,
+    "outer_rect": [
+      1870,
+      1805,
+      28,
+      28
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0013689587283771563,
+    "uv_coverage": 0.7071067811865476,
+    "uv_pixel_area": 159.0990257669732
+  },
+  {
+    "id": 119,
+    "name": "L_damper_pin_1__side",
+    "category": "frame",
+    "node": 6,
+    "outer_rect": [
+      1756,
+      1880,
+      34,
+      35
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0039000000000000137,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 462.0
+  },
+  {
+    "id": 120,
+    "name": "L_forearm_service_hose__surface",
+    "category": "frame",
+    "node": 6,
+    "outer_rect": [
+      1970,
+      246,
+      29,
+      105
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.01236869312805323,
+    "uv_coverage": 0.9999999999999998,
+    "uv_pixel_area": 1471.9999999999998
+  },
+  {
+    "id": 121,
+    "name": "L_forearm_gauntlet__surface",
+    "category": "armor",
+    "node": 7,
+    "outer_rect": [
+      0,
+      835,
+      968,
+      369
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.124046307179486,
+    "uv_coverage": 1.0000000000000002,
+    "uv_pixel_area": 339980.00000000006
+  },
+  {
+    "id": 122,
+    "name": "L_forearm_gauntlet_inner__inside",
+    "category": "frame",
+    "node": 7,
+    "outer_rect": [
+      1242,
+      1780,
+      211,
+      86
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.11179172031908842,
+    "uv_coverage": 1.0000000000000002,
+    "uv_pixel_area": 14454.000000000004
+  },
+  {
+    "id": 123,
+    "name": "L_forearm_gauntlet_rims__return_0",
+    "category": "armor",
+    "node": 7,
+    "outer_rect": [
+      0,
+      1845,
+      574,
+      26
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.002868237994993463,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 7293.0
+  },
+  {
+    "id": 124,
+    "name": "L_forearm_gauntlet_rims__return_1",
+    "category": "armor",
+    "node": 7,
+    "outer_rect": [
+      0,
+      1685,
+      640,
+      27
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.00357628406459053,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 8778.0
+  },
+  {
+    "id": 125,
+    "name": "L_forearm_gauntlet_rims__return_2",
+    "category": "armor",
+    "node": 7,
+    "outer_rect": [
+      0,
+      1955,
+      402,
+      24
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0018274146857116538,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 4279.0
+  },
+  {
+    "id": 126,
+    "name": "L_forearm_gauntlet_rims__return_3",
+    "category": "armor",
+    "node": 7,
+    "outer_rect": [
+      968,
+      835,
+      393,
+      24
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0017823247679044512,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 4180.0
+  },
+  {
+    "id": 127,
+    "name": "L_forearm_ochre_service__-X",
+    "category": "accent",
+    "node": 7,
+    "outer_rect": [
+      1942,
+      760,
+      86,
+      56
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.004018000000000003,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 3139.0
+  },
+  {
+    "id": 128,
+    "name": "L_forearm_ochre_service__+X",
+    "category": "accent",
+    "node": 7,
+    "outer_rect": [
+      1933,
+      1390,
+      86,
+      56
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.004018000000000003,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 3139.0
+  },
+  {
+    "id": 129,
+    "name": "L_forearm_ochre_service__-Y",
+    "category": "accent",
+    "node": 7,
+    "outer_rect": [
+      2000,
+      1470,
+      23,
+      56
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0006370000000000005,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 430.0
+  },
+  {
+    "id": 130,
+    "name": "L_forearm_ochre_service__+Y",
+    "category": "accent",
+    "node": 7,
+    "outer_rect": [
+      2023,
+      1470,
+      23,
+      56
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0006370000000000005,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 430.0
+  },
+  {
+    "id": 131,
+    "name": "L_forearm_ochre_service__-Z",
+    "category": "accent",
+    "node": 7,
+    "outer_rect": [
+      1215,
+      1478,
+      23,
+      86
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0010660000000000018,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 730.0
+  },
+  {
+    "id": 132,
+    "name": "L_forearm_ochre_service__+Z",
+    "category": "accent",
+    "node": 7,
+    "outer_rect": [
+      1215,
+      1564,
+      23,
+      86
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0010660000000000018,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 730.0
+  },
+  {
+    "id": 133,
+    "name": "L_forearm_ochre_service__bevels",
+    "category": "accent",
+    "node": 7,
+    "outer_rect": [
+      1745,
+      1390,
+      94,
+      78
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.004246140140391406,
+    "uv_coverage": 0.6480000000000004,
+    "uv_pixel_area": 3411.7200000000016
+  },
+  {
+    "id": 134,
+    "name": "L_wrist_core_shaft__side",
+    "category": "frame",
+    "node": 8,
+    "outer_rect": [
+      1712,
+      1470,
+      75,
+      56
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.021087387857045906,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 2666.0
+  },
+  {
+    "id": 135,
+    "name": "L_wrist_housing__side",
+    "category": "frame",
+    "node": 8,
+    "outer_rect": [
+      1242,
+      1991,
+      151,
+      35
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.024629220331955855,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 3036.0
+  },
+  {
+    "id": 136,
+    "name": "L_wrist_seal__side",
+    "category": "frame",
+    "node": 8,
+    "outer_rect": [
+      1242,
+      2026,
+      130,
+      18
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0058141110291830105,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 585.0
+  },
+  {
+    "id": 137,
+    "name": "L_palm_carrier__-X",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1711,
+      1708,
+      46,
+      38
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.006768000000000007,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 825.0
+  },
+  {
+    "id": 138,
+    "name": "L_palm_carrier__+X",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1757,
+      1708,
+      46,
+      38
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.006768000000000007,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 825.0
+  },
+  {
+    "id": 139,
+    "name": "L_palm_carrier__-Y",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1837,
+      1587,
+      59,
+      38
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.009432,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 1150.0
+  },
+  {
+    "id": 140,
+    "name": "L_palm_carrier__+Y",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1896,
+      1587,
+      59,
+      38
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.009432,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 1150.0
+  },
+  {
+    "id": 141,
+    "name": "L_palm_carrier__-Z",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1601,
+      1587,
+      59,
+      46
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.01231400000000001,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 1518.0
+  },
+  {
+    "id": 142,
+    "name": "L_palm_carrier__+Z",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1660,
+      1587,
+      59,
+      46
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.01231400000000001,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 1518.0
+  },
+  {
+    "id": 143,
+    "name": "L_palm_carrier__bevels",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1555,
+      1390,
+      95,
+      78
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.026760131408300483,
+    "uv_coverage": 0.6480000000000004,
+    "uv_pixel_area": 3453.840000000002
+  },
+  {
+    "id": 144,
+    "name": "L_backhand_plate__-X",
+    "category": "armor",
+    "node": 11,
+    "outer_rect": [
+      828,
+      1629,
+      123,
+      18
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.00020100000000000003,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 550.0
+  },
+  {
+    "id": 145,
+    "name": "L_backhand_plate__+X",
+    "category": "armor",
+    "node": 11,
+    "outer_rect": [
+      828,
+      1657,
+      123,
+      18
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.00020100000000000003,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 550.0
+  },
+  {
+    "id": 146,
+    "name": "L_backhand_plate__-Y",
+    "category": "armor",
+    "node": 11,
+    "outer_rect": [
+      1242,
+      1708,
+      215,
+      18
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.00037500000000000033,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 1010.0
+  },
+  {
+    "id": 147,
+    "name": "L_backhand_plate__+Y",
+    "category": "armor",
+    "node": 11,
+    "outer_rect": [
+      1242,
+      1726,
+      215,
+      18
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.00037500000000000033,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 1010.0
+  },
+  {
+    "id": 148,
+    "name": "L_backhand_plate__-Z",
+    "category": "armor",
+    "node": 11,
+    "outer_rect": [
+      968,
+      1878,
+      219,
+      123
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.008374999999999994,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 22660.0
+  },
+  {
+    "id": 149,
+    "name": "L_backhand_plate__+Z",
+    "category": "armor",
+    "node": 11,
+    "outer_rect": [
+      1242,
+      1211,
+      219,
+      123
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.008374999999999994,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 22660.0
+  },
+  {
+    "id": 150,
+    "name": "L_backhand_plate__bevels",
+    "category": "armor",
+    "node": 11,
+    "outer_rect": [
+      640,
+      1812,
+      274,
+      222
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.012972264956024503,
+    "uv_coverage": 0.6480000000000004,
+    "uv_pixel_area": 35347.75200000002
+  },
+  {
+    "id": 151,
+    "name": "L_finger_0_knuckle__side",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1601,
+      1791,
+      59,
+      21
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0034019999999999988,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 368.0
+  },
+  {
+    "id": 152,
+    "name": "L_finger_0_proximal__-X",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1681,
+      2005,
+      29,
+      24
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.001679999999999997,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 176.0
+  },
+  {
+    "id": 153,
+    "name": "L_finger_0_proximal__+X",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      574,
+      1845,
+      29,
+      24
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.001679999999999997,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 176.0
+  },
+  {
+    "id": 154,
+    "name": "L_finger_0_proximal__-Y",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      2026,
+      1781,
+      19,
+      24
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0007000000000000008,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 66.0
+  },
+  {
+    "id": 155,
+    "name": "L_finger_0_proximal__+Y",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1823,
+      2014,
+      19,
+      24
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0007000000000000008,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 66.0
+  },
+  {
+    "id": 156,
+    "name": "L_finger_0_proximal__-Z",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      2028,
+      760,
+      19,
+      29
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0009599999999999992,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 96.0
+  },
+  {
+    "id": 157,
+    "name": "L_finger_0_proximal__+Z",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      2028,
+      789,
+      19,
+      29
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.000959999999999999,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 96.0
+  },
+  {
+    "id": 158,
+    "name": "L_finger_0_proximal__bevels",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1895,
+      1708,
+      43,
+      36
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0037453512424762215,
+    "uv_coverage": 0.6480000000000004,
+    "uv_pixel_area": 447.1200000000003
+  },
+  {
+    "id": 159,
+    "name": "L_finger_0_distal__-X",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1958,
+      1858,
+      22,
+      22
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0008119999999999985,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 81.0
+  },
+  {
+    "id": 160,
+    "name": "L_finger_0_distal__+X",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1980,
+      1858,
+      22,
+      22
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0008119999999999985,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 81.0
+  },
+  {
+    "id": 161,
+    "name": "L_finger_0_distal__-Y",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      2028,
+      116,
+      18,
+      22
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0005320000000000006,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 45.0
+  },
+  {
+    "id": 162,
+    "name": "L_finger_0_distal__+Y",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      2002,
+      1881,
+      18,
+      22
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0005320000000000008,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 45.0
+  },
+  {
+    "id": 163,
+    "name": "L_finger_0_distal__-Z",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      2020,
+      1881,
+      18,
+      22
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0005510000000000005,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 45.0
+  },
+  {
+    "id": 164,
+    "name": "L_finger_0_distal__+Z",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1851,
+      1954,
+      18,
+      22
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0005510000000000003,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 45.0
+  },
+  {
+    "id": 165,
+    "name": "L_finger_0_distal__bevels",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1885,
+      1746,
+      38,
+      33
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0028289408540584414,
+    "uv_coverage": 0.6480000000000004,
+    "uv_pixel_area": 324.0000000000002
+  },
+  {
+    "id": 166,
+    "name": "L_finger_1_knuckle__side",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1601,
+      1812,
+      59,
+      21
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.003402000000000001,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 368.0
+  },
+  {
+    "id": 167,
+    "name": "L_finger_1_proximal__-X",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      603,
+      1845,
+      29,
+      24
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.001679999999999997,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 176.0
+  },
+  {
+    "id": 168,
+    "name": "L_finger_1_proximal__+X",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      574,
+      1871,
+      29,
+      24
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.001679999999999997,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 176.0
+  },
+  {
+    "id": 169,
+    "name": "L_finger_1_proximal__-Y",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1851,
+      1834,
+      19,
+      24
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0007000000000000008,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 66.0
+  },
+  {
+    "id": 170,
+    "name": "L_finger_1_proximal__+Y",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1870,
+      1834,
+      19,
+      24
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0007000000000000008,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 66.0
+  },
+  {
+    "id": 171,
+    "name": "L_finger_1_proximal__-Z",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      2028,
+      246,
+      19,
+      29
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0009599999999999992,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 96.0
+  },
+  {
+    "id": 172,
+    "name": "L_finger_1_proximal__+Z",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      2028,
+      275,
+      19,
+      29
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0009599999999999992,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 96.0
+  },
+  {
+    "id": 173,
+    "name": "L_finger_1_proximal__bevels",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1938,
+      1708,
+      43,
+      36
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.003745351242476222,
+    "uv_coverage": 0.6480000000000004,
+    "uv_pixel_area": 447.1200000000003
+  },
+  {
+    "id": 174,
+    "name": "L_finger_1_distal__-X",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      2002,
+      1858,
+      22,
+      22
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0008119999999999985,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 81.0
+  },
+  {
+    "id": 175,
+    "name": "L_finger_1_distal__+X",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      2024,
+      1858,
+      22,
+      22
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0008119999999999985,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 81.0
+  },
+  {
+    "id": 176,
+    "name": "L_finger_1_distal__-Y",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1851,
+      1976,
+      18,
+      22
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0005320000000000006,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 45.0
+  },
+  {
+    "id": 177,
+    "name": "L_finger_1_distal__+Y",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1851,
+      1998,
+      18,
+      22
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0005320000000000007,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 45.0
+  },
+  {
+    "id": 178,
+    "name": "L_finger_1_distal__-Z",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1851,
+      2020,
+      18,
+      22
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0005510000000000003,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 45.0
+  },
+  {
+    "id": 179,
+    "name": "L_finger_1_distal__+Z",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1892,
+      1903,
+      18,
+      22
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0005510000000000003,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 45.0
+  },
+  {
+    "id": 180,
+    "name": "L_finger_1_distal__bevels",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1923,
+      1746,
+      38,
+      33
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.002828940854058441,
+    "uv_coverage": 0.6480000000000004,
+    "uv_pixel_area": 324.0000000000002
+  },
+  {
+    "id": 181,
+    "name": "L_finger_2_knuckle__side",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1601,
+      1833,
+      59,
+      21
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.003402000000000001,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 368.0
+  },
+  {
+    "id": 182,
+    "name": "L_finger_2_proximal__-X",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      603,
+      1871,
+      29,
+      24
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.001679999999999997,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 176.0
+  },
+  {
+    "id": 183,
+    "name": "L_finger_2_proximal__+X",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1950,
+      1677,
+      29,
+      24
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.001679999999999997,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 176.0
+  },
+  {
+    "id": 184,
+    "name": "L_finger_2_proximal__-Y",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1889,
+      1834,
+      19,
+      24
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0007000000000000008,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 66.0
+  },
+  {
+    "id": 185,
+    "name": "L_finger_2_proximal__+Y",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1908,
+      1834,
+      19,
+      24
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0007000000000000006,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 66.0
+  },
+  {
+    "id": 186,
+    "name": "L_finger_2_proximal__-Z",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      2028,
+      304,
+      19,
+      29
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0009599999999999993,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 96.0
+  },
+  {
+    "id": 187,
+    "name": "L_finger_2_proximal__+Z",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      2028,
+      0,
+      19,
+      29
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0009599999999999993,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 96.0
+  },
+  {
+    "id": 188,
+    "name": "L_finger_2_proximal__bevels",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1981,
+      1708,
+      43,
+      36
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0037453512424762215,
+    "uv_coverage": 0.6480000000000004,
+    "uv_pixel_area": 447.1200000000003
+  },
+  {
+    "id": 189,
+    "name": "L_finger_2_distal__-X",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1870,
+      1881,
+      22,
+      22
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0008119999999999985,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 81.0
+  },
+  {
+    "id": 190,
+    "name": "L_finger_2_distal__+X",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1870,
+      1903,
+      22,
+      22
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0008119999999999985,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 81.0
+  },
+  {
+    "id": 191,
+    "name": "L_finger_2_distal__-Y",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1892,
+      1925,
+      18,
+      22
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0005320000000000008,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 45.0
+  },
+  {
+    "id": 192,
+    "name": "L_finger_2_distal__+Y",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1892,
+      1947,
+      18,
+      22
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0005320000000000008,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 45.0
+  },
+  {
+    "id": 193,
+    "name": "L_finger_2_distal__-Z",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1892,
+      1969,
+      18,
+      22
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0005510000000000003,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 45.0
+  },
+  {
+    "id": 194,
+    "name": "L_finger_2_distal__+Z",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1892,
+      1991,
+      18,
+      22
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0005510000000000003,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 45.0
+  },
+  {
+    "id": 195,
+    "name": "L_finger_2_distal__bevels",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1961,
+      1746,
+      38,
+      33
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0028289408540584414,
+    "uv_coverage": 0.6480000000000004,
+    "uv_pixel_area": 324.0000000000002
+  },
+  {
+    "id": 196,
+    "name": "L_finger_3_knuckle__side",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1601,
+      1854,
+      59,
+      21
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.003402,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 368.0
+  },
+  {
+    "id": 197,
+    "name": "L_finger_3_proximal__-X",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1979,
+      1677,
+      29,
+      24
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0016799999999999973,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 176.0
+  },
+  {
+    "id": 198,
+    "name": "L_finger_3_proximal__+X",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      2008,
+      1677,
+      29,
+      24
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0016799999999999973,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 176.0
+  },
+  {
+    "id": 199,
+    "name": "L_finger_3_proximal__-Y",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1927,
+      1834,
+      19,
+      24
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0007000000000000008,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 66.0
+  },
+  {
+    "id": 200,
+    "name": "L_finger_3_proximal__+Y",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1946,
+      1834,
+      19,
+      24
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0007000000000000009,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 66.0
+  },
+  {
+    "id": 201,
+    "name": "L_finger_3_proximal__-Z",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      2028,
+      29,
+      19,
+      29
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0009599999999999992,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 96.0
+  },
+  {
+    "id": 202,
+    "name": "L_finger_3_proximal__+Z",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      2028,
+      58,
+      19,
+      29
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0009599999999999993,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 96.0
+  },
+  {
+    "id": 203,
+    "name": "L_finger_3_proximal__bevels",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1711,
+      1824,
+      43,
+      36
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0037453512424762215,
+    "uv_coverage": 0.6480000000000004,
+    "uv_pixel_area": 447.1200000000003
+  },
+  {
+    "id": 204,
+    "name": "L_finger_3_distal__-X",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1870,
+      1925,
+      22,
+      22
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0008119999999999986,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 81.0
+  },
+  {
+    "id": 205,
+    "name": "L_finger_3_distal__+X",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1870,
+      1947,
+      22,
+      22
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0008119999999999986,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 81.0
+  },
+  {
+    "id": 206,
+    "name": "L_finger_3_distal__-Y",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1892,
+      2013,
+      18,
+      22
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0005320000000000008,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 45.0
+  },
+  {
+    "id": 207,
+    "name": "L_finger_3_distal__+Y",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1910,
+      1903,
+      18,
+      22
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0005320000000000008,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 45.0
+  },
+  {
+    "id": 208,
+    "name": "L_finger_3_distal__-Z",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1928,
+      1903,
+      18,
+      22
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0005510000000000002,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 45.0
+  },
+  {
+    "id": 209,
+    "name": "L_finger_3_distal__+Z",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1946,
+      1903,
+      18,
+      22
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0005510000000000003,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 45.0
+  },
+  {
+    "id": 210,
+    "name": "L_finger_3_distal__bevels",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1999,
+      1746,
+      38,
+      33
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0028289408540584414,
+    "uv_coverage": 0.6480000000000004,
+    "uv_pixel_area": 324.0000000000002
+  },
+  {
+    "id": 211,
+    "name": "L_thumb_proximal__-X",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1862,
+      1503,
+      33,
+      23
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0019199999999999998,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 200.0
+  },
+  {
+    "id": 212,
+    "name": "L_thumb_proximal__+X",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1895,
+      1503,
+      33,
+      23
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0019199999999999994,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 200.0
+  },
+  {
+    "id": 213,
+    "name": "L_thumb_proximal__-Y",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1870,
+      1858,
+      22,
+      23
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0009599999999999999,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 90.0
+  },
+  {
+    "id": 214,
+    "name": "L_thumb_proximal__+Y",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1892,
+      1858,
+      22,
+      23
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0009599999999999997,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 90.0
+  },
+  {
+    "id": 215,
+    "name": "L_thumb_proximal__-Z",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      2020,
+      859,
+      22,
+      33
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0018,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 180.0
+  },
+  {
+    "id": 216,
+    "name": "L_thumb_proximal__+Z",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      2023,
+      1334,
+      22,
+      33
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0018000000000000004,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 180.0
+  },
+  {
+    "id": 217,
+    "name": "L_thumb_proximal__bevels",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1920,
+      1633,
+      51,
+      43
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.00596449475424219,
+    "uv_coverage": 0.6480000000000004,
+    "uv_pixel_area": 738.7200000000004
+  },
+  {
+    "id": 218,
+    "name": "L_thumb_distal__-X",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1215,
+      1650,
+      25,
+      21
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0009719999999999996,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 96.0
+  },
+  {
+    "id": 219,
+    "name": "L_thumb_distal__+X",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1215,
+      1850,
+      25,
+      21
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0009719999999999993,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 96.0
+  },
+  {
+    "id": 220,
+    "name": "L_thumb_distal__-Y",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1982,
+      1925,
+      21,
+      21
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0007019999999999995,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 64.0
+  },
+  {
+    "id": 221,
+    "name": "L_thumb_distal__+Y",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      2003,
+      1925,
+      21,
+      21
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0007019999999999995,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 64.0
+  },
+  {
+    "id": 222,
+    "name": "L_thumb_distal__-Z",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1905,
+      1134,
+      21,
+      25
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0009360000000000017,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 96.0
+  },
+  {
+    "id": 223,
+    "name": "L_thumb_distal__+Z",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1823,
+      1897,
+      21,
+      25
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0009360000000000017,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 96.0
+  },
+  {
+    "id": 224,
+    "name": "L_thumb_distal__bevels",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1711,
+      1746,
+      45,
+      39
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.004471085232376212,
+    "uv_coverage": 0.6480000000000004,
+    "uv_pixel_area": 539.1360000000003
+  },
+  {
+    "id": 225,
+    "name": "R_M1_female_register__ring_0",
+    "category": "frame",
+    "node": 1,
+    "outer_rect": [
+      640,
+      1685,
+      321,
+      19
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.017898889883109906,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 1848.0
+  },
+  {
+    "id": 226,
+    "name": "R_M1_female_register__ring_1",
+    "category": "frame",
+    "node": 1,
+    "outer_rect": [
+      1319,
+      892,
+      351,
+      20
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.021581086177507,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 2366.0
+  },
+  {
+    "id": 227,
+    "name": "R_M1_female_register__ring_2",
+    "category": "frame",
+    "node": 1,
+    "outer_rect": [
+      0,
+      1926,
+      443,
+      29
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.05535981285390604,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 6880.0
+  },
+  {
+    "id": 228,
+    "name": "R_M1_female_register__ring_3",
+    "category": "frame",
+    "node": 1,
+    "outer_rect": [
+      0,
+      2024,
+      402,
+      21
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.02856333385622042,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 3112.0
+  },
+  {
+    "id": 229,
+    "name": "R_M1_female_register__ring_4",
+    "category": "frame",
+    "node": 1,
+    "outer_rect": [
+      640,
+      1762,
+      282,
+      50
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.07728854324851475,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 9953.0
+  },
+  {
+    "id": 230,
+    "name": "R_M1_female_register__ring_5",
+    "category": "frame",
+    "node": 1,
+    "outer_rect": [
+      968,
+      2001,
+      163,
+      20
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.009097153492968715,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 1050.0
+  },
+  {
+    "id": 231,
+    "name": "R_M1_female_register__ring_6",
+    "category": "frame",
+    "node": 1,
+    "outer_rect": [
+      968,
+      1432,
+      271,
+      46
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.06697719249163032,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 8514.0
+  },
+  {
+    "id": 232,
+    "name": "R_M1_female_register__ring_7",
+    "category": "frame",
+    "node": 1,
+    "outer_rect": [
+      1349,
+      859,
+      381,
+      33
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.06052238480859352,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 7360.0
+  },
+  {
+    "id": 233,
+    "name": "R_shoulder_output_journal__side",
+    "category": "frame",
+    "node": 1,
+    "outer_rect": [
+      1242,
+      1952,
+      158,
+      39
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.030611046102365334,
+    "uv_coverage": 0.9999999999999999,
+    "uv_pixel_area": 3769.999999999999
+  },
+  {
+    "id": 234,
+    "name": "R_shoulder_output_journal__cap_top",
+    "category": "frame",
+    "node": 1,
+    "outer_rect": [
+      1601,
+      1959,
+      58,
+      58
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.012287999999999999,
+    "uv_coverage": 0.75,
+    "uv_pixel_area": 1518.75
+  },
+  {
+    "id": 235,
+    "name": "R_shoulder_index_disc__side",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1652,
+      1134,
+      220,
+      18
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.008174540720518016,
+    "uv_coverage": 0.9999999999999999,
+    "uv_pixel_area": 1034.9999999999998
+  },
+  {
+    "id": 236,
+    "name": "R_shoulder_index_disc__cap_top",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1458,
+      1860,
+      80,
+      80
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.026507999999999997,
+    "uv_coverage": 0.75,
+    "uv_pixel_area": 3366.75
+  },
+  {
+    "id": 237,
+    "name": "R_M1_fastener_00__side",
+    "category": "frame",
+    "node": 1,
+    "outer_rect": [
+      1991,
+      892,
+      32,
+      18
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.000648,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 95.0
+  },
+  {
+    "id": 238,
+    "name": "R_M1_fastener_00__cap_top",
+    "category": "frame",
+    "node": 1,
+    "outer_rect": [
+      1946,
+      1986,
+      18,
+      18
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.00021044417311961883,
+    "uv_coverage": 0.6495190528383289,
+    "uv_pixel_area": 16.23797632095822
+  },
+  {
+    "id": 239,
+    "name": "R_M1_fastener_01__side",
+    "category": "frame",
+    "node": 1,
+    "outer_rect": [
+      2009,
+      1264,
+      32,
+      18
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0006479999999999998,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 95.0
+  },
+  {
+    "id": 240,
+    "name": "R_M1_fastener_01__cap_top",
+    "category": "frame",
+    "node": 1,
+    "outer_rect": [
+      1946,
+      2004,
+      18,
+      18
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.00021044417311961855,
+    "uv_coverage": 0.6495190528383289,
+    "uv_pixel_area": 16.23797632095822
+  },
+  {
+    "id": 241,
+    "name": "R_M1_fastener_02__side",
+    "category": "frame",
+    "node": 1,
+    "outer_rect": [
+      2000,
+      1369,
+      32,
+      18
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0006480000000000002,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 95.0
+  },
+  {
+    "id": 242,
+    "name": "R_M1_fastener_02__cap_top",
+    "category": "frame",
+    "node": 1,
+    "outer_rect": [
+      1946,
+      2022,
+      18,
+      18
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.00021044417311961877,
+    "uv_coverage": 0.6495190528383289,
+    "uv_pixel_area": 16.23797632095822
+  },
+  {
+    "id": 243,
+    "name": "R_M1_fastener_03__side",
+    "category": "frame",
+    "node": 1,
+    "outer_rect": [
+      402,
+      1955,
+      32,
+      18
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.000648,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 95.0
+  },
+  {
+    "id": 244,
+    "name": "R_M1_fastener_03__cap_top",
+    "category": "frame",
+    "node": 1,
+    "outer_rect": [
+      1967,
+      1947,
+      18,
+      18
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.00021044417311961883,
+    "uv_coverage": 0.6495190528383289,
+    "uv_pixel_area": 16.23797632095822
+  },
+  {
+    "id": 245,
+    "name": "R_M1_fastener_04__side",
+    "category": "frame",
+    "node": 1,
+    "outer_rect": [
+      402,
+      1979,
+      32,
+      18
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.000647999999999999,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 95.0
+  },
+  {
+    "id": 246,
+    "name": "R_M1_fastener_04__cap_top",
+    "category": "frame",
+    "node": 1,
+    "outer_rect": [
+      1985,
+      1947,
+      18,
+      18
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.00021044417311961812,
+    "uv_coverage": 0.6495190528383289,
+    "uv_pixel_area": 16.23797632095822
+  },
+  {
+    "id": 247,
+    "name": "R_M1_fastener_05__side",
+    "category": "frame",
+    "node": 1,
+    "outer_rect": [
+      1756,
+      1985,
+      32,
+      18
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0006479999999999992,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 95.0
+  },
+  {
+    "id": 248,
+    "name": "R_M1_fastener_05__cap_top",
+    "category": "frame",
+    "node": 1,
+    "outer_rect": [
+      2003,
+      1947,
+      18,
+      18
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.00021044417311961823,
+    "uv_coverage": 0.6495190528383289,
+    "uv_pixel_area": 16.23797632095822
+  },
+  {
+    "id": 249,
+    "name": "R_M1_top_index__-X",
+    "category": "accent",
+    "node": 1,
+    "outer_rect": [
+      1681,
+      1708,
+      30,
+      48
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0008000000000000007,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 595.0
+  },
+  {
+    "id": 250,
+    "name": "R_M1_top_index__+X",
+    "category": "accent",
+    "node": 1,
+    "outer_rect": [
+      1681,
+      1756,
+      30,
+      48
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0008000000000000007,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 595.0
+  },
+  {
+    "id": 251,
+    "name": "R_M1_top_index__-Y",
+    "category": "accent",
+    "node": 1,
+    "outer_rect": [
+      1540,
+      1945,
+      59,
+      48
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0020800000000000003,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 1610.0
+  },
+  {
+    "id": 252,
+    "name": "R_M1_top_index__+Y",
+    "category": "accent",
+    "node": 1,
+    "outer_rect": [
+      1540,
+      1993,
+      59,
+      48
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0020800000000000003,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 1610.0
+  },
+  {
+    "id": 253,
+    "name": "R_M1_top_index__-Z",
+    "category": "accent",
+    "node": 1,
+    "outer_rect": [
+      1601,
+      1731,
+      59,
+      30
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.001040000000000001,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 782.0
+  },
+  {
+    "id": 254,
+    "name": "R_M1_top_index__+Z",
+    "category": "accent",
+    "node": 1,
+    "outer_rect": [
+      1601,
+      1761,
+      59,
+      30
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0010400000000000008,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 782.0
+  },
+  {
+    "id": 255,
+    "name": "R_M1_service_key__-X",
+    "category": "frame",
+    "node": 1,
+    "outer_rect": [
+      2020,
+      507,
+      28,
+      35
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0028599999999999997,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 330.0
+  },
+  {
+    "id": 256,
+    "name": "R_M1_service_key__+X",
+    "category": "frame",
+    "node": 1,
+    "outer_rect": [
+      1681,
+      1909,
+      28,
+      35
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0028599999999999997,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 330.0
+  },
+  {
+    "id": 257,
+    "name": "R_M1_service_key__-Y",
+    "category": "frame",
+    "node": 1,
+    "outer_rect": [
+      1681,
+      1839,
+      29,
+      35
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0031200000000000004,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 352.0
+  },
+  {
+    "id": 258,
+    "name": "R_M1_service_key__+Y",
+    "category": "frame",
+    "node": 1,
+    "outer_rect": [
+      1681,
+      1874,
+      29,
+      35
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0031200000000000004,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 352.0
+  },
+  {
+    "id": 259,
+    "name": "R_M1_service_key__-Z",
+    "category": "frame",
+    "node": 1,
+    "outer_rect": [
+      928,
+      1601,
+      29,
+      28
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0021119999999999993,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 240.0
+  },
+  {
+    "id": 260,
+    "name": "R_M1_service_key__+Z",
+    "category": "frame",
+    "node": 1,
+    "outer_rect": [
+      1681,
+      1977,
+      29,
+      28
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0021119999999999993,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 240.0
+  },
+  {
+    "id": 261,
+    "name": "R_upper_main_spar__-X",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1885,
+      1334,
+      138,
+      35
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.022124057084189477,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 2750.0
+  },
+  {
+    "id": 262,
+    "name": "R_upper_main_spar__+X",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1899,
+      1211,
+      138,
+      35
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.022124057084189484,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 2750.0
+  },
+  {
+    "id": 263,
+    "name": "R_upper_main_spar__-Y",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1799,
+      1746,
+      43,
+      35
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.00544,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 660.0
+  },
+  {
+    "id": 264,
+    "name": "R_upper_main_spar__+Y",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1842,
+      1746,
+      43,
+      35
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.00544,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 660.0
+  },
+  {
+    "id": 265,
+    "name": "R_upper_main_spar__-Z",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1942,
+      0,
+      43,
+      138
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.02938351331493915,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 3750.0
+  },
+  {
+    "id": 266,
+    "name": "R_upper_main_spar__+Z",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1985,
+      0,
+      43,
+      138
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.02938351331493915,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 3750.0
+  },
+  {
+    "id": 267,
+    "name": "R_upper_main_spar__bevels",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1458,
+      1390,
+      97,
+      80
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.028676621644257036,
+    "uv_coverage": 0.6480000000000001,
+    "uv_pixel_area": 3646.9440000000004
+  },
+  {
+    "id": 268,
+    "name": "R_upper_front_web__-X",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1784,
+      1369,
+      108,
+      21
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0065740493609342445,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 760.0
+  },
+  {
+    "id": 269,
+    "name": "R_upper_front_web__+X",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1892,
+      1369,
+      108,
+      21
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0065740493609342445,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 760.0
+  },
+  {
+    "id": 270,
+    "name": "R_upper_front_web__-Y",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      2010,
+      1805,
+      28,
+      21
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0010999999999999994,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 120.0
+  },
+  {
+    "id": 271,
+    "name": "R_upper_front_web__+Y",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1823,
+      1834,
+      28,
+      21
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0010999999999999994,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 120.0
+  },
+  {
+    "id": 272,
+    "name": "R_upper_front_web__-Z",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1998,
+      138,
+      28,
+      108
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.011570326875244273,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 1425.0
+  },
+  {
+    "id": 273,
+    "name": "R_upper_front_web__+Z",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1942,
+      246,
+      28,
+      108
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.011570326875244263,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 1425.0
+  },
+  {
+    "id": 274,
+    "name": "R_upper_rear_web__-X",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1899,
+      1306,
+      110,
+      21
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.006733591166680673,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 776.0
+  },
+  {
+    "id": 275,
+    "name": "R_upper_rear_web__+X",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1458,
+      1369,
+      110,
+      21
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.00673359116668067,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 776.0
+  },
+  {
+    "id": 276,
+    "name": "R_upper_rear_web__-Y",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1823,
+      1855,
+      28,
+      21
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0010999999999999998,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 120.0
+  },
+  {
+    "id": 277,
+    "name": "R_upper_rear_web__+Y",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1823,
+      1876,
+      28,
+      21
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.001099999999999999,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 120.0
+  },
+  {
+    "id": 278,
+    "name": "R_upper_rear_web__-Z",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1982,
+      1002,
+      28,
+      110
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.011851120453357985,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 1455.0
+  },
+  {
+    "id": 279,
+    "name": "R_upper_rear_web__+Z",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      2010,
+      1002,
+      28,
+      110
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.011851120453357993,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 1455.0
+  },
+  {
+    "id": 280,
+    "name": "R_upper_rear_bridge__-X",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1794,
+      1827,
+      29,
+      22
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0014209999999999995,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 144.0
+  },
+  {
+    "id": 281,
+    "name": "R_upper_rear_bridge__+X",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1794,
+      1849,
+      29,
+      22
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0014209999999999995,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 144.0
+  },
+  {
+    "id": 282,
+    "name": "R_upper_rear_bridge__-Y",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1540,
+      1805,
+      61,
+      22
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0039440000000000005,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 432.0
+  },
+  {
+    "id": 283,
+    "name": "R_upper_rear_bridge__+Y",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1540,
+      1827,
+      61,
+      22
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0039440000000000005,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 432.0
+  },
+  {
+    "id": 284,
+    "name": "R_upper_rear_bridge__-Z",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1540,
+      1645,
+      61,
+      29
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.006664,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 768.0
+  },
+  {
+    "id": 285,
+    "name": "R_upper_rear_bridge__+Z",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1540,
+      1674,
+      61,
+      29
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.006664,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 768.0
+  },
+  {
+    "id": 286,
+    "name": "R_upper_rear_bridge__bevels",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1957,
+      1526,
+      63,
+      52
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.010127939481868579,
+    "uv_coverage": 0.6480000000000001,
+    "uv_pixel_area": 1263.6000000000001
+  },
+  {
+    "id": 287,
+    "name": "R_shoulder_cowling__surface",
+    "category": "armor",
+    "node": 4,
+    "outer_rect": [
+      971,
+      0,
+      971,
+      835
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.2860571756862875,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 787476.0
+  },
+  {
+    "id": 288,
+    "name": "R_shoulder_cowling_inner__inside",
+    "category": "frame",
+    "node": 4,
+    "outer_rect": [
+      1242,
+      1521,
+      216,
+      187
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.26814015386406964,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 35322.0
+  },
+  {
+    "id": 289,
+    "name": "R_shoulder_cowling_rims__return_0",
+    "category": "armor",
+    "node": 4,
+    "outer_rect": [
+      0,
+      1766,
+      634,
+      27
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.003510659937975064,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 8694.0
+  },
+  {
+    "id": 290,
+    "name": "R_shoulder_cowling_rims__return_1",
+    "category": "armor",
+    "node": 4,
+    "outer_rect": [
+      0,
+      1819,
+      600,
+      26
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0031423509274009958,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 7631.0
+  },
+  {
+    "id": 291,
+    "name": "R_shoulder_cowling_rims__return_2",
+    "category": "armor",
+    "node": 4,
+    "outer_rect": [
+      0,
+      1601,
+      663,
+      28
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0038422683894253572,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 9750.0
+  },
+  {
+    "id": 292,
+    "name": "R_shoulder_cowling_rims__return_3",
+    "category": "armor",
+    "node": 4,
+    "outer_rect": [
+      0,
+      1657,
+      658,
+      28
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.003783814229971802,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 9675.0
+  },
+  {
+    "id": 293,
+    "name": "R_shoulder_cowling_roof__roof",
+    "category": "armor",
+    "node": 4,
+    "outer_rect": [
+      1310,
+      912,
+      342,
+      248
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.024707509942292524,
+    "uv_coverage": 0.874279344396999,
+    "uv_pixel_area": 67594.90751205398
+  },
+  {
+    "id": 294,
+    "name": "R_shoulder_cowling_roof_inner__roof_inner",
+    "category": "frame",
+    "node": 4,
+    "outer_rect": [
+      1540,
+      1526,
+      80,
+      61
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.022124792450531824,
+    "uv_coverage": 0.8779212922112765,
+    "uv_pixel_area": 2823.394875751465
+  },
+  {
+    "id": 295,
+    "name": "R_shoulder_cowling_roof_rear_edge__edge",
+    "category": "armor",
+    "node": 4,
+    "outer_rect": [
+      663,
+      1601,
+      196,
+      27
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0010285005265489615,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 2562.0
+  },
+  {
+    "id": 296,
+    "name": "R_shoulder_lower_trim__-X",
+    "category": "armor",
+    "node": 4,
+    "outer_rect": [
+      1400,
+      2010,
+      51,
+      31
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0002880000000000005,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 684.0
+  },
+  {
+    "id": 297,
+    "name": "R_shoulder_lower_trim__+X",
+    "category": "armor",
+    "node": 4,
+    "outer_rect": [
+      1681,
+      1677,
+      51,
+      31
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0002880000000000005,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 684.0
+  },
+  {
+    "id": 298,
+    "name": "R_shoulder_lower_trim__-Y",
+    "category": "armor",
+    "node": 4,
+    "outer_rect": [
+      968,
+      1324,
+      274,
+      31
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.001896000000000002,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 4698.0
+  },
+  {
+    "id": 299,
+    "name": "R_shoulder_lower_trim__+Y",
+    "category": "armor",
+    "node": 4,
+    "outer_rect": [
+      968,
+      1355,
+      274,
+      31
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.001896000000000002,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 4698.0
+  },
+  {
+    "id": 300,
+    "name": "R_shoulder_lower_trim__-Z",
+    "category": "armor",
+    "node": 4,
+    "outer_rect": [
+      1516,
+      1160,
+      274,
+      51
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.003792000000000004,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 9918.0
+  },
+  {
+    "id": 301,
+    "name": "R_shoulder_lower_trim__+Z",
+    "category": "armor",
+    "node": 4,
+    "outer_rect": [
+      968,
+      1211,
+      274,
+      51
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.003792000000000004,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 9918.0
+  },
+  {
+    "id": 302,
+    "name": "R_shoulder_lower_trim__bevels",
+    "category": "armor",
+    "node": 4,
+    "outer_rect": [
+      968,
+      1678,
+      247,
+      200
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.010438051981266008,
+    "uv_coverage": 0.6480000000000001,
+    "uv_pixel_area": 28355.184000000005
+  },
+  {
+    "id": 303,
+    "name": "R_elbow_fork_-0.074__-X",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1712,
+      1633,
+      52,
+      44
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.009793640232314028,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 1209.0
+  },
+  {
+    "id": 304,
+    "name": "R_elbow_fork_-0.074__+X",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1764,
+      1633,
+      52,
+      44
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.009793640232314028,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 1209.0
+  },
+  {
+    "id": 305,
+    "name": "R_elbow_fork_-0.074__-Y",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1660,
+      1913,
+      21,
+      44
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.002403000000000002,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 248.0
+  },
+  {
+    "id": 306,
+    "name": "R_elbow_fork_-0.074__+Y",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1660,
+      1957,
+      21,
+      44
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0024030000000000015,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 248.0
+  },
+  {
+    "id": 307,
+    "name": "R_elbow_fork_-0.074__-Z",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      2020,
+      455,
+      21,
+      52
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0029711043401402138,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 312.0
+  },
+  {
+    "id": 308,
+    "name": "R_elbow_fork_-0.074__+Z",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      2019,
+      1390,
+      21,
+      52
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0029711043401402138,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 312.0
+  },
+  {
+    "id": 309,
+    "name": "R_elbow_fork_0.074__-X",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1816,
+      1633,
+      52,
+      44
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.009793640232314028,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 1209.0
+  },
+  {
+    "id": 310,
+    "name": "R_elbow_fork_0.074__+X",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1868,
+      1633,
+      52,
+      44
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.009793640232314028,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 1209.0
+  },
+  {
+    "id": 311,
+    "name": "R_elbow_fork_0.074__-Y",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1660,
+      2001,
+      21,
+      44
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0024030000000000024,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 248.0
+  },
+  {
+    "id": 312,
+    "name": "R_elbow_fork_0.074__+Y",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      2020,
+      410,
+      21,
+      44
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.002403000000000002,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 248.0
+  },
+  {
+    "id": 313,
+    "name": "R_elbow_fork_0.074__-Z",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1660,
+      1677,
+      21,
+      52
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0029711043401402138,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 312.0
+  },
+  {
+    "id": 314,
+    "name": "R_elbow_fork_0.074__+Z",
+    "category": "frame",
+    "node": 3,
+    "outer_rect": [
+      1660,
+      1729,
+      21,
+      52
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0029711043401402138,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 312.0
+  },
+  {
+    "id": 315,
+    "name": "R_elbow_through_pin__side",
+    "category": "frame",
+    "node": 5,
+    "outer_rect": [
+      1458,
+      1557,
+      82,
+      87
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.03965924105808072,
+    "uv_coverage": 1.0000000000000002,
+    "uv_pixel_area": 5106.000000000001
+  },
+  {
+    "id": 316,
+    "name": "R_elbow_drum__side",
+    "category": "frame",
+    "node": 5,
+    "outer_rect": [
+      443,
+      1952,
+      174,
+      55
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.052482290689708735,
+    "uv_coverage": 0.9999999999999999,
+    "uv_pixel_area": 6761.999999999999
+  },
+  {
+    "id": 317,
+    "name": "R_elbow_outer_race__ring_0",
+    "category": "frame",
+    "node": 5,
+    "outer_rect": [
+      1926,
+      980,
+      119,
+      22
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.008639999999999998,
+    "uv_coverage": 0.9999999999999999,
+    "uv_pixel_area": 953.9999999999999
+  },
+  {
+    "id": 318,
+    "name": "R_elbow_outer_race__ring_1",
+    "category": "frame",
+    "node": 5,
+    "outer_rect": [
+      443,
+      2007,
+      167,
+      19
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.008172391353055085,
+    "uv_coverage": 0.9999999999999999,
+    "uv_pixel_area": 923.9999999999998
+  },
+  {
+    "id": 319,
+    "name": "R_elbow_outer_race__ring_2",
+    "category": "frame",
+    "node": 5,
+    "outer_rect": [
+      658,
+      1657,
+      170,
+      19
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.009414588487886701,
+    "uv_coverage": 0.9999999999999999,
+    "uv_pixel_area": 941.9999999999998
+  },
+  {
+    "id": 320,
+    "name": "R_elbow_outer_race__ring_3",
+    "category": "frame",
+    "node": 5,
+    "outer_rect": [
+      1926,
+      935,
+      121,
+      23
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.009408,
+    "uv_coverage": 0.9999999999999999,
+    "uv_pixel_area": 1079.9999999999998
+  },
+  {
+    "id": 321,
+    "name": "R_elbow_axis_cap__side",
+    "category": "frame",
+    "node": 5,
+    "outer_rect": [
+      1933,
+      1446,
+      73,
+      21
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.004171729424061795,
+    "uv_coverage": 1.0000000000000002,
+    "uv_pixel_area": 480.0000000000001
+  },
+  {
+    "id": 322,
+    "name": "R_elbow_axis_cap__cap_top",
+    "category": "frame",
+    "node": 5,
+    "outer_rect": [
+      1919,
+      1677,
+      31,
+      31
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0021424772446060666,
+    "uv_coverage": 0.7347315653655915,
+    "uv_pixel_area": 238.05302717845166
+  },
+  {
+    "id": 323,
+    "name": "R_forearm_backbone__-X",
+    "category": "frame",
+    "node": 6,
+    "outer_rect": [
+      1942,
+      618,
+      101,
+      31
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.012768441907644404,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 1584.0
+  },
+  {
+    "id": 324,
+    "name": "R_forearm_backbone__+X",
+    "category": "frame",
+    "node": 6,
+    "outer_rect": [
+      1942,
+      649,
+      101,
+      31
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.012768441907644396,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 1584.0
+  },
+  {
+    "id": 325,
+    "name": "R_forearm_backbone__-Y",
+    "category": "frame",
+    "node": 6,
+    "outer_rect": [
+      1810,
+      1677,
+      39,
+      31
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0039000000000000016,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 468.0
+  },
+  {
+    "id": 326,
+    "name": "R_forearm_backbone__+Y",
+    "category": "frame",
+    "node": 6,
+    "outer_rect": [
+      1849,
+      1677,
+      39,
+      31
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0039000000000000007,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 468.0
+  },
+  {
+    "id": 327,
+    "name": "R_forearm_backbone__-Z",
+    "category": "frame",
+    "node": 6,
+    "outer_rect": [
+      1942,
+      455,
+      39,
+      101
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.01841602198217942,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 2288.0
+  },
+  {
+    "id": 328,
+    "name": "R_forearm_backbone__+Z",
+    "category": "frame",
+    "node": 6,
+    "outer_rect": [
+      1981,
+      455,
+      39,
+      101
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.01841602198217942,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 2288.0
+  },
+  {
+    "id": 329,
+    "name": "R_forearm_backbone__bevels",
+    "category": "frame",
+    "node": 6,
+    "outer_rect": [
+      1458,
+      1712,
+      82,
+      68
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.019528179133858507,
+    "uv_coverage": 0.6480000000000001,
+    "uv_pixel_area": 2459.1600000000008
+  },
+  {
+    "id": 330,
+    "name": "R_forearm_rear_bracket__-X",
+    "category": "frame",
+    "node": 6,
+    "outer_rect": [
+      600,
+      1819,
+      33,
+      25
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0022040000000000024,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 240.0
+  },
+  {
+    "id": 331,
+    "name": "R_forearm_rear_bracket__+X",
+    "category": "frame",
+    "node": 6,
+    "outer_rect": [
+      1872,
+      1134,
+      33,
+      25
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.002204000000000003,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 240.0
+  },
+  {
+    "id": 332,
+    "name": "R_forearm_rear_bracket__-Y",
+    "category": "frame",
+    "node": 6,
+    "outer_rect": [
+      859,
+      1601,
+      69,
+      25
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0059660000000000026,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 672.0
+  },
+  {
+    "id": 333,
+    "name": "R_forearm_rear_bracket__+Y",
+    "category": "frame",
+    "node": 6,
+    "outer_rect": [
+      1689,
+      1526,
+      69,
+      25
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0059660000000000026,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 672.0
+  },
+  {
+    "id": 334,
+    "name": "R_forearm_rear_bracket__-Z",
+    "category": "frame",
+    "node": 6,
+    "outer_rect": [
+      1931,
+      1470,
+      69,
+      33
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.00910600000000001,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 1120.0
+  },
+  {
+    "id": 335,
+    "name": "R_forearm_rear_bracket__+Z",
+    "category": "frame",
+    "node": 6,
+    "outer_rect": [
+      1620,
+      1526,
+      69,
+      33
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.00910600000000001,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 1120.0
+  },
+  {
+    "id": 336,
+    "name": "R_damper_barrel__side",
+    "category": "frame",
+    "node": 6,
+    "outer_rect": [
+      1826,
+      1526,
+      68,
+      54
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.018232002668121902,
+    "uv_coverage": 1.0000000000000002,
+    "uv_pixel_area": 2255.0000000000005
+  },
+  {
+    "id": 337,
+    "name": "R_damper_gland__side",
+    "category": "frame",
+    "node": 6,
+    "outer_rect": [
+      1458,
+      2021,
+      80,
+      20
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.004264434522374279,
+    "uv_coverage": 1.0000000000000002,
+    "uv_pixel_area": 469.0000000000001
+  },
+  {
+    "id": 338,
+    "name": "R_damper_rod__side",
+    "category": "frame",
+    "node": 6,
+    "outer_rect": [
+      922,
+      1762,
+      36,
+      50
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.007275620247997076,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 851.0
+  },
+  {
+    "id": 339,
+    "name": "R_damper_eye_0__side",
+    "category": "frame",
+    "node": 6,
+    "outer_rect": [
+      1540,
+      1703,
+      61,
+      29
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0064658192732405615,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 768.0
+  },
+  {
+    "id": 340,
+    "name": "R_damper_eye_0__cap_top",
+    "category": "frame",
+    "node": 6,
+    "outer_rect": [
+      1898,
+      1805,
+      28,
+      28
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0013689587283771557,
+    "uv_coverage": 0.7071067811865476,
+    "uv_pixel_area": 159.0990257669732
+  },
+  {
+    "id": 341,
+    "name": "R_damper_pin_0__side",
+    "category": "frame",
+    "node": 6,
+    "outer_rect": [
+      1756,
+      1915,
+      34,
+      35
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0039000000000000007,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 462.0
+  },
+  {
+    "id": 342,
+    "name": "R_damper_eye_1__side",
+    "category": "frame",
+    "node": 6,
+    "outer_rect": [
+      1540,
+      1732,
+      61,
+      29
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.006465819273240563,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 768.0
+  },
+  {
+    "id": 343,
+    "name": "R_damper_eye_1__cap_top",
+    "category": "frame",
+    "node": 6,
+    "outer_rect": [
+      1926,
+      1805,
+      28,
+      28
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0013689587283771563,
+    "uv_coverage": 0.7071067811865476,
+    "uv_pixel_area": 159.0990257669732
+  },
+  {
+    "id": 344,
+    "name": "R_damper_pin_1__side",
+    "category": "frame",
+    "node": 6,
+    "outer_rect": [
+      1756,
+      1950,
+      34,
+      35
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0039000000000000137,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 462.0
+  },
+  {
+    "id": 345,
+    "name": "R_forearm_service_hose__surface",
+    "category": "frame",
+    "node": 6,
+    "outer_rect": [
+      1999,
+      246,
+      29,
+      105
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.01236869312805323,
+    "uv_coverage": 0.9999999999999998,
+    "uv_pixel_area": 1471.9999999999998
+  },
+  {
+    "id": 346,
+    "name": "R_forearm_gauntlet__surface",
+    "category": "armor",
+    "node": 7,
+    "outer_rect": [
+      0,
+      1204,
+      968,
+      369
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.124046307179486,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 339980.0
+  },
+  {
+    "id": 347,
+    "name": "R_forearm_gauntlet_inner__inside",
+    "category": "frame",
+    "node": 7,
+    "outer_rect": [
+      1242,
+      1866,
+      211,
+      86
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.11179172031908842,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 14454.0
+  },
+  {
+    "id": 348,
+    "name": "R_forearm_gauntlet_rims__return_0",
+    "category": "armor",
+    "node": 7,
+    "outer_rect": [
+      0,
+      1871,
+      574,
+      26
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.002868237994993463,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 7293.0
+  },
+  {
+    "id": 349,
+    "name": "R_forearm_gauntlet_rims__return_1",
+    "category": "armor",
+    "node": 7,
+    "outer_rect": [
+      0,
+      1712,
+      640,
+      27
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.00357628406459053,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 8778.0
+  },
+  {
+    "id": 350,
+    "name": "R_forearm_gauntlet_rims__return_2",
+    "category": "armor",
+    "node": 7,
+    "outer_rect": [
+      0,
+      1979,
+      402,
+      24
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0018274146857116538,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 4279.0
+  },
+  {
+    "id": 351,
+    "name": "R_forearm_gauntlet_rims__return_3",
+    "category": "armor",
+    "node": 7,
+    "outer_rect": [
+      1361,
+      835,
+      393,
+      24
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0017823247679044512,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 4180.0
+  },
+  {
+    "id": 352,
+    "name": "R_forearm_ochre_service__-X",
+    "category": "accent",
+    "node": 7,
+    "outer_rect": [
+      1540,
+      1470,
+      86,
+      56
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.004018000000000003,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 3139.0
+  },
+  {
+    "id": 353,
+    "name": "R_forearm_ochre_service__+X",
+    "category": "accent",
+    "node": 7,
+    "outer_rect": [
+      1626,
+      1470,
+      86,
+      56
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.004018000000000003,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 3139.0
+  },
+  {
+    "id": 354,
+    "name": "R_forearm_ochre_service__-Y",
+    "category": "accent",
+    "node": 7,
+    "outer_rect": [
+      2020,
+      1526,
+      23,
+      56
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0006370000000000005,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 430.0
+  },
+  {
+    "id": 355,
+    "name": "R_forearm_ochre_service__+Y",
+    "category": "accent",
+    "node": 7,
+    "outer_rect": [
+      2020,
+      354,
+      23,
+      56
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0006370000000000005,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 430.0
+  },
+  {
+    "id": 356,
+    "name": "R_forearm_ochre_service__-Z",
+    "category": "accent",
+    "node": 7,
+    "outer_rect": [
+      1215,
+      1678,
+      23,
+      86
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0010660000000000018,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 730.0
+  },
+  {
+    "id": 357,
+    "name": "R_forearm_ochre_service__+Z",
+    "category": "accent",
+    "node": 7,
+    "outer_rect": [
+      1215,
+      1764,
+      23,
+      86
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0010660000000000018,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 730.0
+  },
+  {
+    "id": 358,
+    "name": "R_forearm_ochre_service__bevels",
+    "category": "accent",
+    "node": 7,
+    "outer_rect": [
+      1839,
+      1390,
+      94,
+      78
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.004246140140391406,
+    "uv_coverage": 0.6480000000000001,
+    "uv_pixel_area": 3411.7200000000007
+  },
+  {
+    "id": 359,
+    "name": "R_wrist_core_shaft__side",
+    "category": "frame",
+    "node": 8,
+    "outer_rect": [
+      1787,
+      1470,
+      75,
+      56
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.021087387857045906,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 2666.0
+  },
+  {
+    "id": 360,
+    "name": "R_wrist_housing__side",
+    "category": "frame",
+    "node": 8,
+    "outer_rect": [
+      1458,
+      1334,
+      151,
+      35
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.024629220331955855,
+    "uv_coverage": 0.9999999999999999,
+    "uv_pixel_area": 3035.9999999999995
+  },
+  {
+    "id": 361,
+    "name": "R_wrist_seal__side",
+    "category": "frame",
+    "node": 8,
+    "outer_rect": [
+      968,
+      2021,
+      130,
+      18
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0058141110291830105,
+    "uv_coverage": 0.9999999999999999,
+    "uv_pixel_area": 584.9999999999999
+  },
+  {
+    "id": 362,
+    "name": "R_palm_carrier__-X",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1803,
+      1708,
+      46,
+      38
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.006768000000000007,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 825.0
+  },
+  {
+    "id": 363,
+    "name": "R_palm_carrier__+X",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1849,
+      1708,
+      46,
+      38
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.006768000000000007,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 825.0
+  },
+  {
+    "id": 364,
+    "name": "R_palm_carrier__-Y",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1955,
+      1587,
+      59,
+      38
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.009432,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 1150.0
+  },
+  {
+    "id": 365,
+    "name": "R_palm_carrier__+Y",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1601,
+      1633,
+      59,
+      38
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.009432,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 1150.0
+  },
+  {
+    "id": 366,
+    "name": "R_palm_carrier__-Z",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1719,
+      1587,
+      59,
+      46
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.01231400000000001,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 1518.0
+  },
+  {
+    "id": 367,
+    "name": "R_palm_carrier__+Z",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1778,
+      1587,
+      59,
+      46
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.01231400000000001,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 1518.0
+  },
+  {
+    "id": 368,
+    "name": "R_palm_carrier__bevels",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1650,
+      1390,
+      95,
+      78
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.026760131408300483,
+    "uv_coverage": 0.6480000000000001,
+    "uv_pixel_area": 3453.8400000000006
+  },
+  {
+    "id": 369,
+    "name": "R_backhand_plate__-X",
+    "category": "armor",
+    "node": 11,
+    "outer_rect": [
+      1897,
+      859,
+      123,
+      18
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.00020100000000000003,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 550.0
+  },
+  {
+    "id": 370,
+    "name": "R_backhand_plate__+X",
+    "category": "armor",
+    "node": 11,
+    "outer_rect": [
+      1899,
+      1246,
+      123,
+      18
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.00020100000000000003,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 550.0
+  },
+  {
+    "id": 371,
+    "name": "R_backhand_plate__-Y",
+    "category": "armor",
+    "node": 11,
+    "outer_rect": [
+      1242,
+      1744,
+      215,
+      18
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.00037500000000000033,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 1010.0
+  },
+  {
+    "id": 372,
+    "name": "R_backhand_plate__+Y",
+    "category": "armor",
+    "node": 11,
+    "outer_rect": [
+      1242,
+      1762,
+      215,
+      18
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.00037500000000000033,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 1010.0
+  },
+  {
+    "id": 373,
+    "name": "R_backhand_plate__-Z",
+    "category": "armor",
+    "node": 11,
+    "outer_rect": [
+      1461,
+      1211,
+      219,
+      123
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.008374999999999994,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 22660.0
+  },
+  {
+    "id": 374,
+    "name": "R_backhand_plate__+Z",
+    "category": "armor",
+    "node": 11,
+    "outer_rect": [
+      1680,
+      1211,
+      219,
+      123
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.008374999999999994,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 22660.0
+  },
+  {
+    "id": 375,
+    "name": "R_backhand_plate__bevels",
+    "category": "armor",
+    "node": 11,
+    "outer_rect": [
+      1652,
+      912,
+      274,
+      222
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.012972264956024503,
+    "uv_coverage": 0.6480000000000001,
+    "uv_pixel_area": 35347.75200000001
+  },
+  {
+    "id": 376,
+    "name": "R_finger_0_knuckle__side",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1601,
+      1875,
+      59,
+      21
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0034019999999999988,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 368.0
+  },
+  {
+    "id": 377,
+    "name": "R_finger_0_proximal__-X",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1756,
+      2003,
+      29,
+      24
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.001679999999999997,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 176.0
+  },
+  {
+    "id": 378,
+    "name": "R_finger_0_proximal__+X",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1794,
+      1781,
+      29,
+      24
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.001679999999999997,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 176.0
+  },
+  {
+    "id": 379,
+    "name": "R_finger_0_proximal__-Y",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1965,
+      1834,
+      19,
+      24
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0007000000000000008,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 66.0
+  },
+  {
+    "id": 380,
+    "name": "R_finger_0_proximal__+Y",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1984,
+      1834,
+      19,
+      24
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0007000000000000008,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 66.0
+  },
+  {
+    "id": 381,
+    "name": "R_finger_0_proximal__-Z",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      2028,
+      87,
+      19,
+      29
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0009599999999999992,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 96.0
+  },
+  {
+    "id": 382,
+    "name": "R_finger_0_proximal__+Z",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1794,
+      1871,
+      19,
+      29
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.000959999999999999,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 96.0
+  },
+  {
+    "id": 383,
+    "name": "R_finger_0_proximal__bevels",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1711,
+      1860,
+      43,
+      36
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0037453512424762215,
+    "uv_coverage": 0.6480000000000001,
+    "uv_pixel_area": 447.1200000000001
+  },
+  {
+    "id": 384,
+    "name": "R_finger_0_distal__-X",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1870,
+      1969,
+      22,
+      22
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0008119999999999985,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 81.0
+  },
+  {
+    "id": 385,
+    "name": "R_finger_0_distal__+X",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1870,
+      1991,
+      22,
+      22
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0008119999999999985,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 81.0
+  },
+  {
+    "id": 386,
+    "name": "R_finger_0_distal__-Y",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1964,
+      1903,
+      18,
+      22
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0005320000000000006,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 45.0
+  },
+  {
+    "id": 387,
+    "name": "R_finger_0_distal__+Y",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1982,
+      1903,
+      18,
+      22
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0005320000000000008,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 45.0
+  },
+  {
+    "id": 388,
+    "name": "R_finger_0_distal__-Z",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      2000,
+      1903,
+      18,
+      22
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0005510000000000005,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 45.0
+  },
+  {
+    "id": 389,
+    "name": "R_finger_0_distal__+Z",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      2018,
+      1903,
+      18,
+      22
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0005510000000000003,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 45.0
+  },
+  {
+    "id": 390,
+    "name": "R_finger_0_distal__bevels",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      402,
+      2003,
+      38,
+      33
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0028289408540584414,
+    "uv_coverage": 0.6480000000000001,
+    "uv_pixel_area": 324.00000000000006
+  },
+  {
+    "id": 391,
+    "name": "R_finger_1_knuckle__side",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1601,
+      1896,
+      59,
+      21
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.003402000000000001,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 368.0
+  },
+  {
+    "id": 392,
+    "name": "R_finger_1_proximal__-X",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1823,
+      1781,
+      29,
+      24
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.001679999999999997,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 176.0
+  },
+  {
+    "id": 393,
+    "name": "R_finger_1_proximal__+X",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1852,
+      1781,
+      29,
+      24
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.001679999999999997,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 176.0
+  },
+  {
+    "id": 394,
+    "name": "R_finger_1_proximal__-Y",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      2003,
+      1834,
+      19,
+      24
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0007000000000000008,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 66.0
+  },
+  {
+    "id": 395,
+    "name": "R_finger_1_proximal__+Y",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      2022,
+      1834,
+      19,
+      24
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0007000000000000008,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 66.0
+  },
+  {
+    "id": 396,
+    "name": "R_finger_1_proximal__-Z",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1794,
+      1900,
+      19,
+      29
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0009599999999999992,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 96.0
+  },
+  {
+    "id": 397,
+    "name": "R_finger_1_proximal__+Z",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1794,
+      1929,
+      19,
+      29
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0009599999999999992,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 96.0
+  },
+  {
+    "id": 398,
+    "name": "R_finger_1_proximal__bevels",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1711,
+      1896,
+      43,
+      36
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.003745351242476222,
+    "uv_coverage": 0.6480000000000001,
+    "uv_pixel_area": 447.1200000000001
+  },
+  {
+    "id": 399,
+    "name": "R_finger_1_distal__-X",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1870,
+      2013,
+      22,
+      22
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0008119999999999985,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 81.0
+  },
+  {
+    "id": 400,
+    "name": "R_finger_1_distal__+X",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1892,
+      1881,
+      22,
+      22
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0008119999999999985,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 81.0
+  },
+  {
+    "id": 401,
+    "name": "R_finger_1_distal__-Y",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1910,
+      1925,
+      18,
+      22
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0005320000000000006,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 45.0
+  },
+  {
+    "id": 402,
+    "name": "R_finger_1_distal__+Y",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1910,
+      1947,
+      18,
+      22
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0005320000000000007,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 45.0
+  },
+  {
+    "id": 403,
+    "name": "R_finger_1_distal__-Z",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1910,
+      1969,
+      18,
+      22
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0005510000000000003,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 45.0
+  },
+  {
+    "id": 404,
+    "name": "R_finger_1_distal__+Z",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1910,
+      1991,
+      18,
+      22
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0005510000000000003,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 45.0
+  },
+  {
+    "id": 405,
+    "name": "R_finger_1_distal__bevels",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1756,
+      1781,
+      38,
+      33
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.002828940854058441,
+    "uv_coverage": 0.6480000000000001,
+    "uv_pixel_area": 324.00000000000006
+  },
+  {
+    "id": 406,
+    "name": "R_finger_2_knuckle__side",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1601,
+      1917,
+      59,
+      21
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.003402000000000001,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 368.0
+  },
+  {
+    "id": 407,
+    "name": "R_finger_2_proximal__-X",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1881,
+      1781,
+      29,
+      24
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.001679999999999997,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 176.0
+  },
+  {
+    "id": 408,
+    "name": "R_finger_2_proximal__+X",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1910,
+      1781,
+      29,
+      24
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.001679999999999997,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 176.0
+  },
+  {
+    "id": 409,
+    "name": "R_finger_2_proximal__-Y",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1851,
+      1858,
+      19,
+      24
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0007000000000000008,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 66.0
+  },
+  {
+    "id": 410,
+    "name": "R_finger_2_proximal__+Y",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1851,
+      1882,
+      19,
+      24
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0007000000000000006,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 66.0
+  },
+  {
+    "id": 411,
+    "name": "R_finger_2_proximal__-Z",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1794,
+      1958,
+      19,
+      29
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0009599999999999993,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 96.0
+  },
+  {
+    "id": 412,
+    "name": "R_finger_2_proximal__+Z",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1794,
+      1987,
+      19,
+      29
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0009599999999999993,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 96.0
+  },
+  {
+    "id": 413,
+    "name": "R_finger_2_proximal__bevels",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1711,
+      1932,
+      43,
+      36
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0037453512424762215,
+    "uv_coverage": 0.6480000000000001,
+    "uv_pixel_area": 447.1200000000001
+  },
+  {
+    "id": 414,
+    "name": "R_finger_2_distal__-X",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1914,
+      1881,
+      22,
+      22
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0008119999999999985,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 81.0
+  },
+  {
+    "id": 415,
+    "name": "R_finger_2_distal__+X",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1936,
+      1881,
+      22,
+      22
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0008119999999999985,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 81.0
+  },
+  {
+    "id": 416,
+    "name": "R_finger_2_distal__-Y",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1910,
+      2013,
+      18,
+      22
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0005320000000000008,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 45.0
+  },
+  {
+    "id": 417,
+    "name": "R_finger_2_distal__+Y",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1928,
+      1925,
+      18,
+      22
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0005320000000000008,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 45.0
+  },
+  {
+    "id": 418,
+    "name": "R_finger_2_distal__-Z",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1928,
+      1947,
+      18,
+      22
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0005510000000000003,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 45.0
+  },
+  {
+    "id": 419,
+    "name": "R_finger_2_distal__+Z",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1928,
+      1969,
+      18,
+      22
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0005510000000000003,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 45.0
+  },
+  {
+    "id": 420,
+    "name": "R_finger_2_distal__bevels",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1756,
+      1814,
+      38,
+      33
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0028289408540584414,
+    "uv_coverage": 0.6480000000000001,
+    "uv_pixel_area": 324.00000000000006
+  },
+  {
+    "id": 421,
+    "name": "R_finger_3_knuckle__side",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1601,
+      1938,
+      59,
+      21
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.003402,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 368.0
+  },
+  {
+    "id": 422,
+    "name": "R_finger_3_proximal__-X",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1939,
+      1781,
+      29,
+      24
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0016799999999999973,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 176.0
+  },
+  {
+    "id": 423,
+    "name": "R_finger_3_proximal__+X",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1968,
+      1781,
+      29,
+      24
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0016799999999999973,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 176.0
+  },
+  {
+    "id": 424,
+    "name": "R_finger_3_proximal__-Y",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1851,
+      1906,
+      19,
+      24
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0007000000000000008,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 66.0
+  },
+  {
+    "id": 425,
+    "name": "R_finger_3_proximal__+Y",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1851,
+      1930,
+      19,
+      24
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0007000000000000009,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 66.0
+  },
+  {
+    "id": 426,
+    "name": "R_finger_3_proximal__-Z",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1794,
+      2016,
+      19,
+      29
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0009599999999999992,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 96.0
+  },
+  {
+    "id": 427,
+    "name": "R_finger_3_proximal__+Z",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1823,
+      1805,
+      19,
+      29
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0009599999999999993,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 96.0
+  },
+  {
+    "id": 428,
+    "name": "R_finger_3_proximal__bevels",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1711,
+      1968,
+      43,
+      36
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0037453512424762215,
+    "uv_coverage": 0.6480000000000001,
+    "uv_pixel_area": 447.1200000000001
+  },
+  {
+    "id": 429,
+    "name": "R_finger_3_distal__-X",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1958,
+      1881,
+      22,
+      22
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0008119999999999986,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 81.0
+  },
+  {
+    "id": 430,
+    "name": "R_finger_3_distal__+X",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1980,
+      1881,
+      22,
+      22
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0008119999999999986,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 81.0
+  },
+  {
+    "id": 431,
+    "name": "R_finger_3_distal__-Y",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1928,
+      1991,
+      18,
+      22
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0005320000000000008,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 45.0
+  },
+  {
+    "id": 432,
+    "name": "R_finger_3_distal__+Y",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1928,
+      2013,
+      18,
+      22
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0005320000000000008,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 45.0
+  },
+  {
+    "id": 433,
+    "name": "R_finger_3_distal__-Z",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1946,
+      1925,
+      18,
+      22
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0005510000000000002,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 45.0
+  },
+  {
+    "id": 434,
+    "name": "R_finger_3_distal__+Z",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1964,
+      1925,
+      18,
+      22
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0005510000000000003,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 45.0
+  },
+  {
+    "id": 435,
+    "name": "R_finger_3_distal__bevels",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1756,
+      1847,
+      38,
+      33
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0028289408540584414,
+    "uv_coverage": 0.6480000000000001,
+    "uv_pixel_area": 324.00000000000006
+  },
+  {
+    "id": 436,
+    "name": "R_thumb_proximal__-X",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1931,
+      1503,
+      33,
+      23
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0019199999999999998,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 200.0
+  },
+  {
+    "id": 437,
+    "name": "R_thumb_proximal__+X",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1964,
+      1503,
+      33,
+      23
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0019199999999999994,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 200.0
+  },
+  {
+    "id": 438,
+    "name": "R_thumb_proximal__-Y",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1914,
+      1858,
+      22,
+      23
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0009599999999999999,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 90.0
+  },
+  {
+    "id": 439,
+    "name": "R_thumb_proximal__+Y",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1936,
+      1858,
+      22,
+      23
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0009599999999999997,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 90.0
+  },
+  {
+    "id": 440,
+    "name": "R_thumb_proximal__-Z",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      2024,
+      1708,
+      22,
+      33
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0018,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 180.0
+  },
+  {
+    "id": 441,
+    "name": "R_thumb_proximal__+Z",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1681,
+      1944,
+      22,
+      33
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0018000000000000004,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 180.0
+  },
+  {
+    "id": 442,
+    "name": "R_thumb_proximal__bevels",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1971,
+      1633,
+      51,
+      43
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.00596449475424219,
+    "uv_coverage": 0.6480000000000001,
+    "uv_pixel_area": 738.7200000000001
+  },
+  {
+    "id": 443,
+    "name": "R_thumb_distal__-X",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1823,
+      1922,
+      25,
+      21
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0009719999999999996,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 96.0
+  },
+  {
+    "id": 444,
+    "name": "R_thumb_distal__+X",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1823,
+      1943,
+      25,
+      21
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0009719999999999993,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 96.0
+  },
+  {
+    "id": 445,
+    "name": "R_thumb_distal__-Y",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      2024,
+      1925,
+      21,
+      21
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0007019999999999995,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 64.0
+  },
+  {
+    "id": 446,
+    "name": "R_thumb_distal__+Y",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1946,
+      1947,
+      21,
+      21
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0007019999999999995,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 64.0
+  },
+  {
+    "id": 447,
+    "name": "R_thumb_distal__-Z",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1823,
+      1964,
+      21,
+      25
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0009360000000000017,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 96.0
+  },
+  {
+    "id": 448,
+    "name": "R_thumb_distal__+Z",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1823,
+      1989,
+      21,
+      25
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.0009360000000000017,
+    "uv_coverage": 1.0,
+    "uv_pixel_area": 96.0
+  },
+  {
+    "id": 449,
+    "name": "R_thumb_distal__bevels",
+    "category": "frame",
+    "node": 10,
+    "outer_rect": [
+      1711,
+      1785,
+      45,
+      39
+    ],
+    "padding": 6,
+    "surface_area_m2": 0.004471085232376212,
+    "uv_coverage": 0.6480000000000001,
+    "uv_pixel_area": 539.1360000000001
+  }
+]

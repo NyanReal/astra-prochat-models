@@ -1,0 +1,33 @@
+test_arms_clear_original_body (test_clearance.Clearance.test_arms_clear_original_body) ... ok
+test_dampers_do_not_pierce_shells (test_clearance.Clearance.test_dampers_do_not_pierce_shells) ... ok
+test_load_members_do_not_pierce_shells (test_clearance.Clearance.test_load_members_do_not_pierce_shells) ... ok
+test_original_cockpit_clears_modules (test_clearance.Clearance.test_original_cockpit_clears_modules) ... ok
+test_combined_budget (test_delivery.Delivery.test_combined_budget) ... ok
+test_manifest (test_delivery.Delivery.test_manifest) ... ok
+test_separate_modules (test_delivery.Delivery.test_separate_modules) ... ok
+test_accessor_ranges_and_finite_values (test_model.Model.test_accessor_ranges_and_finite_values) ... ok
+test_acyclic_hierarchy_all_nodes_reachable (test_model.Model.test_acyclic_hierarchy_all_nodes_reachable) ... ok
+test_all_file_headers_and_no_external_resources (test_model.Model.test_all_file_headers_and_no_external_resources) ... ok
+test_allocation_regions_disjoint_including_left_right (test_model.Model.test_allocation_regions_disjoint_including_left_right) ... ok
+test_armor_density_priority (test_model.Model.test_armor_density_priority) ... ok
+test_independent_identity_roots (test_model.Model.test_independent_identity_roots) ... ok
+test_indices_triangle_areas (test_model.Model.test_indices_triangle_areas) ... ok
+test_manifest_matches_fitcheck_root_transforms (test_model.Model.test_manifest_matches_fitcheck_root_transforms) ... ok
+test_measured_register_and_floor_clearance (test_model.Model.test_measured_register_and_floor_clearance) ... ok
+test_mirrored_world_geometry (test_model.Model.test_mirrored_world_geometry) ... ok
+test_model_manifest_sha_matches_final_bytes (test_model.Model.test_model_manifest_sha_matches_final_bytes) ... ok
+test_no_negative_scale (test_model.Model.test_no_negative_scale) ... ok
+test_normal_and_tangent_frames (test_model.Model.test_normal_and_tangent_frames) ... ok
+test_original_base_hash_and_binary_prefix_preserved (test_model.Model.test_original_base_hash_and_binary_prefix_preserved) ... ok
+test_original_cockpit_clips_unchanged (test_model.Model.test_original_cockpit_clips_unchanged) ... ok
+test_original_nodes_meshes_materials_accessors_unchanged (test_model.Model.test_original_nodes_meshes_materials_accessors_unchanged) ... ok
+test_rigid_parts_and_tool_attachment (test_model.Model.test_rigid_parts_and_tool_attachment) ... ok
+test_shared_atlas_embedded_identically (test_model.Model.test_shared_atlas_embedded_identically) ... ok
+test_source_socket_parent_scale_compensation (test_model.Model.test_source_socket_parent_scale_compensation) ... ok
+test_triangle_budget_from_indices (test_model.Model.test_triangle_budget_from_indices) ... ok
+test_uv_bounds (test_model.Model.test_uv_bounds) ... ok
+
+----------------------------------------------------------------------
+Ran 28 tests in 0.084s
+
+OK

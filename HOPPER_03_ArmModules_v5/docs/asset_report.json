@@ -1,0 +1,149 @@
+{
+  "asset": "HOPPER 03 detachable arm modules v5",
+  "interface": "H03-M1",
+  "base_triangles": 25058,
+  "module_triangles": {
+    "L": 2406,
+    "R": 2406
+  },
+  "pair_triangles": 4812,
+  "assembled_triangles": 29870,
+  "triangles": 4812,
+  "remaining_below_30000": 129,
+  "assembly_parts": {
+    "L": {
+      "side": "L",
+      "triangles": 2406,
+      "by_assembly": {
+        "Arm_L_01_Interface_Cup": 552,
+        "Arm_L_03_Upper_Frame": 172,
+        "Arm_L_04_Shoulder_Armor": 372,
+        "Arm_L_05_Elbow_Pivot": 170,
+        "Arm_L_06_Forearm_Frame": 220,
+        "Arm_L_07_Forearm_Armor": 280,
+        "Arm_L_08_Wrist_Pivot": 64,
+        "Arm_L_10_Hand_Frame": 532,
+        "Arm_L_11_Hand_Armor": 44
+      },
+      "damper_reference_length_m": 0.21402336321065513,
+      "joint_motion": "Reference pose only; no arm animation or mechanism solver."
+    },
+    "R": {
+      "side": "R",
+      "triangles": 2406,
+      "by_assembly": {
+        "Arm_R_01_Interface_Cup": 552,
+        "Arm_R_03_Upper_Frame": 172,
+        "Arm_R_04_Shoulder_Armor": 372,
+        "Arm_R_05_Elbow_Pivot": 170,
+        "Arm_R_06_Forearm_Frame": 220,
+        "Arm_R_07_Forearm_Armor": 280,
+        "Arm_R_08_Wrist_Pivot": 64,
+        "Arm_R_10_Hand_Frame": 532,
+        "Arm_R_11_Hand_Armor": 44
+      },
+      "damper_reference_length_m": 0.21402336321065513,
+      "joint_motion": "Reference pose only; no arm animation or mechanism solver."
+    }
+  },
+  "units": "meters",
+  "uv": {
+    "resolution": 2048,
+    "padding_px": 6,
+    "non_overlapping": true,
+    "unique_islands": 450,
+    "target_armor_px_per_m": 1661.171875,
+    "armor_to_frame_linear_density_ratio": 4.706323276129933,
+    "groups": {
+      "frame": {
+        "surface_area_m2": 3.4392358039486113,
+        "uv_pixel_area": 423580.90762477915,
+        "islands": 372,
+        "linear_px_per_m": 350.94350694847185,
+        "used_uv_share": 0.1299001181064532
+      },
+      "accent": {
+        "surface_area_m2": 0.04705628028078283,
+        "uv_pixel_area": 35967.44,
+        "islands": 26,
+        "linear_px_per_m": 874.2707867273942,
+        "used_uv_share": 0.011030182474904
+      },
+      "armor": {
+        "surface_area_m2": 1.0268743305397579,
+        "uv_pixel_area": 2801271.6870241077,
+        "islands": 52,
+        "linear_px_per_m": 1651.6535953582602,
+        "used_uv_share": 0.8590696994186428
+      }
+    },
+    "used_uv_coverage": 0.7774400793668954,
+    "scope": "Independent arm modules only; shared atlas, separate non-overlapping L/R allocations."
+  },
+  "integrity": {
+    "base_nodes": 49,
+    "base_meshes": 45,
+    "base_accessors": 490,
+    "base_binary_prefix_bytes": 9912532,
+    "arm_scene_roots": [
+      49,
+      61
+    ]
+  },
+  "fitcheck_bounds_m": [
+    [
+      -0.9997868351100248,
+      0.0,
+      -0.6445209517093528
+    ],
+    [
+      0.9997868351100248,
+      2.1,
+      0.515797411787944
+    ]
+  ],
+  "module_bounds_m": {
+    "L": [
+      [
+        -0.18799999356269836,
+        -0.8826730268001557,
+        -0.04600000008940697
+      ],
+      [
+        0.24700000357627863,
+        0.19499999284744263,
+        0.4324999980926514
+      ]
+    ],
+    "R": [
+      [
+        -0.24700000357627863,
+        -0.8826730268001557,
+        -0.04600000008940697
+      ],
+      [
+        0.18799999356269836,
+        0.19499999284744263,
+        0.4324999980926514
+      ]
+    ]
+  },
+  "glb_bytes": 11591020,
+  "module_files": {
+    "L": {
+      "bytes": 1282536,
+      "sha256": "6c6c0461772257b00a398257f4c5c4d746fa1c3feb8fe15729e525f537ae9d68"
+    },
+    "R": {
+      "bytes": 1282540,
+      "sha256": "570c260bf04bc49d5df29d1c09dc0d644f950be9c74665cae9b49de4243299dd"
+    }
+  },
+  "animations": "None in separate arm modules. Original 3 cockpit clips remain in fit-check scene.",
+  "limitations": [
+    "Rigid reference-pose arms, not an actuated arm rig or range-of-motion solver.",
+    "New project connector convention, not a manufacturing standard.",
+    "Painted procedural PBR atlas; not a newly image-generated texture.",
+    "iPad/Safari and Blender/Unreal native application tests not performed."
+  ]
+}

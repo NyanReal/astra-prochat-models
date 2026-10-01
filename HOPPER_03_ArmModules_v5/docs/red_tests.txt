@@ -1,0 +1,35 @@
+test_combined_budget (test_delivery.Delivery.test_combined_budget) ... FAIL
+test_manifest (test_delivery.Delivery.test_manifest) ... FAIL
+test_separate_modules (test_delivery.Delivery.test_separate_modules) ... FAIL
+
+======================================================================
+FAIL: test_combined_budget (test_delivery.Delivery.test_combined_budget)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/mnt/data/HOPPER_03_ArmModules_v5/tests/test_delivery.py", line 9, in test_combined_budget
+    f=R/'preview/FitCheck.glb';self.assertTrue(f.exists(),'Fit check GLB missing');self.assertLess(triangles(read_glb(f)[0]),30000)
+                               ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: False is not true : Fit check GLB missing
+
+======================================================================
+FAIL: test_manifest (test_delivery.Delivery.test_manifest)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/mnt/data/HOPPER_03_ArmModules_v5/tests/test_delivery.py", line 10, in test_manifest
+    def test_manifest(self):self.assertTrue((R/'docs/socket_spec.json').exists(),'Socket manifest missing')
+                            ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: False is not true : Socket manifest missing
+
+======================================================================
+FAIL: test_separate_modules (test_delivery.Delivery.test_separate_modules)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/mnt/data/HOPPER_03_ArmModules_v5/tests/test_delivery.py", line 7, in test_separate_modules
+    for s in 'LR':self.assertTrue((R/f'models/HOPPER_03_Arm_{s}_M1.glb').exists(),f'Arm {s} GLB missing')
+                  ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: False is not true : Arm L GLB missing
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.001s
+
+FAILED (failures=3)

@@ -1,0 +1,171 @@
+{
+  "standard": "H03-M1",
+  "revision": 1,
+  "scope": "Project-specific virtual arm connector; not an industrial standard.",
+  "source_file": "HOPPER_03_Legs_v4.glb",
+  "source_sha256": "41b73050655b0c0764e33edb4816cf079ff7dca6c15f6f34e3e617e02fddc5e5",
+  "base_triangles": 25058,
+  "units": "meters",
+  "base_axes": {
+    "up": "+Y",
+    "forward": "+Z",
+    "positive_side": "Socket_R"
+  },
+  "module_axes": {
+    "outward": "+Z",
+    "index_up": "+Y",
+    "tangent": "+X"
+  },
+  "source_authoring_scale": 0.4516614793510379,
+  "origin": "Center of foremost existing shoulder drive-cap plane; female sleeve extends inward.",
+  "existing_interface_m": {
+    "lip_max_outer_diameter": 0.3161630355457265,
+    "housing_max_diameter": 0.3477793391002992,
+    "front_cap_diameter": 0.07949242036578266,
+    "bolt_circle_diameter": 0.28183676311504763,
+    "bolt_count": 6,
+    "bolt_angle_step_degrees": 60
+  },
+  "module_interface_m": {
+    "register_inner_diameter": 0.322,
+    "register_mouth_outer_diameter": 0.356,
+    "maximum_coupler_diameter": 0.376,
+    "inboard_sleeve_depth": 0.046,
+    "minimum_cup_floor_clearance_to_existing_cap": 0.014,
+    "radial_register_clearance": 0.002918482227136754
+  },
+  "sockets": {
+    "L": {
+      "source_node": "Socket_L",
+      "source_node_index": 9,
+      "module_file": "HOPPER_03_Arm_L_M1.glb",
+      "root_node": "Arm_L_M1_Root",
+      "scene_mount": {
+        "translation": [
+          -0.5672868370173735,
+          1.5717819567563711,
+          -0.058715991003230224
+        ],
+        "rotation_xyzw": [
+          0.0,
+          -0.7071067811865475,
+          0.0,
+          0.7071067811865476
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      },
+      "under_source_socket_node": {
+        "translation": [
+          -1.2560000419616697,
+          3.4800000190734868,
+          -0.12999999709427354
+        ],
+        "rotation_xyzw": [
+          0.0,
+          -0.7071067811865475,
+          0.0,
+          0.7071067811865477
+        ],
+        "scale": [
+          2.2140475681849887,
+          2.2140475681849887,
+          2.2140475681849887
+        ]
+      },
+      "existing_socket_world_matrix_column_major": [
+        0.4516614793510379,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.4516614793510379,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.4516614793510379,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "tip_plane_vertex_count": 26,
+      "cap_diameter_measured_m": [
+        0.07949247377728885,
+        0.07949241825247459
+      ],
+      "label_convention": "Preserves source Socket_R=+X / Socket_L=-X, not screen left/right."
+    },
+    "R": {
+      "source_node": "Socket_R",
+      "source_node_index": 10,
+      "module_file": "HOPPER_03_Arm_R_M1.glb",
+      "root_node": "Arm_R_M1_Root",
+      "scene_mount": {
+        "translation": [
+          0.5672868370173735,
+          1.5717819567563711,
+          -0.058715991003230224
+        ],
+        "rotation_xyzw": [
+          0.0,
+          0.7071067811865475,
+          0.0,
+          0.7071067811865476
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      },
+      "under_source_socket_node": {
+        "translation": [
+          1.2560000419616697,
+          3.4800000190734868,
+          -0.12999999709427354
+        ],
+        "rotation_xyzw": [
+          0.0,
+          0.7071067811865475,
+          0.0,
+          0.7071067811865477
+        ],
+        "scale": [
+          2.2140475681849887,
+          2.2140475681849887,
+          2.2140475681849887
+        ]
+      },
+      "existing_socket_world_matrix_column_major": [
+        0.4516614793510379,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.4516614793510379,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.4516614793510379,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "tip_plane_vertex_count": 26,
+      "cap_diameter_measured_m": [
+        0.07949247377728885,
+        0.07949241825247459
+      ],
+      "label_convention": "Preserves source Socket_R=+X / Socket_L=-X, not screen left/right."
+    }
+  }
+}

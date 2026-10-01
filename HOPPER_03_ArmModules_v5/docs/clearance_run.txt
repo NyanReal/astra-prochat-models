@@ -1,0 +1,18 @@
+Cockpit sample 0 /180
+Cockpit sample 60 /180
+Cockpit sample 120 /180
+Cockpit sample 180 /180
+{
+  "method": "VTK triangle surface intersection on exported GLB, no convex proxies",
+  "scope": "Fixed arm pose; sampled original cockpit motion.",
+  "arms_to_base_rest_contacts": [],
+  "arm_damper_to_armor_contacts": [],
+  "arm_frames_to_shell_contacts": [],
+  "cockpit_samples": 181,
+  "arms_to_moving_cockpit_contacts": [],
+  "notes": [
+    "No arm range-of-motion, containment or continuous swept-volume proof.",
+    "No manufacturing/load certification.",
+    "Internal intentionally joined fasteners, braces, pins and bearings are not blanket-tested as disjoint parts."
+  ]
+}

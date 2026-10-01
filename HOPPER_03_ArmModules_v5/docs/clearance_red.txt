@@ -1,0 +1,20 @@
+..F.
+======================================================================
+FAIL: test_load_members_do_not_pierce_shells (test_clearance.Clearance.test_load_members_do_not_pierce_shells)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/mnt/data/HOPPER_03_ArmModules_v5/tests/test_clearance.py", line 7, in test_load_members_do_not_pierce_shells
+    self.assertEqual(report['arm_frames_to_shell_contacts'],[])
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Lists differ: [['L_elbow_fork_0.074__+Z', 'L_shoulder_co[3327 chars]_0']] != []
+
+First list contains 54 additional elements.
+First extra element 0:
+['L_elbow_fork_0.074__+Z', 'L_shoulder_cowling__surface']
+
+Diff is 3541 characters long. Set self.maxDiff to None to see it.
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.001s
+
+FAILED (failures=1)

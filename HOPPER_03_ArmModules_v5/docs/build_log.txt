@@ -1,0 +1,11 @@
+Geometry: 4812 pair triangles / 450 atlas regions
+{
+  "module_triangles": {
+    "L": 2406,
+    "R": 2406
+  },
+  "pair_triangles": 4812,
+  "assembled_triangles": 29870,
+  "remaining_below_30000": 129
+}
+UV armor/frame density 4.706323276129933

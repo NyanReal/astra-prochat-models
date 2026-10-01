@@ -1,0 +1,118 @@
+127.0.0.1 - - [27/Sep/2026 06:40:57] "GET /preview/index.html HTTP/1.1" 200 -
+127.0.0.1 - - [27/Sep/2026 06:40:57] "GET /preview/engine.js HTTP/1.1" 200 -
+127.0.0.1 - - [27/Sep/2026 06:40:57] "GET /preview/arm-engine.js HTTP/1.1" 200 -
+127.0.0.1 - - [27/Sep/2026 06:40:57] "GET /preview/FitCheck.glb HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 48428)
+127.0.0.1 - - [27/Sep/2026 06:40:57] "GET /models/HOPPER_03_Arm_L_M1.glb HTTP/1.1" 200 -
+Traceback (most recent call last):
+  File "/usr/lib/python3.13/socketserver.py", line 697, in process_request_thread
+    self.finish_request(request, client_address)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/socketserver.py", line 362, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/http/server.py", line 672, in __init__
+    super().__init__(*args, **kwargs)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/socketserver.py", line 766, in __init__
+    self.handle()
+    ~~~~~~~~~~~^^
+  File "/usr/lib/python3.13/http/server.py", line 436, in handle
+    self.handle_one_request()
+    ~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/usr/lib/python3.13/http/server.py", line 424, in handle_one_request
+    method()
+    ~~~~~~^^
+  File "/usr/lib/python3.13/http/server.py", line 679, in do_GET
+    self.copyfile(f, self.wfile)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/http/server.py", line 881, in copyfile
+    shutil.copyfileobj(source, outputfile)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/shutil.py", line 204, in copyfileobj
+    fdst_write(buf)
+    ~~~~~~~~~~^^^^^
+  File "/usr/lib/python3.13/socketserver.py", line 845, in write
+    self._sock.sendall(b)
+    ~~~~~~~~~~~~~~~~~~^^^
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 48436)
+Traceback (most recent call last):
+  File "/usr/lib/python3.13/socketserver.py", line 697, in process_request_thread
+    self.finish_request(request, client_address)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/socketserver.py", line 362, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/http/server.py", line 672, in __init__
+    super().__init__(*args, **kwargs)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/socketserver.py", line 766, in __init__
+    self.handle()
+    ~~~~~~~~~~~^^
+  File "/usr/lib/python3.13/http/server.py", line 436, in handle
+    self.handle_one_request()
+    ~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/usr/lib/python3.13/http/server.py", line 424, in handle_one_request
+    method()
+    ~~~~~~^^
+  File "/usr/lib/python3.13/http/server.py", line 679, in do_GET
+    self.copyfile(f, self.wfile)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/http/server.py", line 881, in copyfile
+    shutil.copyfileobj(source, outputfile)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/shutil.py", line 204, in copyfileobj
+    fdst_write(buf)
+    ~~~~~~~~~~^^^^^
+  File "/usr/lib/python3.13/socketserver.py", line 845, in write
+    self._sock.sendall(b)
+    ~~~~~~~~~~~~~~~~~~^^^
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+{
+  "browser": "Chromium / WebGL2 / SwiftShader",
+  "checks": [
+    "Static HTTP server returned all sampled assets with HTTP 200",
+    "Default view is modules only",
+    "Counts in UI reflect exported data",
+    "Cockpit disabled when standalone",
+    "L isolation",
+    "R isolation",
+    "Hide armor preserves mechanical parts",
+    "Connector interior isolation",
+    "Mounted mode restores base and cockpit controls",
+    "Separation follows outward world socket axes",
+    "Zero separation recovers exact mount transforms",
+    "Cockpit_Open clip endpoint",
+    "Cockpit_Close clip endpoint",
+    "Cockpit_Cycle clip endpoint",
+    "Mid-open timeline is scrubbed from GLB",
+    "Wireframe draws without GL error",
+    "Solid restored after wireframe",
+    "UV dialog loaded atlas",
+    "Dialog closes",
+    "Camera socket valid",
+    "Camera elbow valid",
+    "Camera hand valid",
+    "Camera fit valid",
+    "Camera back valid",
+    "Camera default valid",
+    "Detail camera clears preview separation",
+    "Narrow viewport does not overflow horizontally",
+    "Mobile-sized viewport cockpit control works",
+    "Download links address separate arm files",
+    "No JavaScript page errors"
+  ],
+  "physical_iPad_tested": false,
+  "Safari_tested": false,
+  "Blender_Unreal_tested": false,
+  "browser_load_route": "In-memory HTML and bundled JS; GLB parsed from package base64",
+  "navigation_limitation": "Page.goto: net::ERR_BLOCKED_BY_ADMINISTRATOR at http://127.0.0.1:40817/preview/index.html",
+  "page_errors": [],
+  "passed": true,
+  "check_count": 30
+}
