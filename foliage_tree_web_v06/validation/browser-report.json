@@ -1,0 +1,44 @@
+{
+  "version": "06",
+  "trunkIsReal3D": true,
+  "wholeTreeGradient": false,
+  "removedBunchIds": [
+    909,
+    1001
+  ],
+  "groundOffset": 2,
+  "cardLinearScaleVersusV03": 0.7,
+  "cardsPerBunch": 288,
+  "cards": 2880,
+  "lightDirection": [
+    -0.5393531640720883,
+    0.7790656814374609,
+    0.3196166898204968
+  ],
+  "barkSource": "image-generated texture supplied in conversation",
+  "normalSource": "derived from bark luminance; not a scanned geometric normal",
+  "trunkTriangles": 39876,
+  "leafTriangles": 5760,
+  "uvCharts": 693,
+  "uvTexelsPerMetre": 290,
+  "uvCoverage": 0.20066547393798828,
+  "trunkWatertight": true,
+  "units": "metres",
+  "axes": "right handed Y up",
+  "meshAssetVersion": "05",
+  "cameraMode": "orbit",
+  "billboardMode": "screen-aligned",
+  "shadingSpace": "tree-rest",
+  "shadowCasterMode": "camera-independent-rest-cards",
+  "context": "WebGL 2.0 (OpenGL ES 3.0 Chromium)",
+  "glError": 0,
+  "frames": 9,
+  "browser": "144.0.7559.96",
+  "errors": [],
+  "consoleWarnings": [],
+  "previewSource": "shipped index.html executed in Chromium WebGL2 / SwiftShader; no separate image renderer",
+  "viewport": [
+    1440,
+    1080
+  ]
+}

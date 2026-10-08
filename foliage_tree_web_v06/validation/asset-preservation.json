@@ -1,0 +1,50 @@
+{
+  "assets/bark_source.png": {
+    "sha256": "5cf3b38bea43d7ec3e40e1120c7c6d3b7ffc47b52b4aa50deb09f4637b79783e",
+    "identicalToV05": true
+  },
+  "assets/branch_skeleton.json": {
+    "sha256": "c269f6f66bd1c6935c356382941ec9dbaf4963694ef09ad77b69277787238137",
+    "identicalToV05": true
+  },
+  "assets/cards.json": {
+    "sha256": "2e18e3e2ba936e4806e58a7a00ed556e7eabb6fa7fbd2fc618ce5dcca37a0304",
+    "identicalToV05": true
+  },
+  "assets/leaves_rgba.png": {
+    "sha256": "90c1f0006800562f6438a9811bcce9080c04b2d04c63c80056654245dd1e4fb9",
+    "identicalToV05": true
+  },
+  "assets/meta.json": {
+    "sha256": "e86aa8435af92f1b8519672fae99f9bfabe00f2c97fcd6f5c2f8f5f9b1aaecd7",
+    "identicalToV05": true
+  },
+  "assets/scene.json": {
+    "sha256": "0991efaf8436a4d12239e010a0ce951945919b891f80e89ef2bd338bc721ea26",
+    "identicalToV05": true
+  },
+  "assets/trunk_basecolor.png": {
+    "sha256": "f0ec4b906dffa70021d7c3aa190678e37a865c95f7c0cbb24ff59eb6c6932fa8",
+    "identicalToV05": true
+  },
+  "assets/trunk_normal_dx.png": {
+    "sha256": "03645c27e3b86ac25225d03136cbc66e844fa54410f918e496f6269c57853a21",
+    "identicalToV05": true
+  },
+  "assets/trunk_normal_gl.png": {
+    "sha256": "45e2109e76f628632889ca8112adfaccdf0ff93ebd2b3d6cb45d728b8154e553",
+    "identicalToV05": true
+  },
+  "assets/trunk_roughness.png": {
+    "sha256": "a0e2867327d25c915bf4fe59cc28a3c96beb7a085532b22f392dce3d2d08d8ee",
+    "identicalToV05": true
+  },
+  "assets/trunk_uv_layout.png": {
+    "sha256": "5a81485c6c57ae8354297021966f803fdc601b0cbea016169285a7199326e58e",
+    "identicalToV05": true
+  },
+  "models/tree_v05.glb": {
+    "sha256": "8ad6d42d9482b900082f6e60774cee3985a139971be64878dd86f66e2c97e7a3",
+    "identicalToV05": true
+  }
+}

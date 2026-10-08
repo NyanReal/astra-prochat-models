@@ -1,0 +1,40 @@
+TAP version 13
+# Subtest: production free-camera controller exists
+ok 1 - production free-camera controller exists
+  ---
+  duration_ms: 0.678923
+  type: 'test'
+  ...
+# Subtest: front camera preserves the v05 composition
+ok 2 - front camera preserves the v05 composition
+  ---
+  duration_ms: 0.265911
+  type: 'test'
+  ...
+# Subtest: camera basis remains orthonormal at all azimuths and near both poles
+ok 3 - camera basis remains orthonormal at all azimuths and near both poles
+  ---
+  duration_ms: 1.177203
+  type: 'test'
+  ...
+# Subtest: zoom changes screen scale, and pan follows the current camera plane
+ok 4 - zoom changes screen scale, and pan follows the current camera plane
+  ---
+  duration_ms: 0.220392
+  type: 'test'
+  ...
+# Subtest: invalid values cannot produce a singular camera
+ok 5 - invalid values cannot produce a singular camera
+  ---
+  duration_ms: 0.159089
+  type: 'test'
+  ...
+1..5
+# tests 5
+# suites 0
+# pass 5
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 48.379483

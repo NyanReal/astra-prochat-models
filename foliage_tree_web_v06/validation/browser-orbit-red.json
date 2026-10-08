@@ -1,0 +1,23 @@
+{
+  "before": {
+    "time": 0.06669799999999987,
+    "wind": 0,
+    "leafScale": 1,
+    "density": 1,
+    "mode": "tree",
+    "angle": 0,
+    "paused": true,
+    "hideUI": false
+  },
+  "after": {
+    "time": 0.06669799999999987,
+    "wind": 0,
+    "leafScale": 1,
+    "density": 1,
+    "mode": "tree",
+    "angle": 0,
+    "paused": true,
+    "hideUI": false
+  },
+  "mouseDragChangedYaw": false
+}

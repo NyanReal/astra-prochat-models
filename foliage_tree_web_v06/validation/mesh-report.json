@@ -1,0 +1,34 @@
+{
+  "nodes": 2,
+  "meshes": [
+    {
+      "name": "Trunk",
+      "vertices": 26100,
+      "triangles": 39876,
+      "has_uv": true,
+      "finite_positions": true
+    },
+    {
+      "name": "Foliage",
+      "vertices": 11520,
+      "triangles": 5760,
+      "has_uv": true,
+      "finite_positions": true
+    }
+  ],
+  "bounds_metres": [
+    [
+      -2.298583984375,
+      -0.368708997964859,
+      -0.9201750159263611
+    ],
+    [
+      2.240391969680786,
+      4.593316078186035,
+      0.9081079959869385
+    ]
+  ],
+  "web_html_sha256": "1763f57467e930ec0f6ed9755865bdf6942b0e595768bd4c3f3d195f028e8040",
+  "gltf_reopen_success": true,
+  "unreal_editor_tested": false
+}

@@ -1,0 +1,89 @@
+{
+  "passed": true,
+  "gpu": {
+    "cards": 2880,
+    "views": [
+      {
+        "angle": 0,
+        "elevation": 5,
+        "wind": 0,
+        "proxyDelta": 0,
+        "colorDelta": 0,
+        "minFacing": 0.9999999999999685,
+        "maxPlaneError": 6.997470782671433e-08
+      },
+      {
+        "angle": 90,
+        "elevation": 5,
+        "wind": 0,
+        "proxyDelta": 0,
+        "colorDelta": 0,
+        "minFacing": 0.9999999999997413,
+        "maxPlaneError": 2.1273303099174647e-07
+      },
+      {
+        "angle": 180,
+        "elevation": 40,
+        "wind": 0,
+        "proxyDelta": 0,
+        "colorDelta": 0,
+        "minFacing": 0.999999999999634,
+        "maxPlaneError": 3.1075430167656903e-07
+      },
+      {
+        "angle": -130,
+        "elevation": 89,
+        "wind": 0.7,
+        "proxyDelta": 0,
+        "colorDelta": 0,
+        "minFacing": 0.9999999999993292,
+        "maxPlaneError": 4.1735559132803635e-07
+      },
+      {
+        "angle": 50,
+        "elevation": -80,
+        "wind": 0.7,
+        "proxyDelta": 0,
+        "colorDelta": 0,
+        "minFacing": 0.9999999999986028,
+        "maxPlaneError": 4.961537682021677e-07
+      }
+    ],
+    "glError": 0
+  },
+  "glError": 0,
+  "errors": [],
+  "warnings": [
+    "performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.",
+    "performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.",
+    "performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.",
+    "performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.",
+    "performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall."
+  ],
+  "views": {
+    "front": {
+      "foliagePixels": 385168,
+      "sha256": "5bbb0cd1c23aaa2e49505712de01258d5cc71f82e312fbd446bddfc4e4323ea9"
+    },
+    "right": {
+      "foliagePixels": 185581,
+      "sha256": "8b7f99f8875e1e55ec22ae4629b7e6617f810a155fc2e75ad5adcba6a353e952"
+    },
+    "back": {
+      "foliagePixels": 378972,
+      "sha256": "8dfcf8d12c516d1f7bf747d59dbc08d2e4fcab2cb5d8f500f4e0d937cc7651ee"
+    },
+    "above": {
+      "foliagePixels": 324274,
+      "sha256": "53d6a8328f7b5fe98d66e97ac74ec1f641046cf216c50638d6ac9a67978d76a8"
+    },
+    "top": {
+      "foliagePixels": 291865,
+      "sha256": "fd2b3cad791ea3e3a045f8a93a765deba5db47ba9956329d40f18f507e44926f"
+    },
+    "below": {
+      "foliagePixels": 306756,
+      "sha256": "a696883b78052f9b2c05dd8baec196a70851f3cc6bb15403586a0d7c940dc815"
+    }
+  }
+}

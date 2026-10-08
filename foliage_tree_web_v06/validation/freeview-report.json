@@ -1,0 +1,421 @@
+{
+  "browser": "144.0.7559.96",
+  "tests": "mouse orbit / wheel / pan / camera reset / presets / all modes / actual PNG download / touch orbit / touch pinch+pan / 6 real rendered views / production GPU transform feedback / fixed light+shadow uniforms",
+  "mouse": {
+    "drag": {
+      "time": 0,
+      "wind": 0,
+      "leafScale": 1,
+      "density": 1,
+      "mode": "tree",
+      "angle": -64.39999999999992,
+      "elevation": 21.56364169072618,
+      "zoom": 1,
+      "pan": [
+        0,
+        0,
+        0
+      ],
+      "paused": true,
+      "hideUI": false
+    },
+    "zoom": {
+      "time": 0,
+      "wind": 0,
+      "leafScale": 1,
+      "density": 1,
+      "mode": "tree",
+      "angle": -64.39999999999992,
+      "elevation": 21.56364169072618,
+      "zoom": 1.655329363157055,
+      "pan": [
+        0,
+        0,
+        0
+      ],
+      "paused": true,
+      "hideUI": false
+    },
+    "pan": {
+      "time": 0,
+      "wind": 0,
+      "leafScale": 1,
+      "density": 1,
+      "mode": "tree",
+      "angle": -64.39999999999992,
+      "elevation": 21.56364169072618,
+      "zoom": 1.655329363157055,
+      "pan": [
+        -0.058253957767776886,
+        0.06840772542447944,
+        -0.18415244370958084
+      ],
+      "paused": true,
+      "hideUI": false
+    }
+  },
+  "touch": {
+    "oneFinger": {
+      "time": 0,
+      "wind": 0,
+      "leafScale": 1,
+      "density": 1,
+      "mode": "tree",
+      "angle": -22.40000000000009,
+      "elevation": 10.763641690726178,
+      "zoom": 1,
+      "pan": [
+        0,
+        0,
+        0
+      ],
+      "paused": true,
+      "hideUI": false
+    },
+    "twoFinger": {
+      "time": 0,
+      "wind": 0,
+      "leafScale": 1,
+      "density": 1,
+      "mode": "tree",
+      "angle": -22.40000000000009,
+      "elevation": 10.763641690726178,
+      "zoom": 1.4,
+      "pan": [
+        -0.02144461887835871,
+        0.11786086632413886,
+        -0.033073061911414035
+      ],
+      "paused": true,
+      "hideUI": false
+    }
+  },
+  "gpu": {
+    "cards": 2880,
+    "views": [
+      {
+        "angle": 0,
+        "elevation": 5,
+        "wind": 0,
+        "proxyDelta": 0,
+        "colorDelta": 0,
+        "minFacing": 0.9999999999999685,
+        "maxPlaneError": 6.997470782671433e-08
+      },
+      {
+        "angle": 90,
+        "elevation": 5,
+        "wind": 0,
+        "proxyDelta": 0,
+        "colorDelta": 0,
+        "minFacing": 0.9999999999997413,
+        "maxPlaneError": 2.1273303099174647e-07
+      },
+      {
+        "angle": 180,
+        "elevation": 40,
+        "wind": 0,
+        "proxyDelta": 0,
+        "colorDelta": 0,
+        "minFacing": 0.999999999999634,
+        "maxPlaneError": 3.1075430167656903e-07
+      },
+      {
+        "angle": -130,
+        "elevation": 89,
+        "wind": 0.7,
+        "proxyDelta": 0,
+        "colorDelta": 0,
+        "minFacing": 0.9999999999993292,
+        "maxPlaneError": 4.1735559132803635e-07
+      },
+      {
+        "angle": 50,
+        "elevation": -80,
+        "wind": 0.7,
+        "proxyDelta": 0,
+        "colorDelta": 0,
+        "minFacing": 0.9999999999986028,
+        "maxPlaneError": 4.961537682021677e-07
+      }
+    ],
+    "glError": 0
+  },
+  "uniforms": [
+    [
+      {
+        "right": [
+          1,
+          0,
+          -0.0
+        ],
+        "up": [
+          -0.0,
+          0.9961947202682495,
+          -0.08715574443340302
+        ],
+        "light": [
+          -0.5393531918525696,
+          0.7790656685829163,
+          0.3196166753768921
+        ],
+        "lightVP": [
+          0.10620883107185364,
+          0.13962991535663605,
+          0.04332153871655464,
+          0,
+          0,
+          0.13061298429965973,
+          -0.0625755563378334,
+          0,
+          0.17922739684581757,
+          -0.08274365961551666,
+          -0.02567202039062977,
+          0,
+          0,
+          -0.26122596859931946,
+          -0.07966816425323486,
+          1
+        ]
+      },
+      {
+        "right": [
+          1,
+          0,
+          0
+        ],
+        "up": [
+          0,
+          1,
+          0
+        ],
+        "light": null,
+        "lightVP": [
+          0.10620883107185364,
+          0.13962991535663605,
+          0.04332153871655464,
+          0,
+          0,
+          0.13061298429965973,
+          -0.0625755563378334,
+          0,
+          0.17922739684581757,
+          -0.08274365961551666,
+          -0.02567202039062977,
+          0,
+          0,
+          -0.26122596859931946,
+          -0.07966816425323486,
+          1
+        ]
+      }
+    ],
+    [
+      {
+        "right": [
+          6.123234262925839e-17,
+          0,
+          -1
+        ],
+        "up": [
+          -0.4226182699203491,
+          0.9063078165054321,
+          -2.5877905403635593e-17
+        ],
+        "light": [
+          -0.5393531918525696,
+          0.7790656685829163,
+          0.3196166753768921
+        ],
+        "lightVP": [
+          0.10620883107185364,
+          0.13962991535663605,
+          0.04332153871655464,
+          0,
+          0,
+          0.13061298429965973,
+          -0.0625755563378334,
+          0,
+          0.17922739684581757,
+          -0.08274365961551666,
+          -0.02567202039062977,
+          0,
+          0,
+          -0.26122596859931946,
+          -0.07966816425323486,
+          1
+        ]
+      },
+      {
+        "right": [
+          1,
+          0,
+          0
+        ],
+        "up": [
+          0,
+          1,
+          0
+        ],
+        "light": null,
+        "lightVP": [
+          0.10620883107185364,
+          0.13962991535663605,
+          0.04332153871655464,
+          0,
+          0,
+          0.13061298429965973,
+          -0.0625755563378334,
+          0,
+          0.17922739684581757,
+          -0.08274365961551666,
+          -0.02567202039062977,
+          0,
+          0,
+          -0.26122596859931946,
+          -0.07966816425323486,
+          1
+        ]
+      }
+    ],
+    [
+      {
+        "right": [
+          -1,
+          0,
+          1.2246468525851679e-16
+        ],
+        "up": [
+          1.0605752472130298e-16,
+          0.5,
+          0.8660253882408142
+        ],
+        "light": [
+          -0.5393531918525696,
+          0.7790656685829163,
+          0.3196166753768921
+        ],
+        "lightVP": [
+          0.10620883107185364,
+          0.13962991535663605,
+          0.04332153871655464,
+          0,
+          0,
+          0.13061298429965973,
+          -0.0625755563378334,
+          0,
+          0.17922739684581757,
+          -0.08274365961551666,
+          -0.02567202039062977,
+          0,
+          0,
+          -0.26122596859931946,
+          -0.07966816425323486,
+          1
+        ]
+      },
+      {
+        "right": [
+          1,
+          0,
+          0
+        ],
+        "up": [
+          0,
+          1,
+          0
+        ],
+        "light": null,
+        "lightVP": [
+          0.10620883107185364,
+          0.13962991535663605,
+          0.04332153871655464,
+          0,
+          0,
+          0.13061298429965973,
+          -0.0625755563378334,
+          0,
+          0.17922739684581757,
+          -0.08274365961551666,
+          -0.02567202039062977,
+          0,
+          0,
+          -0.26122596859931946,
+          -0.07966816425323486,
+          1
+        ]
+      }
+    ]
+  ],
+  "views": {
+    "front": {
+      "foliagePixels": 385168,
+      "sha256": "5bbb0cd1c23aaa2e49505712de01258d5cc71f82e312fbd446bddfc4e4323ea9"
+    },
+    "right": {
+      "foliagePixels": 185581,
+      "sha256": "8b7f99f8875e1e55ec22ae4629b7e6617f810a155fc2e75ad5adcba6a353e952"
+    },
+    "back": {
+      "foliagePixels": 378972,
+      "sha256": "8dfcf8d12c516d1f7bf747d59dbc08d2e4fcab2cb5d8f500f4e0d937cc7651ee"
+    },
+    "above": {
+      "foliagePixels": 324274,
+      "sha256": "53d6a8328f7b5fe98d66e97ac74ec1f641046cf216c50638d6ac9a67978d76a8"
+    },
+    "top": {
+      "foliagePixels": 291865,
+      "sha256": "fd2b3cad791ea3e3a045f8a93a765deba5db47ba9956329d40f18f507e44926f"
+    },
+    "below": {
+      "foliagePixels": 306756,
+      "sha256": "a696883b78052f9b2c05dd8baec196a70851f3cc6bb15403586a0d7c940dc815"
+    }
+  },
+  "stats": {
+    "version": "06",
+    "trunkIsReal3D": true,
+    "wholeTreeGradient": false,
+    "removedBunchIds": [
+      909,
+      1001
+    ],
+    "groundOffset": 2,
+    "cardLinearScaleVersusV03": 0.7,
+    "cardsPerBunch": 288,
+    "cards": 2880,
+    "lightDirection": [
+      -0.5393531640720883,
+      0.7790656814374609,
+      0.3196166898204968
+    ],
+    "barkSource": "image-generated texture supplied in conversation",
+    "normalSource": "derived from bark luminance; not a scanned geometric normal",
+    "trunkTriangles": 39876,
+    "leafTriangles": 5760,
+    "uvCharts": 693,
+    "uvTexelsPerMetre": 290,
+    "uvCoverage": 0.20066547393798828,
+    "trunkWatertight": true,
+    "units": "metres",
+    "axes": "right handed Y up",
+    "meshAssetVersion": "05",
+    "cameraMode": "orbit",
+    "billboardMode": "screen-aligned",
+    "shadingSpace": "tree-rest",
+    "shadowCasterMode": "camera-independent-rest-cards",
+    "context": "WebGL 2.0 (OpenGL ES 3.0 Chromium)",
+    "glError": 0,
+    "frames": 40
+  },
+  "errors": [],
+  "warnings": [
+    "performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.",
+    "performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.",
+    "performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.",
+    "performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.",
+    "performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall."
+  ],
+  "previewSource": "exact shipped index.html in Chromium WebGL2, via page.set_content; no image synthesis"
+}

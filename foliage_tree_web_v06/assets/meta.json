@@ -1,0 +1,28 @@
+{
+  "version": "05",
+  "trunkIsReal3D": true,
+  "wholeTreeGradient": false,
+  "removedBunchIds": [
+    909,
+    1001
+  ],
+  "groundOffset": 2,
+  "cardLinearScaleVersusV03": 0.7,
+  "cardsPerBunch": 288,
+  "cards": 2880,
+  "lightDirection": [
+    -0.5393531640720883,
+    0.7790656814374609,
+    0.3196166898204968
+  ],
+  "barkSource": "image-generated texture supplied in conversation",
+  "normalSource": "derived from bark luminance; not a scanned geometric normal",
+  "trunkTriangles": 39876,
+  "leafTriangles": 5760,
+  "uvCharts": 693,
+  "uvTexelsPerMetre": 290,
+  "uvCoverage": 0.20066547393798828,
+  "trunkWatertight": true,
+  "units": "metres",
+  "axes": "right handed Y up"
+}

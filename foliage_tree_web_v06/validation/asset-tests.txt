@@ -1,0 +1,10 @@
+test_all_card_uvs_cover_full_tile_and_lighting_is_upward (test_assets.AssetTests.test_all_card_uvs_cover_full_tile_and_lighting_is_upward) ... ok
+test_crown_and_gradient_contract (test_assets.AssetTests.test_crown_and_gradient_contract) ... ok
+test_mesh_has_finite_positions_uv_and_depth (test_assets.AssetTests.test_mesh_has_finite_positions_uv_and_depth) ... ok
+test_self_contained_web_and_exchange_asset (test_assets.AssetTests.test_self_contained_web_and_exchange_asset) ... ok
+test_trunk_is_geometry_not_screen_space_strokes (test_assets.AssetTests.test_trunk_is_geometry_not_screen_space_strokes) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.180s
+
+OK

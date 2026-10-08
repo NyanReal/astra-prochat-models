@@ -1,0 +1,118 @@
+TAP version 13
+# Subtest: production free-camera controller exists
+not ok 1 - production free-camera controller exists
+  ---
+  duration_ms: 1.724227
+  type: 'test'
+  location: '/mnt/data/foliage_tree_web_v06/tests/test_orbit.js:14:1'
+  failureType: 'testCodeFailure'
+  error: 'v05 only has preset angles; continuous camera controller is missing'
+  code: 'ERR_ASSERTION'
+  name: 'AssertionError'
+  expected: true
+  actual: false
+  operator: '=='
+  stack: |-
+    TestContext.<anonymous> (/mnt/data/foliage_tree_web_v06/tests/test_orbit.js:14:60)
+    Test.runInAsyncScope (node:async_hooks:214:14)
+    Test.run (node:internal/test_runner/test:1047:25)
+    Test.start (node:internal/test_runner/test:944:17)
+    startSubtestAfterBootstrap (node:internal/test_runner/harness:296:17)
+  ...
+# Subtest: front camera preserves the v05 composition
+not ok 2 - front camera preserves the v05 composition
+  ---
+  duration_ms: 0.164658
+  type: 'test'
+  location: '/mnt/data/foliage_tree_web_v06/tests/test_orbit.js:15:1'
+  failureType: 'testCodeFailure'
+  error: 'camera controller missing'
+  code: 'ERR_ASSERTION'
+  name: 'AssertionError'
+  expected: true
+  actual: ~
+  operator: '=='
+  stack: |-
+    TestContext.<anonymous> (/mnt/data/foliage_tree_web_v06/tests/test_orbit.js:16:9)
+    Test.runInAsyncScope (node:async_hooks:214:14)
+    Test.run (node:internal/test_runner/test:1047:25)
+    Test.processPendingSubtests (node:internal/test_runner/test:744:18)
+    Test.postRun (node:internal/test_runner/test:1173:19)
+    Test.run (node:internal/test_runner/test:1101:12)
+    async startSubtestAfterBootstrap (node:internal/test_runner/harness:296:3)
+  ...
+# Subtest: camera basis remains orthonormal at all azimuths and near both poles
+not ok 3 - camera basis remains orthonormal at all azimuths and near both poles
+  ---
+  duration_ms: 0.144498
+  type: 'test'
+  location: '/mnt/data/foliage_tree_web_v06/tests/test_orbit.js:20:1'
+  failureType: 'testCodeFailure'
+  error: 'camera controller missing'
+  code: 'ERR_ASSERTION'
+  name: 'AssertionError'
+  expected: true
+  actual: ~
+  operator: '=='
+  stack: |-
+    TestContext.<anonymous> (/mnt/data/foliage_tree_web_v06/tests/test_orbit.js:21:9)
+    Test.runInAsyncScope (node:async_hooks:214:14)
+    Test.run (node:internal/test_runner/test:1047:25)
+    Test.processPendingSubtests (node:internal/test_runner/test:744:18)
+    Test.postRun (node:internal/test_runner/test:1173:19)
+    Test.run (node:internal/test_runner/test:1101:12)
+    async Test.processPendingSubtests (node:internal/test_runner/test:744:7)
+  ...
+# Subtest: zoom changes screen scale, and pan follows the current camera plane
+not ok 4 - zoom changes screen scale, and pan follows the current camera plane
+  ---
+  duration_ms: 0.160612
+  type: 'test'
+  location: '/mnt/data/foliage_tree_web_v06/tests/test_orbit.js:28:1'
+  failureType: 'testCodeFailure'
+  error: 'camera controller missing'
+  code: 'ERR_ASSERTION'
+  name: 'AssertionError'
+  expected: true
+  actual: ~
+  operator: '=='
+  stack: |-
+    TestContext.<anonymous> (/mnt/data/foliage_tree_web_v06/tests/test_orbit.js:29:9)
+    Test.runInAsyncScope (node:async_hooks:214:14)
+    Test.run (node:internal/test_runner/test:1047:25)
+    Test.processPendingSubtests (node:internal/test_runner/test:744:18)
+    Test.postRun (node:internal/test_runner/test:1173:19)
+    Test.run (node:internal/test_runner/test:1101:12)
+    async Test.processPendingSubtests (node:internal/test_runner/test:744:7)
+  ...
+# Subtest: invalid values cannot produce a singular camera
+not ok 5 - invalid values cannot produce a singular camera
+  ---
+  duration_ms: 0.161533
+  type: 'test'
+  location: '/mnt/data/foliage_tree_web_v06/tests/test_orbit.js:34:1'
+  failureType: 'testCodeFailure'
+  error: 'camera controller missing'
+  code: 'ERR_ASSERTION'
+  name: 'AssertionError'
+  expected: true
+  actual: ~
+  operator: '=='
+  stack: |-
+    TestContext.<anonymous> (/mnt/data/foliage_tree_web_v06/tests/test_orbit.js:35:9)
+    Test.runInAsyncScope (node:async_hooks:214:14)
+    Test.run (node:internal/test_runner/test:1047:25)
+    Test.processPendingSubtests (node:internal/test_runner/test:744:18)
+    Test.postRun (node:internal/test_runner/test:1173:19)
+    Test.run (node:internal/test_runner/test:1101:12)
+    async Test.processPendingSubtests (node:internal/test_runner/test:744:7)
+  ...
+1..5
+# tests 5
+# suites 0
+# pass 0
+# fail 5
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 53.942011
