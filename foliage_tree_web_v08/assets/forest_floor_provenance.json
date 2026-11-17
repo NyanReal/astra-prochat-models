@@ -1,0 +1,11 @@
+{
+  "source": "Image-generated forest artwork, isolated floor-only crop",
+  "processing": "crop, local contrast moderation, deterministic image quilting, periodic edge correction; broad procedural moss/loam control layer to suppress perspective plants; sparse leaf-litter embellishment",
+  "basecolor": "forest_floor_basecolor.jpg",
+  "size": [
+    1024,
+    1024
+  ],
+  "not_used": "No generated whole-scene image or generated UI is used as the web scene",
+  "note": "An artistic color texture, not measured scan data; fine painted shading remains."
+}
