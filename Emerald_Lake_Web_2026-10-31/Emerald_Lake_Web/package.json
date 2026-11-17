@@ -1,0 +1,1 @@
+{"name":"emerald-lake-lookdev","private":true,"version":"1.0.0","type":"module","description":"Self-contained stylized Three.js fishing lake environment","scripts":{"check":"node tools/verify.mjs"}}

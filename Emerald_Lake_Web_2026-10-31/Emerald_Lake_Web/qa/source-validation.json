@@ -1,0 +1,13 @@
+{
+  "status": "passed",
+  "jsFiles": 10,
+  "localReferencesChecked": 22,
+  "staticFiles": 20,
+  "largest": {
+    "path": "assets/textures/material-atlas.png",
+    "bytes": 2920695
+  },
+  "totalBytes": 10186231,
+  "browserWebGL": "unverified: preview browser disables GL",
+  "scope": "self-contained imports/assets, shoreline continuity, finite sampled ground data; syntax checked separately with node --check"
+}

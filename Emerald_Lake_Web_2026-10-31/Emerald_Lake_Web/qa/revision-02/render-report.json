@@ -1,0 +1,64 @@
+{
+  "renderer": "llvmpipe (LLVM 20.1.2, 256 bits)",
+  "glVersion": "4.5 (Core Profile) Mesa 25.2.8-0ubuntu0.24.04.2",
+  "dimensions": [
+    1200,
+    900
+  ],
+  "samples": 4,
+  "shadowSize": 4096,
+  "views": [
+    "truck_detail",
+    "stream_detail",
+    "shore_detail"
+  ],
+  "meshCount": 61,
+  "triangles": 314573,
+  "bounds": {
+    "min": [
+      -26,
+      -1.899999976158142,
+      -26
+    ],
+    "max": [
+      26,
+      9.705951869487762,
+      26
+    ]
+  },
+  "stats": {
+    "rocks": 174,
+    "terrainDrawCalls": 14,
+    "water": "animated lake and foam",
+    "quality": "high",
+    "staticPieces": 692,
+    "staticDrawCalls": 20,
+    "animatedFloats": 2,
+    "trees": 63,
+    "treeBranches": 4095,
+    "shrubs": 2934,
+    "grasses": 1630,
+    "fernFronds": 1866,
+    "flowers": 2581,
+    "reeds": 430,
+    "lilyPads": 210,
+    "fish": 8
+  },
+  "time": 0,
+  "sourceHashes": {
+    "life.js": "c27e9758fcaf41c47644887e96a95e1e1bb3454520e1ac05148cf9b3be2787c7",
+    "main.js": "75a4080e2cf002c540ac9829b685c53de6b53c48abc1c1dc18408f2aba0ef775",
+    "props.js": "afed94fd2853b596e8f4b1e0e5667fa932d3ffdf268689551bdfa577a62a645b",
+    "terrain.js": "6fc6073ea7ed209fea6ae9f7f707d2eac422171edd1c402e128aa2c38de3eba7",
+    "vegetation.js": "3a4a5a9bfae859a40f1268abf7da326933c88eeb981e6a3a68811d3a0c4a418e",
+    "world.js": "7a6c5df46d78e8f1f94f89941f6de50ef932775cffd4480795b50ca20dc7ce4d"
+  },
+  "omitted": [
+    {
+      "name": "",
+      "type": "Points"
+    }
+  ],
+  "rgbaTextures": 9,
+  "shaderPrograms": 2
+}

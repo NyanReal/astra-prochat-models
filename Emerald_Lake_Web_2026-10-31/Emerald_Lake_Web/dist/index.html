@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#163f39">
+  <meta name="description" content="청록빛 물결과 햇살, 울창한 숲 사이에 숨은 작은 낚시터. 회전하고 가까이 들여다보는 3D 풍경.">
+  <title>Emerald Lake — 숲속 낚시터</title>
+  <link rel="icon" href="./assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./style.css">
+  <script type="importmap">{"imports":{"three":"./vendor/three.module.js","three/addons/":"./vendor/"}}</script>
+</head>
+<body>
+  <main id="viewer" aria-label="마우스나 손가락으로 둘러보는 숲속 호수 3D 장면">
+    <canvas id="scene" aria-label="Emerald Lake 3D 장면" tabindex="0"></canvas>
+    <div class="edge-shade" aria-hidden="true"></div>
+    <header class="masthead">
+      <div class="eyebrow"><span class="little-sun">✳</span> FIELD NOTES <span class="slash">/</span> LANDSCAPE 01</div>
+      <h1>Emerald <em>Lake.</em></h1>
+      <p>숲 사이, 잠시 머무는 곳.</p>
+    </header>
+    <div class="top-actions">
+      <span class="live-label"><i></i> LIVE SCENE</span>
+      <button class="icon-button" id="reference-toggle" title="원본 레퍼런스 보기" aria-label="원본 레퍼런스 보기" aria-expanded="false">
+        <svg viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="16" rx="2"/><circle cx="8" cy="9" r="1.5"/><path d="m3 17 6-5 4 3 3-5 5 7"/></svg>
+      </button>
+      <button class="icon-button" id="settings-toggle" title="장면 설정" aria-label="장면 설정" aria-expanded="false">
+        <svg viewBox="0 0 24 24"><path d="M4 7h16M4 17h16"/><circle cx="9" cy="7" r="3"/><circle cx="16" cy="17" r="3"/></svg>
+      </button>
+    </div>
+    <aside id="settings" class="glass-panel" hidden aria-label="장면 설정">
+      <div class="panel-heading"><span>풍경의 온도</span><button id="settings-close" class="text-button" aria-label="설정 닫기">×</button></div>
+      <label class="range-label" for="sunlight">햇살 <output id="sun-value">68%</output></label>
+      <input id="sunlight" type="range" min="0" max="100" value="68">
+      <div class="quality-label">화질</div>
+      <div class="segmented" role="group" aria-label="렌더링 화질">
+        <button data-quality="balanced" aria-pressed="false">가볍게</button>
+        <button data-quality="high" aria-pressed="true">섬세하게</button>
+      </div>
+      <button id="autorotate" class="switch-row" aria-pressed="false"><span>천천히 둘러보기</span><span class="switch" aria-hidden="true"></span></button>
+      <button id="capture" class="panel-action"><svg viewBox="0 0 24 24"><path d="m8 5 1-2h6l1 2h4v15H4V5Z"/><circle cx="12" cy="12" r="4"/></svg> 지금 풍경 저장</button>
+      <button id="clean-view" class="panel-action"><svg viewBox="0 0 24 24"><path d="M8 3H3v5m13-5h5v5M3 16v5h5m13-5v5h-5"/></svg> 화면 가득 감상 <span>H</span></button>
+      <p class="render-note" id="render-info">풍경을 준비하고 있습니다.</p>
+    </aside>
+    <aside id="reference" class="reference-panel" hidden aria-label="제공된 원본 레퍼런스">
+      <div class="panel-heading"><span>REFERENCE <small>원본 이미지</small></span><button id="reference-close" class="text-button" aria-label="레퍼런스 닫기">×</button></div>
+      <img src="./assets/reference.jpeg" alt="청록색 호수, 침엽수 숲과 나무 낚시 데크가 있는 제공된 레퍼런스 이미지">
+      <p>색감과 구도의 기준이 된 이미지입니다.</p>
+    </aside>
+    <div class="location-note"><span class="compass">N <svg viewBox="0 0 20 26"><path d="m10 1 7 22-7-5-7 5Z"/><path d="M10 1v17"/></svg></span><span>고요한 물결<br><strong>한낮의 숲 · 여름</strong></span></div>
+    <nav class="view-controls" aria-label="풍경 시점 선택">
+      <div class="views">
+        <button data-view="overview" class="active" aria-pressed="true"><span>01</span> 전체 풍경</button>
+        <button data-view="dock" aria-pressed="false"><span>02</span> 낚시 데크</button>
+        <button data-view="stream" aria-pressed="false"><span>03</span> 작은 폭포</button>
+        <button data-view="camp" aria-pressed="false"><span>04</span> 보급 야영지</button>
+      </div>
+      <div class="divider"></div>
+      <button class="icon-button" id="pause" aria-pressed="false" title="물결과 바람 멈추기" aria-label="애니메이션 일시정지"><svg id="pause-icon" viewBox="0 0 24 24"><path d="M9 5v14M15 5v14"/></svg></button>
+      <button class="icon-button" id="reset" title="처음 시점으로" aria-label="처음 시점으로 되돌리기"><svg viewBox="0 0 24 24"><path d="M4 10a8 8 0 1 1 1 8M4 4v6h6"/></svg></button>
+    </nav>
+    <div class="gesture-hint"><span class="mouse-icon" aria-hidden="true"></span><span class="desktop-hint">드래그하여 회전 <b>·</b> 휠로 확대</span><span class="touch-hint">한 손가락으로 회전 <b>·</b> 두 손가락으로 확대</span></div>
+    <button id="restore-ui" class="restore-button" hidden>화면 조작 표시</button>
+    <div id="loading" role="status"><div class="loader-mark">✳</div><span class="loader-title">Emerald Lake</span><span id="loading-copy">숲과 물빛을 불러오는 중</span><div class="loading-track"><div id="loading-progress"></div></div></div>
+    <div id="error" role="alert" hidden><strong>장면을 불러오지 못했습니다.</strong><p id="error-copy"></p><button onclick="location.reload()">다시 불러오기</button></div>
+    <div id="toast" role="status" aria-live="polite"></div>
+  </main>
+  <script type="module" src="./js/main.js"></script>
+  <script>window.addEventListener('error',function(e){if(!window.__lakeReady){var p=document.getElementById('error');p.hidden=false;document.getElementById('error-copy').textContent=location.protocol==='file:'?'압축을 푼 폴더에서 START_WINDOWS.bat 또는 python serve.py로 실행해 주세요.':(e.message||'WebGL 2를 지원하는 브라우저에서 다시 열어 주세요.');document.getElementById('loading').hidden=true;}});</script>
+</body>
+</html>

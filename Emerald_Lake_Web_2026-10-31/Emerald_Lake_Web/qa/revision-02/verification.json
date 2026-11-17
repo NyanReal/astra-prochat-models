@@ -1,0 +1,70 @@
+{
+  "status": "passed",
+  "sourceHashesMatch": true,
+  "images": [
+    {
+      "path": "dist/assets/previews/stream.jpg",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "4680dfb109271e5becf0e7d13f71aaae3a596ae18c5b1aa76c51c92cb4668773"
+    },
+    {
+      "path": "dist/assets/previews/dock.jpg",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "405d831699a8f99fde1bf34a917d41d19cd88b8f1a53d527240e851288dfeedf"
+    },
+    {
+      "path": "dist/assets/previews/overview.jpg",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "c959bd8bf8abd54822daac64e92d024d8a9fdf54651b442896f1a7427dba8383"
+    },
+    {
+      "path": "dist/assets/previews/camp.jpg",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "dfdf5b758ffab616bd571b05a8b0dc8bf65887ca5139c83c2d75f7c4596a29cf"
+    },
+    {
+      "path": "qa/revision-02/shore_detail.jpg",
+      "size": [
+        1200,
+        900
+      ],
+      "sha256": "9635aa5561bde229916b68add248ca7f1e9aeb5193855b242f238cf0119b08ca"
+    },
+    {
+      "path": "qa/revision-02/truck_detail.jpg",
+      "size": [
+        1200,
+        900
+      ],
+      "sha256": "91f42b6cb6eac1e6a2f7fbc937b028aa30fb77103451aa0d55e964431d99667a"
+    },
+    {
+      "path": "qa/revision-02/stream_detail.jpg",
+      "size": [
+        1200,
+        900
+      ],
+      "sha256": "22ba9c95fc9f2a70286d6389f5db8a1e7f1a0ef9035e00133f3d5bcb5875933a"
+    }
+  ],
+  "triangles": 314573,
+  "visualReview": [
+    "truck cab, wheels and cargo",
+    "continuous curved cascades and lake mouth",
+    "broken foam follows individual rocks"
+  ],
+  "browserWebGL": "unverified: environment disables graphics context",
+  "independentReview": "no actionable geometry, transparency, animation or disposal defects"
+}
