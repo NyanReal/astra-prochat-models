@@ -1,0 +1,10 @@
+{
+  "game_asset_count": 66,
+  "unique_library_triangles": 194627,
+  "unique_library_vertices": 159463,
+  "harbor_instances": 146,
+  "harbor_unique_assets": 55,
+  "harbor_triangles_before_culling_excluding_environment": 287966,
+  "blender_mesh_data_sharing": true,
+  "ue_actors": "individual StaticMeshActors, shared StaticMesh assets; not HISM"
+}

@@ -1,0 +1,76 @@
+{
+  "method": "Material pixels extracted and colour-corrected from user-approved generated reference sheets; skull emblem extracted from reference_01.",
+  "source_crops": {
+    "wood": {
+      "file": "references/reference_02.png",
+      "pixel_box_xyxy": [
+        1301,
+        912,
+        1351,
+        999
+      ]
+    },
+    "rope": {
+      "file": "references/reference_02.png",
+      "pixel_box_xyxy": [
+        1366,
+        915,
+        1412,
+        999
+      ]
+    },
+    "metal": {
+      "file": "references/reference_02.png",
+      "pixel_box_xyxy": [
+        1428,
+        918,
+        1470,
+        998
+      ]
+    },
+    "canvas": {
+      "file": "references/reference_01.png",
+      "pixel_box_xyxy": [
+        1225,
+        184,
+        1262,
+        231
+      ]
+    },
+    "stone": {
+      "file": "references/reference_01.png",
+      "pixel_box_xyxy": [
+        312,
+        743,
+        354,
+        775
+      ]
+    },
+    "skull": {
+      "file": "references/reference_01.png",
+      "pixel_box_xyxy": [
+        1316,
+        158,
+        1397,
+        218
+      ]
+    },
+    "leaf": {
+      "file": "references/reference_02.png",
+      "pixel_box_xyxy": [
+        883,
+        902,
+        911,
+        942
+      ]
+    }
+  },
+  "source_sha256": {
+    "reference_01.png": "e814dd46949759ad288b563330e0a7098451bbf25b597a84532f5f691d809509",
+    "reference_02.png": "b4d885c4ce2bb11cd72633e6ae69be48107c83b214cc77780ead300240e949c9"
+  },
+  "base_color": "sRGB",
+  "rough_metal": "linear; R=1, G=roughness, B=metallic",
+  "normal_map": null,
+  "uv_note": "Overlapping trim/atlas UVs; not unique lightmap UVs."
+}

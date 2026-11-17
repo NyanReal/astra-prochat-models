@@ -1,0 +1,29 @@
+test_asset_manifest_exists (test_contract.ContractTests.test_asset_manifest_exists) ... ok
+test_editor_scripts_syntax (test_contract.ContractTests.test_editor_scripts_syntax) ... ok
+test_expected_assets_are_present (test_contract.ContractTests.test_expected_assets_are_present) ... ok
+test_layout_camera_schema (test_contract.ContractTests.test_layout_camera_schema) ... ok
+test_layout_references (test_contract.ContractTests.test_layout_references) ... ok
+test_textures (test_contract.ContractTests.test_textures) ... ok
+test_axis_rotation_preserves_handedness (test_geometry.GeometryTests.test_axis_rotation_preserves_handedness) ... ok
+test_core_available (test_geometry.GeometryTests.test_core_available) ... ok
+test_primitives_finite (test_geometry.GeometryTests.test_primitives_finite) ... ok
+test_all_signed_axis_permutations_and_units (test_pipeline.PipelineMathTests.test_all_signed_axis_permutations_and_units) ... ok
+test_expected_bounds_respect_reflection (test_pipeline.PipelineMathTests.test_expected_bounds_respect_reflection) ... ok
+test_invalid_content_roots_rejected (test_pipeline.PipelineMathTests.test_invalid_content_roots_rejected) ... ok
+test_invalid_transforms_rejected (test_pipeline.PipelineMathTests.test_invalid_transforms_rejected) ... ok
+test_missing_unknown_and_duplicate_layout_assets_rejected (test_pipeline.PipelineMathTests.test_missing_unknown_and_duplicate_layout_assets_rejected) ... ok
+test_nonsquare_scale_matches_rotated_geometry (test_pipeline.PipelineMathTests.test_nonsquare_scale_matches_rotated_geometry) ... ok
+test_paths_cannot_escape_pack (test_pipeline.PipelineMathTests.test_paths_cannot_escape_pack) ... ok
+test_probe_recentering_is_rejected (test_pipeline.PipelineMathTests.test_probe_recentering_is_rejected) ... ok
+test_reflection_reverses_yaw (test_pipeline.PipelineMathTests.test_reflection_reverses_yaw) ... ok
+test_barrel_lid_boards_cover_radial_end_caps (test_regressions.RegressionTests.test_barrel_lid_boards_cover_radial_end_caps) ... /mnt/data/pirate_outpost/scripts/meshcore.py:193: DeprecationWarning: Arrays of 2-dimensional vectors are deprecated. Use arrays of 3-dimensional vectors instead. (deprecated in NumPy 2.0)
+  def cross(a,b,c):return np.cross(b-a,c-a).item()
+ok
+test_collapsed_leaf_tips_do_not_export_unused_normals (test_regressions.RegressionTests.test_collapsed_leaf_tips_do_not_export_unused_normals) ... ok
+test_generated_wood_has_no_black_source_seams (test_regressions.RegressionTests.test_generated_wood_has_no_black_source_seams) ... ok
+test_stock_board_faces_match_normals (test_regressions.RegressionTests.test_stock_board_faces_match_normals) ... ok
+
+----------------------------------------------------------------------
+Ran 22 tests in 0.148s
+
+OK

@@ -1,0 +1,16 @@
+{
+  "python": "3.13.5 (main, Jul 15 2026, 20:25:40) [GCC 14.2.0]",
+  "platform": "Linux-6.18.57-x86_64-with-glibc2.41",
+  "editor_runtimes": {
+    "Blender": "not installed",
+    "Unreal Editor": "not installed"
+  },
+  "packages": {
+    "numpy": "2.3.5",
+    "scipy": "1.17.0",
+    "PIL": "12.3.0",
+    "cv2": "4.13.0",
+    "vtk": "9.6.2",
+    "trimesh": "4.11.1"
+  }
+}

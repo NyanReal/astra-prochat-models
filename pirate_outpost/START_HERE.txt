@@ -1,0 +1,12 @@
+해적 진영 기지 / 개별 GLB 66종
+
+1. README_KO.md : 사용법과 검증 범위
+2. models/ : 게임용 개별 GLB
+3. scripts/blender/build_preview.py : 새 블렌더 프리뷰 씬
+4. scripts/unreal/import_pirate_outpost.py : UE5 임포트
+5. scripts/unreal/place_pirate_outpost.py : UE5 예시 배치
+6. previews/harbor_front.jpg : 실제 모델 배치 렌더
+7. previews/All_66_Assets.jpg : 전체 모델 목록
+
+Blender/Unreal 에디터 실행은 이 제작 환경에서 검증하지 못했습니다.
+GLB 생성·전체 파일 검사·별도 로더 재읽기·실제 지오메트리 렌더·Python 테스트는 수행했습니다.

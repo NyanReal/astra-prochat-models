@@ -1,0 +1,1337 @@
+{
+  "all_passed": true,
+  "asset_count": 66,
+  "total_triangles_unique_assets": 194627,
+  "total_vertices_unique_assets": 159463,
+  "errors": [],
+  "assets": [
+    {
+      "id": "SM_Watchtower",
+      "pass": true,
+      "errors": [],
+      "triangles": 12116,
+      "vertices": 9249,
+      "min_area_m2": 1.5587782399961725e-05,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "1adba1aae5960b1868c786a7fb4de9547fa4e6f5db3f4028968ba733372964cf"
+    },
+    {
+      "id": "SM_CommandHut",
+      "pass": true,
+      "errors": [],
+      "triangles": 20346,
+      "vertices": 18829,
+      "min_area_m2": 1.3808614312438294e-05,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "facb31a26d4f417cf3b077e28a0013b552fafec2c3b89eecf4dc590df00c47de"
+    },
+    {
+      "id": "SM_Forge",
+      "pass": true,
+      "errors": [],
+      "triangles": 8419,
+      "vertices": 8175,
+      "min_area_m2": 2.1649560949299484e-05,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "a76d2bd3bd860b8124565e5f72dab0b47b45c3ca8d0434b9e669cf8e0c0d5e12"
+    },
+    {
+      "id": "SM_SupplyShed",
+      "pass": true,
+      "errors": [],
+      "triangles": 6276,
+      "vertices": 5245,
+      "min_area_m2": 0.0001410170953022316,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "6036ad0f0b9f337d448a7b079588513316941fa7834b0d2429bd6cdd05469797"
+    },
+    {
+      "id": "SM_PirateTent",
+      "pass": true,
+      "errors": [],
+      "triangles": 3388,
+      "vertices": 2499,
+      "min_area_m2": 7.26622820366174e-05,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "d99d2bb73a0cc726f1ca2a9d1e10a746a5e552add0f7b8de0b34218938413fab"
+    },
+    {
+      "id": "SM_RestCanopy",
+      "pass": true,
+      "errors": [],
+      "triangles": 2960,
+      "vertices": 2015,
+      "min_area_m2": 0.00014101684791967273,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "c4fc1647f03a45718562d89d7c637ff499e1407dc126fa435f02b6f78adaba4a"
+    },
+    {
+      "id": "SM_Palisade",
+      "pass": true,
+      "errors": [],
+      "triangles": 1016,
+      "vertices": 880,
+      "min_area_m2": 0.0001000789925456047,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "db0b7b5988a407ebe848f393cc2f086828ffa526bf68f21151ebbee24e3a8b2e"
+    },
+    {
+      "id": "SM_WoodGate_Closed",
+      "pass": true,
+      "errors": [],
+      "triangles": 3308,
+      "vertices": 2691,
+      "min_area_m2": 9.096645953832194e-05,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "48d00c6e99fca22ef993433b010bcfa3d6beb53cd499b58591ddbdfa77ffb59a"
+    },
+    {
+      "id": "SM_WoodGate_Open",
+      "pass": true,
+      "errors": [],
+      "triangles": 3308,
+      "vertices": 2691,
+      "min_area_m2": 9.096603753278032e-05,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "1456871400adf36c8c38fb987d6a851cd9e9c98e2071b8f3fe6066004205ae33"
+    },
+    {
+      "id": "SM_StoneGate_Closed",
+      "pass": true,
+      "errors": [],
+      "triangles": 4394,
+      "vertices": 4195,
+      "min_area_m2": 1.6765750842751004e-05,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "dc30fe37f97497742e9f8578f90a7d0640e412d3e50600cddf5d6f25f1cd4fb0"
+    },
+    {
+      "id": "SM_StoneGate_Open",
+      "pass": true,
+      "errors": [],
+      "triangles": 4394,
+      "vertices": 4195,
+      "min_area_m2": 1.6765750842751004e-05,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "2925716ae2a082d7d3de2b02b9a0f86c2ebb4048bbf2ccaadf3ba0d97e6fe8d3"
+    },
+    {
+      "id": "SM_Barricade",
+      "pass": true,
+      "errors": [],
+      "triangles": 2390,
+      "vertices": 1659,
+      "min_area_m2": 0.00010164170089410618,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "cb8b12b1993c5150f1c38e8ecf96ea1e9fd428ab8b3d241a4f1beb55ab32d2ae"
+    },
+    {
+      "id": "SM_Cannon",
+      "pass": true,
+      "errors": [],
+      "triangles": 3264,
+      "vertices": 3069,
+      "min_area_m2": 6.11063587712124e-05,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "ae6904888fda94fa23379aa54838c47416fe249abe44ebeea9586607670b6e9d"
+    },
+    {
+      "id": "SM_Dock_Straight",
+      "pass": true,
+      "errors": [],
+      "triangles": 3324,
+      "vertices": 2626,
+      "min_area_m2": 6.181929347803816e-05,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "7496a12f79688fe5ef54d5b8e688e6d90fe97f6f7f47495ab59a1d68311db642"
+    },
+    {
+      "id": "SM_Dock_Corner",
+      "pass": true,
+      "errors": [],
+      "triangles": 3324,
+      "vertices": 2626,
+      "min_area_m2": 6.181929347803816e-05,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "ee820d29133cfb518da2e778e28298b93ed1e3790c36f5a8fdb239218d32bcad"
+    },
+    {
+      "id": "SM_Dock_T",
+      "pass": true,
+      "errors": [],
+      "triangles": 2212,
+      "vertices": 1851,
+      "min_area_m2": 6.181929347803816e-05,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "dea21f633def6311bca97225dc7865b2993ab8a56184716cb3929f38607b54fe"
+    },
+    {
+      "id": "SM_Dock_Cross",
+      "pass": true,
+      "errors": [],
+      "triangles": 1100,
+      "vertices": 1076,
+      "min_area_m2": 6.181929347803816e-05,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "cc008cc87054904a630a9f04beb50fa911e7ca0081d24b62de9d02ae2a6e90b8"
+    },
+    {
+      "id": "SM_Dock_End",
+      "pass": true,
+      "errors": [],
+      "triangles": 4436,
+      "vertices": 3401,
+      "min_area_m2": 6.181929347803816e-05,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "b4df109703b20d7d192a8a453b9da12a2cca8572f472b7b8b984e23c7d7c760a"
+    },
+    {
+      "id": "SM_Dock_Platform",
+      "pass": true,
+      "errors": [],
+      "triangles": 4576,
+      "vertices": 3594,
+      "min_area_m2": 0.00014101625129114836,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "c58785d54c8f91748a5b0054a70649f307b5efecec144a0b3ba2b87fda81e057"
+    },
+    {
+      "id": "SM_Dock_Stairs",
+      "pass": true,
+      "errors": [],
+      "triangles": 2528,
+      "vertices": 1906,
+      "min_area_m2": 0.000141016163979657,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "4b98cd5940a4db63fa3453788df76a1ed3898e25995792b6c7f44e4e7dfd8057"
+    },
+    {
+      "id": "SM_Gangway",
+      "pass": true,
+      "errors": [],
+      "triangles": 2704,
+      "vertices": 2098,
+      "min_area_m2": 0.00014101661508902907,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "2157ad3c808418a41f1ff57ebe67b40001513a64519acf70b2a73ca6772d1977"
+    },
+    {
+      "id": "SM_RopeRail",
+      "pass": true,
+      "errors": [],
+      "triangles": 1432,
+      "vertices": 967,
+      "min_area_m2": 0.00014101686247158796,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "9c8c96d40b351858fbb4a7cdc6f6cd1313f51dc2222270db978e48a30a2bd576"
+    },
+    {
+      "id": "SM_Bollard",
+      "pass": true,
+      "errors": [],
+      "triangles": 1002,
+      "vertices": 739,
+      "min_area_m2": 9.09669543034397e-05,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "6155662e9b90f0df5d16828aa36d9129cbb07ee37ec5fa5c98b17bb9cb9cbba8"
+    },
+    {
+      "id": "SM_FloatingPlatform",
+      "pass": true,
+      "errors": [],
+      "triangles": 3248,
+      "vertices": 2545,
+      "min_area_m2": 0.00014101667329669,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "883f89f819fe400ff34823bcb073dec466b87e83323a459bc713c773191969c9"
+    },
+    {
+      "id": "SM_LoadingCrane",
+      "pass": true,
+      "errors": [],
+      "triangles": 3600,
+      "vertices": 2870,
+      "min_area_m2": 3.125109651591629e-05,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "442459bed56103ad187a0725e124dd26cbec339a277253b9d7f618c099746f1b"
+    },
+    {
+      "id": "SM_Winch",
+      "pass": true,
+      "errors": [],
+      "triangles": 2356,
+      "vertices": 1674,
+      "min_area_m2": 7.873784488765523e-05,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "41795a02194732383df475013460b7914b6f193fa328707cb9de210b89bfb460"
+    },
+    {
+      "id": "SM_SmallSailboat",
+      "pass": true,
+      "errors": [],
+      "triangles": 4672,
+      "vertices": 3368,
+      "min_area_m2": 8.97064819582738e-05,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "e736ccc757de3ccc730071aad28505ae73f0fbfcc4e60f594b654eac7455bd7d"
+    },
+    {
+      "id": "SM_Barrel_Large",
+      "pass": true,
+      "errors": [],
+      "triangles": 2008,
+      "vertices": 2004,
+      "min_area_m2": 3.07745867758058e-05,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "381abfe1e9e776eea80505f081ed408fdb35d1f01493abe90b0288ab593be2ea"
+    },
+    {
+      "id": "SM_Barrel_Small",
+      "pass": true,
+      "errors": [],
+      "triangles": 2008,
+      "vertices": 2004,
+      "min_area_m2": 1.3859717000741512e-05,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "6ae0d0db3dfc45977ef7e073ef6730c8b35481ecdd281ab0ef10725cdebb509c"
+    },
+    {
+      "id": "SM_Crate_Large",
+      "pass": true,
+      "errors": [],
+      "triangles": 1784,
+      "vertices": 1912,
+      "min_area_m2": 9.096681606024504e-05,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "040730c4bdf6bc7162ca9540191a4c6a8194ebd1c34d0b915e72aaee13ddbfe7"
+    },
+    {
+      "id": "SM_Crate_Small",
+      "pass": true,
+      "errors": [],
+      "triangles": 1784,
+      "vertices": 1912,
+      "min_area_m2": 9.096685244003311e-05,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "c93155964e2fcbfcee36b980801cc45f006b41ba5ad8a06cfeaf62a12ffbe8fb"
+    },
+    {
+      "id": "SM_Sack",
+      "pass": true,
+      "errors": [],
+      "triangles": 1180,
+      "vertices": 965,
+      "min_area_m2": 0.00014101710985414684,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "11de3aefe4f3940a136e786c8977406885b4aeb9a7f908dd857e0e3de47298c5"
+    },
+    {
+      "id": "SM_SupplyShelf",
+      "pass": true,
+      "errors": [],
+      "triangles": 7960,
+      "vertices": 6889,
+      "min_area_m2": 2.09587251447374e-05,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "057aa3d2a5feb87c2483213ff543db9070a5c09068a39e17affd515bd9342dc9"
+    },
+    {
+      "id": "SM_StorageShelf_Empty",
+      "pass": true,
+      "errors": [],
+      "triangles": 3204,
+      "vertices": 2652,
+      "min_area_m2": 0.0001410170370945707,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "ffee366aef3a638c7041f71e99c9257ae60ad94cbf827b4c0613c2b3471282d4"
+    },
+    {
+      "id": "SM_TreasureChest_Closed",
+      "pass": true,
+      "errors": [],
+      "triangles": 1436,
+      "vertices": 1489,
+      "min_area_m2": 9.777034392755013e-06,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "7ec8afdb3b596f411f768d01a7003df17edaf65d9e2adb892223cda1fd7de950"
+    },
+    {
+      "id": "SM_TreasureChest_Open",
+      "pass": true,
+      "errors": [],
+      "triangles": 2756,
+      "vertices": 2941,
+      "min_area_m2": 9.776937076821923e-06,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "392396667a1f019556c5b4edc2ea79cfb6378b9acf3a1595849d56429b9ea40c"
+    },
+    {
+      "id": "SM_CargoNet",
+      "pass": true,
+      "errors": [],
+      "triangles": 6124,
+      "vertices": 4929,
+      "min_area_m2": 5.25424511579331e-05,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "50601c276f353eecbf30f04828928b6e957d6128a2f2087ef4d3545de846741c"
+    },
+    {
+      "id": "SM_CookingStation",
+      "pass": true,
+      "errors": [],
+      "triangles": 4903,
+      "vertices": 3426,
+      "min_area_m2": 7.178080704761669e-05,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "4b94796e573918fb98f965a403793816c589c197f8deb6995dcc8863e4e312e2"
+    },
+    {
+      "id": "SM_Campfire",
+      "pass": true,
+      "errors": [],
+      "triangles": 1875,
+      "vertices": 1353,
+      "min_area_m2": 0.0003238437057007104,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "3d9e296cb42b70714afd18b70900aeaef9de007757403a713b310e1d111d3d75"
+    },
+    {
+      "id": "SM_Cauldron",
+      "pass": true,
+      "errors": [],
+      "triangles": 1326,
+      "vertices": 881,
+      "min_area_m2": 7.17812217772007e-05,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "5e0bc468c4a1028fe9236b168bb4898be173f21fb7f10bcfc76bb195cd3a0e7e"
+    },
+    {
+      "id": "SM_FishRack",
+      "pass": true,
+      "errors": [],
+      "triangles": 2796,
+      "vertices": 2116,
+      "min_area_m2": 1.745080589898862e-05,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "0f9bc9d5edc36aec4d0aedecf2f5400539dec4fe4f099da8ec00d43398dad351"
+    },
+    {
+      "id": "SM_WeaponRack",
+      "pass": true,
+      "errors": [],
+      "triangles": 3444,
+      "vertices": 2658,
+      "min_area_m2": 1.898172740766313e-05,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "0b2e695335a45c6a00713db9ba65aee3f307b088a5455b562f182c8ca067f059"
+    },
+    {
+      "id": "SM_Table",
+      "pass": true,
+      "errors": [],
+      "triangles": 528,
+      "vertices": 560,
+      "min_area_m2": 0.0004040528438054025,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "99c8f0eac0f79cc3eb93b1342e9cb0c4d7c254cccfb34871e5829768d9e2e234"
+    },
+    {
+      "id": "SM_Bench",
+      "pass": true,
+      "errors": [],
+      "triangles": 484,
+      "vertices": 512,
+      "min_area_m2": 0.00031925184885039926,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "c5141f102fa2c48e9aaffc85496b943d69b3412e37312819c57d9e0d5b900f83"
+    },
+    {
+      "id": "SM_Anvil",
+      "pass": true,
+      "errors": [],
+      "triangles": 352,
+      "vertices": 362,
+      "min_area_m2": 8.741443161852658e-05,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "dc35da3aef07a5e0e1a53e98109d809cfa22c064dad22b4db0e0bb755ffe7271"
+    },
+    {
+      "id": "SM_Anchor",
+      "pass": true,
+      "errors": [],
+      "triangles": 648,
+      "vertices": 546,
+      "min_area_m2": 0.00046431890223175287,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "d7a95dd8fc4078b1574a73fd48d212fa5acc37b982cd98a5a2ddaf8cfc7993df"
+    },
+    {
+      "id": "SM_Helm",
+      "pass": true,
+      "errors": [],
+      "triangles": 2440,
+      "vertices": 1815,
+      "min_area_m2": 3.2294003176502883e-05,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "fab2a648418b1ff671dd65fb3253a31c44e5b3ded583d56a627f749e13acbce6"
+    },
+    {
+      "id": "SM_RopeCoil",
+      "pass": true,
+      "errors": [],
+      "triangles": 2156,
+      "vertices": 1264,
+      "min_area_m2": 0.0002849773154594004,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "aeb98534afadbf25c8d9d8df978d2a1852e6b7d7779f05317f37b12501ad50fd"
+    },
+    {
+      "id": "SM_Lifebuoy",
+      "pass": true,
+      "errors": [],
+      "triangles": 2160,
+      "vertices": 1479,
+      "min_area_m2": 2.425665115879383e-05,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "299a531569e63cb97ab95204494684699084cae4e977949a97347ff48066a4a2"
+    },
+    {
+      "id": "SM_Lantern",
+      "pass": true,
+      "errors": [],
+      "triangles": 704,
+      "vertices": 582,
+      "min_area_m2": 2.157628841814585e-05,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "b09ed9d5a6596480859bbc68245617df65d028a479d08067df88a68629005e9a"
+    },
+    {
+      "id": "SM_Torch",
+      "pass": true,
+      "errors": [],
+      "triangles": 823,
+      "vertices": 689,
+      "min_area_m2": 5.542564395000227e-05,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "22080b400f9c663f9ddfee52226db34d86d32183c2186fd4e3144af3ae9e029b"
+    },
+    {
+      "id": "SM_Torch_Tripod",
+      "pass": true,
+      "errors": [],
+      "triangles": 1605,
+      "vertices": 1226,
+      "min_area_m2": 5.542529470403679e-05,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "5bc5cd3432dff7b2d4f8a2298ee2cb86c9a6c842ffe60b3ca04d8c866f52cd11"
+    },
+    {
+      "id": "SM_Cage",
+      "pass": true,
+      "errors": [],
+      "triangles": 1652,
+      "vertices": 1207,
+      "min_area_m2": 0.00017957913223654032,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "3e00d02c73dd736a3e4f210a5d3e00b7dfdd5a559102e69136e2ab0227a2741c"
+    },
+    {
+      "id": "SM_Stocks",
+      "pass": true,
+      "errors": [],
+      "triangles": 1132,
+      "vertices": 1396,
+      "min_area_m2": 7.981238013599068e-05,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "451048037c24b94a72d51e3add5b2bdfb4ee0bf28a909720dfd7ec31ef6052ef"
+    },
+    {
+      "id": "SM_Chain",
+      "pass": true,
+      "errors": [],
+      "triangles": 1296,
+      "vertices": 798,
+      "min_area_m2": 0.000267888477537781,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "d3e0a7318172d314cc5def9cec1d3eb86c00f50211e4a2042653b8f9af1b6807"
+    },
+    {
+      "id": "SM_Target",
+      "pass": true,
+      "errors": [],
+      "triangles": 1444,
+      "vertices": 1090,
+      "min_area_m2": 5.393941592046758e-06,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "71a8d53bf6199123f04f46dc9589cf7975ad5abe5a60098631a20dbe2d979ea1"
+    },
+    {
+      "id": "SM_Flag_Pirate",
+      "pass": true,
+      "errors": [],
+      "triangles": 970,
+      "vertices": 666,
+      "min_area_m2": 9.91421184153296e-05,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "9dda80dd066bc6474ca21ab7cfeacfa1111331919558a7e927109934e6e1a36c"
+    },
+    {
+      "id": "SM_Flag_Red",
+      "pass": true,
+      "errors": [],
+      "triangles": 970,
+      "vertices": 666,
+      "min_area_m2": 9.91421184153296e-05,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "3f1376747d804ab88c85c83c5074d7f9e3397b23cd7f3dcfe3ad81ffa7afb035"
+    },
+    {
+      "id": "SM_Banner_Pirate",
+      "pass": true,
+      "errors": [],
+      "triangles": 1340,
+      "vertices": 869,
+      "min_area_m2": 7.266258035087958e-05,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "093bc9927ef61a801bc15f3ef7be419138cb5f84ab308a6c95e4294db37d812e"
+    },
+    {
+      "id": "SM_Banner_Red",
+      "pass": true,
+      "errors": [],
+      "triangles": 1340,
+      "vertices": 869,
+      "min_area_m2": 7.266258035087958e-05,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "9e0ec759e2b06eafe94d02f7df56cc760ad32899eefb80bb09b54b4a3d44b34e"
+    },
+    {
+      "id": "SM_Banner_Canvas",
+      "pass": true,
+      "errors": [],
+      "triangles": 1340,
+      "vertices": 869,
+      "min_area_m2": 7.266258035087958e-05,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "e29952d10bdb2f39a737df9c1553c7c6e4d4755af7e0b6dc16887efa9c5db0b2"
+    },
+    {
+      "id": "SM_BoneRibs",
+      "pass": true,
+      "errors": [],
+      "triangles": 2432,
+      "vertices": 1599,
+      "min_area_m2": 0.0002443213597871363,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "ce76059e9e1a763238336434bc596375116932b77a115ca384ce02f545ae6dc6"
+    },
+    {
+      "id": "SM_Skull",
+      "pass": true,
+      "errors": [],
+      "triangles": 1444,
+      "vertices": 1064,
+      "min_area_m2": 4.432423520484008e-05,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "fe9d4eea4c7361340ad84e02bf9268094f0c8c6bc8e514ebe473f3003379c427"
+    },
+    {
+      "id": "SM_RockCluster",
+      "pass": true,
+      "errors": [],
+      "triangles": 180,
+      "vertices": 96,
+      "min_area_m2": 0.006298792082816362,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "482c1497757b21522d34d4af2bcae811767353f4631c9c5fbd213c6aa60e2b6d"
+    },
+    {
+      "id": "SM_Palm",
+      "pass": true,
+      "errors": [],
+      "triangles": 6272,
+      "vertices": 4154,
+      "min_area_m2": 3.8517020584549755e-05,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "fa8fb7ff9b83ff1040517b8cf14c8c906b95e1ebc095b0d9bea0cb3f75ef557b"
+    },
+    {
+      "id": "SM_Grass",
+      "pass": true,
+      "errors": [],
+      "triangles": 234,
+      "vertices": 221,
+      "min_area_m2": 0.00023688921646680683,
+      "texture_sizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "reverse_normal_triangles": 0,
+      "sha256": "f6ad2e75cb968a5807c1247fcbf3633a772879545c99fab5380aca74eaf74018"
+    }
+  ],
+  "not_tested": [
+    "Blender runtime execution",
+    "Unreal Editor runtime execution",
+    "Target game performance",
+    "Baked lightmap unwrap",
+    "Animated interactions"
+  ],
+  "method": "Custom GLB buffer/geometry validator plus separate actual-mesh VTK previews. Not the official Khronos validator."
+}

@@ -1,0 +1,2245 @@
+{
+  "layout": "harbor",
+  "units": "metres",
+  "source_axes": "RH_Z_UP",
+  "instances": [
+    {
+      "name": "SM_CommandHut__001",
+      "asset": "SM_CommandHut",
+      "position_m": [
+        0,
+        8.5,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Forge__001",
+      "asset": "SM_Forge",
+      "position_m": [
+        -6,
+        6.1,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_SupplyShed__001",
+      "asset": "SM_SupplyShed",
+      "position_m": [
+        7,
+        2.6,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_PirateTent__001",
+      "asset": "SM_PirateTent",
+      "position_m": [
+        -6,
+        11.3,
+        0
+      ],
+      "yaw_degrees": -12,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_PirateTent__002",
+      "asset": "SM_PirateTent",
+      "position_m": [
+        7,
+        11,
+        0
+      ],
+      "yaw_degrees": 15,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_RestCanopy__001",
+      "asset": "SM_RestCanopy",
+      "position_m": [
+        5.7,
+        7.5,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Table__001",
+      "asset": "SM_Table",
+      "position_m": [
+        5.7,
+        7.5,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Bench__001",
+      "asset": "SM_Bench",
+      "position_m": [
+        5.7,
+        6.72,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Bench__002",
+      "asset": "SM_Bench",
+      "position_m": [
+        5.7,
+        8.28,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Watchtower__001",
+      "asset": "SM_Watchtower",
+      "position_m": [
+        -8.6,
+        -0.6,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_StoneGate_Open__001",
+      "asset": "SM_StoneGate_Open",
+      "position_m": [
+        0,
+        -3,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Palisade__001",
+      "asset": "SM_Palisade",
+      "position_m": [
+        -10,
+        -3.15,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Palisade__002",
+      "asset": "SM_Palisade",
+      "position_m": [
+        -8,
+        -3.15,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Palisade__003",
+      "asset": "SM_Palisade",
+      "position_m": [
+        -6,
+        -3.15,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Palisade__004",
+      "asset": "SM_Palisade",
+      "position_m": [
+        -4,
+        -3.15,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Palisade__005",
+      "asset": "SM_Palisade",
+      "position_m": [
+        4,
+        -3.15,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Palisade__006",
+      "asset": "SM_Palisade",
+      "position_m": [
+        6,
+        -3.15,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Palisade__007",
+      "asset": "SM_Palisade",
+      "position_m": [
+        8,
+        -3.15,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Palisade__008",
+      "asset": "SM_Palisade",
+      "position_m": [
+        10,
+        -3.15,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Palisade__009",
+      "asset": "SM_Palisade",
+      "position_m": [
+        -10,
+        13.2,
+        0
+      ],
+      "yaw_degrees": 180,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Palisade__010",
+      "asset": "SM_Palisade",
+      "position_m": [
+        -8,
+        13.2,
+        0
+      ],
+      "yaw_degrees": 180,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Palisade__011",
+      "asset": "SM_Palisade",
+      "position_m": [
+        -6,
+        13.2,
+        0
+      ],
+      "yaw_degrees": 180,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Palisade__012",
+      "asset": "SM_Palisade",
+      "position_m": [
+        -4,
+        13.2,
+        0
+      ],
+      "yaw_degrees": 180,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Palisade__013",
+      "asset": "SM_Palisade",
+      "position_m": [
+        -2,
+        13.2,
+        0
+      ],
+      "yaw_degrees": 180,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Palisade__014",
+      "asset": "SM_Palisade",
+      "position_m": [
+        0,
+        13.2,
+        0
+      ],
+      "yaw_degrees": 180,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Palisade__015",
+      "asset": "SM_Palisade",
+      "position_m": [
+        2,
+        13.2,
+        0
+      ],
+      "yaw_degrees": 180,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Palisade__016",
+      "asset": "SM_Palisade",
+      "position_m": [
+        4,
+        13.2,
+        0
+      ],
+      "yaw_degrees": 180,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Palisade__017",
+      "asset": "SM_Palisade",
+      "position_m": [
+        6,
+        13.2,
+        0
+      ],
+      "yaw_degrees": 180,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Palisade__018",
+      "asset": "SM_Palisade",
+      "position_m": [
+        8,
+        13.2,
+        0
+      ],
+      "yaw_degrees": 180,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Palisade__019",
+      "asset": "SM_Palisade",
+      "position_m": [
+        10,
+        13.2,
+        0
+      ],
+      "yaw_degrees": 180,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Palisade__020",
+      "asset": "SM_Palisade",
+      "position_m": [
+        -11,
+        -1,
+        0
+      ],
+      "yaw_degrees": 90,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Palisade__021",
+      "asset": "SM_Palisade",
+      "position_m": [
+        -11,
+        1,
+        0
+      ],
+      "yaw_degrees": 90,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Palisade__022",
+      "asset": "SM_Palisade",
+      "position_m": [
+        -11,
+        3,
+        0
+      ],
+      "yaw_degrees": 90,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Palisade__023",
+      "asset": "SM_Palisade",
+      "position_m": [
+        -11,
+        5,
+        0
+      ],
+      "yaw_degrees": 90,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Palisade__024",
+      "asset": "SM_Palisade",
+      "position_m": [
+        -11,
+        7,
+        0
+      ],
+      "yaw_degrees": 90,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Palisade__025",
+      "asset": "SM_Palisade",
+      "position_m": [
+        -11,
+        9,
+        0
+      ],
+      "yaw_degrees": 90,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Palisade__026",
+      "asset": "SM_Palisade",
+      "position_m": [
+        -11,
+        11,
+        0
+      ],
+      "yaw_degrees": 90,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Palisade__027",
+      "asset": "SM_Palisade",
+      "position_m": [
+        11,
+        -1,
+        0
+      ],
+      "yaw_degrees": -90,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Palisade__028",
+      "asset": "SM_Palisade",
+      "position_m": [
+        11,
+        1,
+        0
+      ],
+      "yaw_degrees": -90,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Palisade__029",
+      "asset": "SM_Palisade",
+      "position_m": [
+        11,
+        3,
+        0
+      ],
+      "yaw_degrees": -90,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Palisade__030",
+      "asset": "SM_Palisade",
+      "position_m": [
+        11,
+        5,
+        0
+      ],
+      "yaw_degrees": -90,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Palisade__031",
+      "asset": "SM_Palisade",
+      "position_m": [
+        11,
+        7,
+        0
+      ],
+      "yaw_degrees": -90,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Palisade__032",
+      "asset": "SM_Palisade",
+      "position_m": [
+        11,
+        9,
+        0
+      ],
+      "yaw_degrees": -90,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Palisade__033",
+      "asset": "SM_Palisade",
+      "position_m": [
+        11,
+        11,
+        0
+      ],
+      "yaw_degrees": -90,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Cannon__001",
+      "asset": "SM_Cannon",
+      "position_m": [
+        7.2,
+        -1.3,
+        0
+      ],
+      "yaw_degrees": 12,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Cannon__002",
+      "asset": "SM_Cannon",
+      "position_m": [
+        9.2,
+        -1.2,
+        0
+      ],
+      "yaw_degrees": -9,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Barricade__001",
+      "asset": "SM_Barricade",
+      "position_m": [
+        -5,
+        -4.8,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Barricade__002",
+      "asset": "SM_Barricade",
+      "position_m": [
+        4,
+        -4.6,
+        0
+      ],
+      "yaw_degrees": 8,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_CookingStation__001",
+      "asset": "SM_CookingStation",
+      "position_m": [
+        -3.3,
+        3.4,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_FishRack__001",
+      "asset": "SM_FishRack",
+      "position_m": [
+        -5.25,
+        3.1,
+        0
+      ],
+      "yaw_degrees": 6,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_WeaponRack__001",
+      "asset": "SM_WeaponRack",
+      "position_m": [
+        4.1,
+        0.3,
+        0
+      ],
+      "yaw_degrees": -12,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Target__001",
+      "asset": "SM_Target",
+      "position_m": [
+        -6.2,
+        1.6,
+        0
+      ],
+      "yaw_degrees": 12,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Stocks__001",
+      "asset": "SM_Stocks",
+      "position_m": [
+        -5.8,
+        -1.2,
+        0
+      ],
+      "yaw_degrees": 3,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Cage__001",
+      "asset": "SM_Cage",
+      "position_m": [
+        9.1,
+        5.2,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_SupplyShelf__001",
+      "asset": "SM_SupplyShelf",
+      "position_m": [
+        7,
+        3.48,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_StorageShelf_Empty__001",
+      "asset": "SM_StorageShelf_Empty",
+      "position_m": [
+        8.02,
+        2.6,
+        0
+      ],
+      "yaw_degrees": 90,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Crate_Large__001",
+      "asset": "SM_Crate_Large",
+      "position_m": [
+        6.1,
+        2.7,
+        0
+      ],
+      "yaw_degrees": 5,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Crate_Small__001",
+      "asset": "SM_Crate_Small",
+      "position_m": [
+        6.08,
+        2.73,
+        0.87
+      ],
+      "yaw_degrees": -7,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Barrel_Large__001",
+      "asset": "SM_Barrel_Large",
+      "position_m": [
+        5.8,
+        1.4,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Sack__001",
+      "asset": "SM_Sack",
+      "position_m": [
+        7.7,
+        1.1,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Barrel_Small__001",
+      "asset": "SM_Barrel_Small",
+      "position_m": [
+        9.3,
+        1.4,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Crate_Large__002",
+      "asset": "SM_Crate_Large",
+      "position_m": [
+        -2.2,
+        7.4,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Sack__002",
+      "asset": "SM_Sack",
+      "position_m": [
+        -2.5,
+        6.2,
+        0
+      ],
+      "yaw_degrees": 8,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Barrel_Large__002",
+      "asset": "SM_Barrel_Large",
+      "position_m": [
+        2.7,
+        7.1,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Barrel_Small__002",
+      "asset": "SM_Barrel_Small",
+      "position_m": [
+        2.9,
+        6.15,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_TreasureChest_Open__001",
+      "asset": "SM_TreasureChest_Open",
+      "position_m": [
+        0.7,
+        5.6,
+        0
+      ],
+      "yaw_degrees": -7,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_TreasureChest_Closed__001",
+      "asset": "SM_TreasureChest_Closed",
+      "position_m": [
+        1.95,
+        5.7,
+        0
+      ],
+      "yaw_degrees": 5,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Crate_Small__002",
+      "asset": "SM_Crate_Small",
+      "position_m": [
+        -4.5,
+        10.3,
+        0
+      ],
+      "yaw_degrees": 16,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Sack__003",
+      "asset": "SM_Sack",
+      "position_m": [
+        5.4,
+        10.1,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Anvil__001",
+      "asset": "SM_Anvil",
+      "position_m": [
+        -7.5,
+        4.4,
+        0
+      ],
+      "yaw_degrees": -10,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Torch_Tripod__001",
+      "asset": "SM_Torch_Tripod",
+      "position_m": [
+        -2.4,
+        -1,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Torch_Tripod__002",
+      "asset": "SM_Torch_Tripod",
+      "position_m": [
+        2.5,
+        -1,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Torch__001",
+      "asset": "SM_Torch",
+      "position_m": [
+        -3.5,
+        6.4,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Torch__002",
+      "asset": "SM_Torch",
+      "position_m": [
+        3.5,
+        6.4,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Flag_Pirate__001",
+      "asset": "SM_Flag_Pirate",
+      "position_m": [
+        3.1,
+        10.5,
+        0
+      ],
+      "yaw_degrees": -8,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Flag_Red__001",
+      "asset": "SM_Flag_Red",
+      "position_m": [
+        10,
+        8.7,
+        0
+      ],
+      "yaw_degrees": 15,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Skull__001",
+      "asset": "SM_Skull",
+      "position_m": [
+        -5.8,
+        -1.4,
+        1.83
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Chain__001",
+      "asset": "SM_Chain",
+      "position_m": [
+        9.2,
+        4.6,
+        0
+      ],
+      "yaw_degrees": 10,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Dock_Straight__001",
+      "asset": "SM_Dock_Straight",
+      "position_m": [
+        0,
+        -5,
+        0.2
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Dock_Straight__002",
+      "asset": "SM_Dock_Straight",
+      "position_m": [
+        0,
+        -7,
+        0.2
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Dock_T__001",
+      "asset": "SM_Dock_T",
+      "position_m": [
+        0,
+        -9,
+        0.2
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Dock_Straight__003",
+      "asset": "SM_Dock_Straight",
+      "position_m": [
+        -2,
+        -9,
+        0.2
+      ],
+      "yaw_degrees": 90,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Dock_End__001",
+      "asset": "SM_Dock_End",
+      "position_m": [
+        -4,
+        -9,
+        0.2
+      ],
+      "yaw_degrees": -90,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Dock_Straight__004",
+      "asset": "SM_Dock_Straight",
+      "position_m": [
+        2,
+        -9,
+        0.2
+      ],
+      "yaw_degrees": 90,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Dock_Platform__001",
+      "asset": "SM_Dock_Platform",
+      "position_m": [
+        5,
+        -9,
+        0.2
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Gangway__001",
+      "asset": "SM_Gangway",
+      "position_m": [
+        5,
+        -12,
+        -0.08
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_FloatingPlatform__001",
+      "asset": "SM_FloatingPlatform",
+      "position_m": [
+        5,
+        -14.025,
+        -0.91
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Dock_Stairs__001",
+      "asset": "SM_Dock_Stairs",
+      "position_m": [
+        7,
+        -9,
+        0.2
+      ],
+      "yaw_degrees": 90,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_SmallSailboat__001",
+      "asset": "SM_SmallSailboat",
+      "position_m": [
+        -6.1,
+        -9.8,
+        -0.62
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_LoadingCrane__001",
+      "asset": "SM_LoadingCrane",
+      "position_m": [
+        4.8,
+        -8.5,
+        0.2
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_CargoNet__001",
+      "asset": "SM_CargoNet",
+      "position_m": [
+        6.71,
+        -8.5,
+        0.55
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Winch__001",
+      "asset": "SM_Winch",
+      "position_m": [
+        3.8,
+        -10,
+        0.2
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Bollard__001",
+      "asset": "SM_Bollard",
+      "position_m": [
+        -4.4,
+        -8.5,
+        0.2
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Bollard__002",
+      "asset": "SM_Bollard",
+      "position_m": [
+        -2.6,
+        -9.7,
+        0.2
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Bollard__003",
+      "asset": "SM_Bollard",
+      "position_m": [
+        6.5,
+        -10.6,
+        0.2
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Bollard__004",
+      "asset": "SM_Bollard",
+      "position_m": [
+        3.4,
+        -7.5,
+        0.2
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Crate_Large__003",
+      "asset": "SM_Crate_Large",
+      "position_m": [
+        3.8,
+        -8,
+        0.2
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Crate_Small__003",
+      "asset": "SM_Crate_Small",
+      "position_m": [
+        3.8,
+        -8,
+        1.06
+      ],
+      "yaw_degrees": 12,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Barrel_Large__003",
+      "asset": "SM_Barrel_Large",
+      "position_m": [
+        5.7,
+        -7.7,
+        0.2
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Barrel_Small__003",
+      "asset": "SM_Barrel_Small",
+      "position_m": [
+        6.4,
+        -7.7,
+        0.2
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Sack__004",
+      "asset": "SM_Sack",
+      "position_m": [
+        5.6,
+        -10,
+        0.2
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_CargoNet__002",
+      "asset": "SM_CargoNet",
+      "position_m": [
+        -0.5,
+        -4.4,
+        0.2
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_RopeCoil__001",
+      "asset": "SM_RopeCoil",
+      "position_m": [
+        -4,
+        -9.3,
+        0.2
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_RopeCoil__002",
+      "asset": "SM_RopeCoil",
+      "position_m": [
+        6.4,
+        -10,
+        0.2
+      ],
+      "yaw_degrees": 5,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Anchor__001",
+      "asset": "SM_Anchor",
+      "position_m": [
+        -3.5,
+        -8.7,
+        0.2
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Lifebuoy__001",
+      "asset": "SM_Lifebuoy",
+      "position_m": [
+        -2.8,
+        -9.8,
+        0.2
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Lantern__001",
+      "asset": "SM_Lantern",
+      "position_m": [
+        3.6,
+        -7.4,
+        0.2
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Helm__001",
+      "asset": "SM_Helm",
+      "position_m": [
+        1.5,
+        -4,
+        0
+      ],
+      "yaw_degrees": 20,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_BoneRibs__001",
+      "asset": "SM_BoneRibs",
+      "position_m": [
+        -11.9,
+        -4.9,
+        0
+      ],
+      "yaw_degrees": 45,
+      "scale": [
+        0.8,
+        0.8,
+        0.8
+      ]
+    },
+    {
+      "name": "SM_Skull__002",
+      "asset": "SM_Skull",
+      "position_m": [
+        -11.2,
+        -5.7,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1.3,
+        1.3,
+        1.3
+      ]
+    },
+    {
+      "name": "SM_Palm__001",
+      "asset": "SM_Palm",
+      "position_m": [
+        -13,
+        -0.3,
+        0
+      ],
+      "yaw_degrees": 15,
+      "scale": [
+        1.12,
+        1.12,
+        1.12
+      ]
+    },
+    {
+      "name": "SM_Palm__002",
+      "asset": "SM_Palm",
+      "position_m": [
+        12.6,
+        3.4,
+        0
+      ],
+      "yaw_degrees": 3,
+      "scale": [
+        1.12,
+        1.12,
+        1.12
+      ]
+    },
+    {
+      "name": "SM_Palm__003",
+      "asset": "SM_Palm",
+      "position_m": [
+        11.5,
+        15,
+        0
+      ],
+      "yaw_degrees": 60,
+      "scale": [
+        1.18,
+        1.18,
+        1.18
+      ]
+    },
+    {
+      "name": "SM_Palm__004",
+      "asset": "SM_Palm",
+      "position_m": [
+        -12.7,
+        12,
+        0
+      ],
+      "yaw_degrees": -20,
+      "scale": [
+        1.1,
+        1.1,
+        1.1
+      ]
+    },
+    {
+      "name": "SM_Palm__005",
+      "asset": "SM_Palm",
+      "position_m": [
+        -12,
+        7,
+        0
+      ],
+      "yaw_degrees": 35,
+      "scale": [
+        0.85,
+        0.85,
+        0.85
+      ]
+    },
+    {
+      "name": "SM_RockCluster__001",
+      "asset": "SM_RockCluster",
+      "position_m": [
+        -12,
+        -4.3,
+        0
+      ],
+      "yaw_degrees": 25,
+      "scale": [
+        1.35,
+        1.35,
+        1.35
+      ]
+    },
+    {
+      "name": "SM_RockCluster__002",
+      "asset": "SM_RockCluster",
+      "position_m": [
+        -10.8,
+        -5.4,
+        0
+      ],
+      "yaw_degrees": 10,
+      "scale": [
+        0.8,
+        0.8,
+        0.8
+      ]
+    },
+    {
+      "name": "SM_RockCluster__003",
+      "asset": "SM_RockCluster",
+      "position_m": [
+        11.6,
+        -4.2,
+        0
+      ],
+      "yaw_degrees": 65,
+      "scale": [
+        1.2,
+        1.2,
+        1.2
+      ]
+    },
+    {
+      "name": "SM_RockCluster__004",
+      "asset": "SM_RockCluster",
+      "position_m": [
+        12.7,
+        -2.9,
+        0
+      ],
+      "yaw_degrees": 22,
+      "scale": [
+        0.8,
+        0.8,
+        0.8
+      ]
+    },
+    {
+      "name": "SM_RockCluster__005",
+      "asset": "SM_RockCluster",
+      "position_m": [
+        12.4,
+        12.8,
+        0
+      ],
+      "yaw_degrees": 15,
+      "scale": [
+        1.4,
+        1.4,
+        1.4
+      ]
+    },
+    {
+      "name": "SM_RockCluster__006",
+      "asset": "SM_RockCluster",
+      "position_m": [
+        -12.5,
+        13,
+        0
+      ],
+      "yaw_degrees": 5,
+      "scale": [
+        1.1,
+        1.1,
+        1.1
+      ]
+    },
+    {
+      "name": "SM_RockCluster__007",
+      "asset": "SM_RockCluster",
+      "position_m": [
+        -13,
+        7,
+        0
+      ],
+      "yaw_degrees": 20,
+      "scale": [
+        0.8,
+        0.8,
+        0.8
+      ]
+    },
+    {
+      "name": "SM_Grass__001",
+      "asset": "SM_Grass",
+      "position_m": [
+        11.926,
+        12.837,
+        0
+      ],
+      "yaw_degrees": 68.16,
+      "scale": [
+        0.93,
+        0.93,
+        0.93
+      ]
+    },
+    {
+      "name": "SM_Grass__002",
+      "asset": "SM_Grass",
+      "position_m": [
+        -12.095,
+        1.235,
+        0
+      ],
+      "yaw_degrees": 241.36,
+      "scale": [
+        0.88,
+        0.88,
+        0.88
+      ]
+    },
+    {
+      "name": "SM_Grass__003",
+      "asset": "SM_Grass",
+      "position_m": [
+        13.024,
+        11.402,
+        0
+      ],
+      "yaw_degrees": 1.02,
+      "scale": [
+        1.18,
+        1.18,
+        1.18
+      ]
+    },
+    {
+      "name": "SM_Grass__004",
+      "asset": "SM_Grass",
+      "position_m": [
+        -11.682,
+        1.679,
+        0
+      ],
+      "yaw_degrees": 150.08,
+      "scale": [
+        1.12,
+        1.12,
+        1.12
+      ]
+    },
+    {
+      "name": "SM_Grass__005",
+      "asset": "SM_Grass",
+      "position_m": [
+        12.296,
+        12.526,
+        0
+      ],
+      "yaw_degrees": 93.16,
+      "scale": [
+        0.93,
+        0.93,
+        0.93
+      ]
+    },
+    {
+      "name": "SM_Grass__006",
+      "asset": "SM_Grass",
+      "position_m": [
+        -12.64,
+        12.835,
+        0
+      ],
+      "yaw_degrees": 332.21,
+      "scale": [
+        1.42,
+        1.42,
+        1.42
+      ]
+    },
+    {
+      "name": "SM_Grass__007",
+      "asset": "SM_Grass",
+      "position_m": [
+        11.609,
+        12.674,
+        0
+      ],
+      "yaw_degrees": 233.73,
+      "scale": [
+        1.41,
+        1.41,
+        1.41
+      ]
+    },
+    {
+      "name": "SM_Grass__008",
+      "asset": "SM_Grass",
+      "position_m": [
+        -12.194,
+        1.054,
+        0
+      ],
+      "yaw_degrees": 285.47,
+      "scale": [
+        1.26,
+        1.26,
+        1.26
+      ]
+    },
+    {
+      "name": "SM_Grass__009",
+      "asset": "SM_Grass",
+      "position_m": [
+        12.824,
+        0.762,
+        0
+      ],
+      "yaw_degrees": 48.37,
+      "scale": [
+        1.33,
+        1.33,
+        1.33
+      ]
+    },
+    {
+      "name": "SM_Grass__010",
+      "asset": "SM_Grass",
+      "position_m": [
+        -11.534,
+        12.819,
+        0
+      ],
+      "yaw_degrees": 48.63,
+      "scale": [
+        1.22,
+        1.22,
+        1.22
+      ]
+    },
+    {
+      "name": "SM_Grass__011",
+      "asset": "SM_Grass",
+      "position_m": [
+        12.212,
+        2.747,
+        0
+      ],
+      "yaw_degrees": 61.29,
+      "scale": [
+        1.35,
+        1.35,
+        1.35
+      ]
+    },
+    {
+      "name": "SM_Grass__012",
+      "asset": "SM_Grass",
+      "position_m": [
+        -13.055,
+        9.308,
+        0
+      ],
+      "yaw_degrees": 216.1,
+      "scale": [
+        1.3,
+        1.3,
+        1.3
+      ]
+    },
+    {
+      "name": "SM_Grass__013",
+      "asset": "SM_Grass",
+      "position_m": [
+        12.411,
+        6.544,
+        0
+      ],
+      "yaw_degrees": 326.19,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "SM_Grass__014",
+      "asset": "SM_Grass",
+      "position_m": [
+        -11.878,
+        12.841,
+        0
+      ],
+      "yaw_degrees": 339.52,
+      "scale": [
+        1.13,
+        1.13,
+        1.13
+      ]
+    },
+    {
+      "name": "SM_Grass__015",
+      "asset": "SM_Grass",
+      "position_m": [
+        12.861,
+        9.541,
+        0
+      ],
+      "yaw_degrees": 341.74,
+      "scale": [
+        0.86,
+        0.86,
+        0.86
+      ]
+    },
+    {
+      "name": "SM_Grass__016",
+      "asset": "SM_Grass",
+      "position_m": [
+        -13.027,
+        5.602,
+        0
+      ],
+      "yaw_degrees": 161.63,
+      "scale": [
+        1.28,
+        1.28,
+        1.28
+      ]
+    },
+    {
+      "name": "SM_Grass__017",
+      "asset": "SM_Grass",
+      "position_m": [
+        12.548,
+        4.572,
+        0
+      ],
+      "yaw_degrees": 104.8,
+      "scale": [
+        1.44,
+        1.44,
+        1.44
+      ]
+    },
+    {
+      "name": "SM_Grass__018",
+      "asset": "SM_Grass",
+      "position_m": [
+        -12.892,
+        -0.84,
+        0
+      ],
+      "yaw_degrees": 145.61,
+      "scale": [
+        1.33,
+        1.33,
+        1.33
+      ]
+    },
+    {
+      "name": "SM_Grass__019",
+      "asset": "SM_Grass",
+      "position_m": [
+        12.994,
+        13.088,
+        0
+      ],
+      "yaw_degrees": 86.66,
+      "scale": [
+        1.42,
+        1.42,
+        1.42
+      ]
+    },
+    {
+      "name": "SM_Grass__020",
+      "asset": "SM_Grass",
+      "position_m": [
+        -12.681,
+        -1.395,
+        0
+      ],
+      "yaw_degrees": 75.83,
+      "scale": [
+        0.93,
+        0.93,
+        0.93
+      ]
+    },
+    {
+      "name": "SM_Grass__021",
+      "asset": "SM_Grass",
+      "position_m": [
+        11.632,
+        8.636,
+        0
+      ],
+      "yaw_degrees": 111.65,
+      "scale": [
+        1.28,
+        1.28,
+        1.28
+      ]
+    },
+    {
+      "name": "SM_Grass__022",
+      "asset": "SM_Grass",
+      "position_m": [
+        -11.639,
+        11.614,
+        0
+      ],
+      "yaw_degrees": 250.41,
+      "scale": [
+        1.35,
+        1.35,
+        1.35
+      ]
+    },
+    {
+      "name": "SM_Grass__023",
+      "asset": "SM_Grass",
+      "position_m": [
+        12.531,
+        4.915,
+        0
+      ],
+      "yaw_degrees": 69.49,
+      "scale": [
+        1.46,
+        1.46,
+        1.46
+      ]
+    },
+    {
+      "name": "SM_Grass__024",
+      "asset": "SM_Grass",
+      "position_m": [
+        -11.747,
+        5.946,
+        0
+      ],
+      "yaw_degrees": 43.72,
+      "scale": [
+        0.88,
+        0.88,
+        0.88
+      ]
+    }
+  ],
+  "environment": [
+    {
+      "file": "previews/environment/Preview_Terrain.glb",
+      "position_m": [
+        0,
+        0,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "file": "previews/environment/Preview_Water.glb",
+      "position_m": [
+        0,
+        0,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    }
+  ],
+  "camera": {
+    "position_m": [
+      27,
+      -36,
+      29
+    ],
+    "target_m": [
+      0,
+      0.5,
+      1.4
+    ],
+    "orthographic_scale": 41
+  },
+  "notes": [
+    "Water and island are preview dressing, not production terrain.",
+    "Repeated asset IDs reference a single mesh datablock / StaticMesh.",
+    "Open gates are static variants, not animated actors."
+  ]
+}

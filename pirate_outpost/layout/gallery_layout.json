@@ -1,0 +1,1011 @@
+{
+  "layout": "gallery",
+  "units": "metres",
+  "source_axes": "RH_Z_UP",
+  "instances": [
+    {
+      "name": "SM_Watchtower__gallery",
+      "asset": "SM_Watchtower",
+      "position_m": [
+        0,
+        0,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_CommandHut__gallery",
+      "asset": "SM_CommandHut",
+      "position_m": [
+        7,
+        0,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Forge__gallery",
+      "asset": "SM_Forge",
+      "position_m": [
+        14,
+        0,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_SupplyShed__gallery",
+      "asset": "SM_SupplyShed",
+      "position_m": [
+        21,
+        0,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_PirateTent__gallery",
+      "asset": "SM_PirateTent",
+      "position_m": [
+        28,
+        0,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_RestCanopy__gallery",
+      "asset": "SM_RestCanopy",
+      "position_m": [
+        35,
+        0,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Palisade__gallery",
+      "asset": "SM_Palisade",
+      "position_m": [
+        42,
+        0,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_WoodGate_Closed__gallery",
+      "asset": "SM_WoodGate_Closed",
+      "position_m": [
+        49,
+        0,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_WoodGate_Open__gallery",
+      "asset": "SM_WoodGate_Open",
+      "position_m": [
+        0,
+        8,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_StoneGate_Closed__gallery",
+      "asset": "SM_StoneGate_Closed",
+      "position_m": [
+        7,
+        8,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_StoneGate_Open__gallery",
+      "asset": "SM_StoneGate_Open",
+      "position_m": [
+        14,
+        8,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Barricade__gallery",
+      "asset": "SM_Barricade",
+      "position_m": [
+        21,
+        8,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Cannon__gallery",
+      "asset": "SM_Cannon",
+      "position_m": [
+        28,
+        8,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Dock_Straight__gallery",
+      "asset": "SM_Dock_Straight",
+      "position_m": [
+        35,
+        8,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Dock_Corner__gallery",
+      "asset": "SM_Dock_Corner",
+      "position_m": [
+        42,
+        8,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Dock_T__gallery",
+      "asset": "SM_Dock_T",
+      "position_m": [
+        49,
+        8,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Dock_Cross__gallery",
+      "asset": "SM_Dock_Cross",
+      "position_m": [
+        0,
+        16,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Dock_End__gallery",
+      "asset": "SM_Dock_End",
+      "position_m": [
+        7,
+        16,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Dock_Platform__gallery",
+      "asset": "SM_Dock_Platform",
+      "position_m": [
+        14,
+        16,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Dock_Stairs__gallery",
+      "asset": "SM_Dock_Stairs",
+      "position_m": [
+        21,
+        16,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Gangway__gallery",
+      "asset": "SM_Gangway",
+      "position_m": [
+        28,
+        16,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_RopeRail__gallery",
+      "asset": "SM_RopeRail",
+      "position_m": [
+        35,
+        16,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Bollard__gallery",
+      "asset": "SM_Bollard",
+      "position_m": [
+        42,
+        16,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_FloatingPlatform__gallery",
+      "asset": "SM_FloatingPlatform",
+      "position_m": [
+        49,
+        16,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_LoadingCrane__gallery",
+      "asset": "SM_LoadingCrane",
+      "position_m": [
+        0,
+        24,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Winch__gallery",
+      "asset": "SM_Winch",
+      "position_m": [
+        7,
+        24,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_SmallSailboat__gallery",
+      "asset": "SM_SmallSailboat",
+      "position_m": [
+        14,
+        24,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Barrel_Large__gallery",
+      "asset": "SM_Barrel_Large",
+      "position_m": [
+        21,
+        24,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Barrel_Small__gallery",
+      "asset": "SM_Barrel_Small",
+      "position_m": [
+        28,
+        24,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Crate_Large__gallery",
+      "asset": "SM_Crate_Large",
+      "position_m": [
+        35,
+        24,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Crate_Small__gallery",
+      "asset": "SM_Crate_Small",
+      "position_m": [
+        42,
+        24,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Sack__gallery",
+      "asset": "SM_Sack",
+      "position_m": [
+        49,
+        24,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_SupplyShelf__gallery",
+      "asset": "SM_SupplyShelf",
+      "position_m": [
+        0,
+        32,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_StorageShelf_Empty__gallery",
+      "asset": "SM_StorageShelf_Empty",
+      "position_m": [
+        7,
+        32,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_TreasureChest_Closed__gallery",
+      "asset": "SM_TreasureChest_Closed",
+      "position_m": [
+        14,
+        32,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_TreasureChest_Open__gallery",
+      "asset": "SM_TreasureChest_Open",
+      "position_m": [
+        21,
+        32,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_CargoNet__gallery",
+      "asset": "SM_CargoNet",
+      "position_m": [
+        28,
+        32,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_CookingStation__gallery",
+      "asset": "SM_CookingStation",
+      "position_m": [
+        35,
+        32,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Campfire__gallery",
+      "asset": "SM_Campfire",
+      "position_m": [
+        42,
+        32,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Cauldron__gallery",
+      "asset": "SM_Cauldron",
+      "position_m": [
+        49,
+        32,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_FishRack__gallery",
+      "asset": "SM_FishRack",
+      "position_m": [
+        0,
+        40,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_WeaponRack__gallery",
+      "asset": "SM_WeaponRack",
+      "position_m": [
+        7,
+        40,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Table__gallery",
+      "asset": "SM_Table",
+      "position_m": [
+        14,
+        40,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Bench__gallery",
+      "asset": "SM_Bench",
+      "position_m": [
+        21,
+        40,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Anvil__gallery",
+      "asset": "SM_Anvil",
+      "position_m": [
+        28,
+        40,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Anchor__gallery",
+      "asset": "SM_Anchor",
+      "position_m": [
+        35,
+        40,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Helm__gallery",
+      "asset": "SM_Helm",
+      "position_m": [
+        42,
+        40,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_RopeCoil__gallery",
+      "asset": "SM_RopeCoil",
+      "position_m": [
+        49,
+        40,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Lifebuoy__gallery",
+      "asset": "SM_Lifebuoy",
+      "position_m": [
+        0,
+        48,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Lantern__gallery",
+      "asset": "SM_Lantern",
+      "position_m": [
+        7,
+        48,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Torch__gallery",
+      "asset": "SM_Torch",
+      "position_m": [
+        14,
+        48,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Torch_Tripod__gallery",
+      "asset": "SM_Torch_Tripod",
+      "position_m": [
+        21,
+        48,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Cage__gallery",
+      "asset": "SM_Cage",
+      "position_m": [
+        28,
+        48,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Stocks__gallery",
+      "asset": "SM_Stocks",
+      "position_m": [
+        35,
+        48,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Chain__gallery",
+      "asset": "SM_Chain",
+      "position_m": [
+        42,
+        48,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Target__gallery",
+      "asset": "SM_Target",
+      "position_m": [
+        49,
+        48,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Flag_Pirate__gallery",
+      "asset": "SM_Flag_Pirate",
+      "position_m": [
+        0,
+        56,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Flag_Red__gallery",
+      "asset": "SM_Flag_Red",
+      "position_m": [
+        7,
+        56,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Banner_Pirate__gallery",
+      "asset": "SM_Banner_Pirate",
+      "position_m": [
+        14,
+        56,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Banner_Red__gallery",
+      "asset": "SM_Banner_Red",
+      "position_m": [
+        21,
+        56,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Banner_Canvas__gallery",
+      "asset": "SM_Banner_Canvas",
+      "position_m": [
+        28,
+        56,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_BoneRibs__gallery",
+      "asset": "SM_BoneRibs",
+      "position_m": [
+        35,
+        56,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Skull__gallery",
+      "asset": "SM_Skull",
+      "position_m": [
+        42,
+        56,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_RockCluster__gallery",
+      "asset": "SM_RockCluster",
+      "position_m": [
+        49,
+        56,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Palm__gallery",
+      "asset": "SM_Palm",
+      "position_m": [
+        0,
+        64,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "SM_Grass__gallery",
+      "asset": "SM_Grass",
+      "position_m": [
+        7,
+        64,
+        0
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    }
+  ],
+  "environment": [],
+  "camera": {
+    "position_m": [
+      70,
+      -50,
+      70
+    ],
+    "target_m": [
+      24,
+      30,
+      1
+    ],
+    "orthographic_scale": 85
+  }
+}

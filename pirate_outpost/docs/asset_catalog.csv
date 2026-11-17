@@ -1,0 +1,67 @@
+﻿id,label_ko,category,triangles,vertices,pivot,collision,file
+SM_Watchtower,망루,Structures,12116,9249,ground_base,complex,models/SM_Watchtower.glb
+SM_CommandHut,지휘소,Structures,20346,18829,ground_base,complex,models/SM_CommandHut.glb
+SM_Forge,대장간,Structures,8419,8175,ground_base,complex,models/SM_Forge.glb
+SM_SupplyShed,보급 창고 쉘,Structures,6276,5245,ground_base,complex,models/SM_SupplyShed.glb
+SM_PirateTent,해적 텐트,Structures,3388,2499,ground_base,complex,models/SM_PirateTent.glb
+SM_RestCanopy,휴식 차양,Structures,2960,2015,ground_base,complex,models/SM_RestCanopy.glb
+SM_Palisade,목책 2m,Defense,1016,880,ground_base,complex,models/SM_Palisade.glb
+SM_WoodGate_Closed,목재 대문 닫힘,Defense,3308,2691,ground_base,complex,models/SM_WoodGate_Closed.glb
+SM_WoodGate_Open,목재 대문 열림,Defense,3308,2691,ground_base,complex,models/SM_WoodGate_Open.glb
+SM_StoneGate_Closed,석조 정문 닫힘,Defense,4394,4195,ground_base,complex,models/SM_StoneGate_Closed.glb
+SM_StoneGate_Open,석조 정문 열림,Defense,4394,4195,ground_base,complex,models/SM_StoneGate_Open.glb
+SM_Barricade,목재 바리케이드,Defense,2390,1659,ground_base,complex,models/SM_Barricade.glb
+SM_Cannon,소형 대포,Defense,3264,3069,ground_base,convex,models/SM_Cannon.glb
+SM_Dock_Straight,부두 직선,Harbor,3324,2626,deck_surface_center,complex,models/SM_Dock_Straight.glb
+SM_Dock_Corner,부두 코너,Harbor,3324,2626,deck_surface_center,complex,models/SM_Dock_Corner.glb
+SM_Dock_T,부두 T자,Harbor,2212,1851,deck_surface_center,complex,models/SM_Dock_T.glb
+SM_Dock_Cross,부두 십자,Harbor,1100,1076,deck_surface_center,complex,models/SM_Dock_Cross.glb
+SM_Dock_End,부두 끝막음,Harbor,4436,3401,deck_surface_center,complex,models/SM_Dock_End.glb
+SM_Dock_Platform,작업 데크 4m,Harbor,4576,3594,deck_surface_center,complex,models/SM_Dock_Platform.glb
+SM_Dock_Stairs,부두 계단,Harbor,2528,1906,upper_deck_edge,complex,models/SM_Dock_Stairs.glb
+SM_Gangway,로프 난간 경사교,Harbor,2704,2098,low_center_plane,complex,models/SM_Gangway.glb
+SM_RopeRail,독립 로프 난간,Harbor,1432,967,ground_base,complex,models/SM_RopeRail.glb
+SM_Bollard,계선주,Harbor,1002,739,ground_base,convex,models/SM_Bollard.glb
+SM_FloatingPlatform,부잔교,Harbor,3248,2545,ground_base,complex,models/SM_FloatingPlatform.glb
+SM_LoadingCrane,하역 크레인,Harbor,3600,2870,ground_base,complex,models/SM_LoadingCrane.glb
+SM_Winch,수동 권양기,Harbor,2356,1674,ground_base,convex,models/SM_Winch.glb
+SM_SmallSailboat,소형 돛배,Harbor,4672,3368,ground_base,complex,models/SM_SmallSailboat.glb
+SM_Barrel_Large,큰 나무통,Storage,2008,2004,ground_base,convex,models/SM_Barrel_Large.glb
+SM_Barrel_Small,작은 나무통,Storage,2008,2004,ground_base,convex,models/SM_Barrel_Small.glb
+SM_Crate_Large,큰 보급 상자,Storage,1784,1912,ground_base,box,models/SM_Crate_Large.glb
+SM_Crate_Small,작은 보급 상자,Storage,1784,1912,ground_base,box,models/SM_Crate_Small.glb
+SM_Sack,보급 자루,Storage,1180,965,ground_base,convex,models/SM_Sack.glb
+SM_SupplyShelf,식품·물품 선반,Storage,7960,6889,ground_base,complex,models/SM_SupplyShelf.glb
+SM_StorageShelf_Empty,빈 수납 선반,Storage,3204,2652,ground_base,complex,models/SM_StorageShelf_Empty.glb
+SM_TreasureChest_Closed,보물상자 닫힘,Storage,1436,1489,ground_base,box,models/SM_TreasureChest_Closed.glb
+SM_TreasureChest_Open,보물상자 열림,Storage,2756,2941,ground_base,complex,models/SM_TreasureChest_Open.glb
+SM_CargoNet,그물 화물,Storage,6124,4929,ground_base,convex,models/SM_CargoNet.glb
+SM_CookingStation,가마솥 취사대,Camp,4903,3426,ground_base,complex,models/SM_CookingStation.glb
+SM_Campfire,돌 화덕 모닥불,Camp,1875,1353,ground_base,none,models/SM_Campfire.glb
+SM_Cauldron,가마솥 단품,Camp,1326,881,ground_base,convex,models/SM_Cauldron.glb
+SM_FishRack,생선 건조대,Camp,2796,2116,ground_base,complex,models/SM_FishRack.glb
+SM_WeaponRack,무기 거치대,Camp,3444,2658,ground_base,complex,models/SM_WeaponRack.glb
+SM_Table,목재 식탁,Camp,528,560,ground_base,complex,models/SM_Table.glb
+SM_Bench,목재 벤치,Camp,484,512,ground_base,complex,models/SM_Bench.glb
+SM_Anvil,받침 포함 모루,Camp,352,362,ground_base,convex,models/SM_Anvil.glb
+SM_Anchor,닻,Dressing,648,546,ground_base,convex,models/SM_Anchor.glb
+SM_Helm,배 키와 받침,Dressing,2440,1815,ground_base,convex,models/SM_Helm.glb
+SM_RopeCoil,감은 로프,Dressing,2156,1264,ground_base,none,models/SM_RopeCoil.glb
+SM_Lifebuoy,구명환,Dressing,2160,1479,ground_base,convex,models/SM_Lifebuoy.glb
+SM_Lantern,휴대 랜턴,Dressing,704,582,ground_base,none,models/SM_Lantern.glb
+SM_Torch,기둥 횃불,Dressing,823,689,ground_base,none,models/SM_Torch.glb
+SM_Torch_Tripod,삼발 횃불,Dressing,1605,1226,ground_base,none,models/SM_Torch_Tripod.glb
+SM_Cage,철제 우리,Dressing,1652,1207,ground_base,complex,models/SM_Cage.glb
+SM_Stocks,형틀,Dressing,1132,1396,ground_base,complex,models/SM_Stocks.glb
+SM_Chain,사슬,Dressing,1296,798,ground_base,none,models/SM_Chain.glb
+SM_Target,훈련 표적,Dressing,1444,1090,ground_base,convex,models/SM_Target.glb
+SM_Flag_Pirate,해적 깃발,Dressing,970,666,ground_base,none,models/SM_Flag_Pirate.glb
+SM_Flag_Red,붉은 깃발,Dressing,970,666,ground_base,none,models/SM_Flag_Red.glb
+SM_Banner_Pirate,해적 현수막,Dressing,1340,869,ground_base,none,models/SM_Banner_Pirate.glb
+SM_Banner_Red,붉은 현수막,Dressing,1340,869,ground_base,none,models/SM_Banner_Red.glb
+SM_Banner_Canvas,무지 현수막,Dressing,1340,869,ground_base,none,models/SM_Banner_Canvas.glb
+SM_BoneRibs,갈비뼈 잔해,Dressing,2432,1599,ground_base,complex,models/SM_BoneRibs.glb
+SM_Skull,해골 소품,Dressing,1444,1064,ground_base,none,models/SM_Skull.glb
+SM_RockCluster,바위 군집,Environment,180,96,ground_base,convex,models/SM_RockCluster.glb
+SM_Palm,야자수,Environment,6272,4154,ground_base,convex,models/SM_Palm.glb
+SM_Grass,풀 군락,Environment,234,221,ground_base,none,models/SM_Grass.glb
