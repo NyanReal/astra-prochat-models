@@ -1,0 +1,10 @@
+test_lod_is_smaller (__main__.Assets.test_lod_is_smaller) ... ok
+test_materials (__main__.Assets.test_materials) ... ok
+test_meshes (__main__.Assets.test_meshes) ... ok
+test_models_exist (__main__.Assets.test_models_exist) ... ok
+test_texture_ceiling (__main__.Assets.test_texture_ceiling) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.028s
+
+OK

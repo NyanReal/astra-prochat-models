@@ -1,0 +1,152 @@
+{
+  "wild_sweet_potato": {
+    "mesh_parts": {
+      "soil": {
+        "triangles": 896,
+        "vertices": 450,
+        "texture": "soil_basecolor_256.png"
+      },
+      "stems": {
+        "triangles": 2600,
+        "vertices": 1386,
+        "texture": "stem_basecolor_128.png"
+      },
+      "foliage": {
+        "triangles": 2652,
+        "vertices": 1864,
+        "texture": "foliage_basecolor_1024.png"
+      },
+      "stone": {
+        "triangles": 220,
+        "vertices": 132,
+        "texture": "stone_basecolor_128.png"
+      }
+    },
+    "triangles": 6368,
+    "vertices": 3832,
+    "leaves": 36,
+    "bounds_m": [
+      [
+        -1.0799922145053353,
+        -5.578765934897074e-17,
+        -0.8473193047736038
+      ],
+      [
+        1.1000186872049331,
+        0.5319889484654559,
+        0.9456559971240608
+      ]
+    ],
+    "size_bytes": 782676
+  },
+  "wild_sweet_potato_LOD1": {
+    "mesh_parts": {
+      "soil": {
+        "triangles": 336,
+        "vertices": 170,
+        "texture": "soil_basecolor_256.png"
+      },
+      "stems": {
+        "triangles": 1234,
+        "vertices": 703,
+        "texture": "stem_basecolor_128.png"
+      },
+      "foliage": {
+        "triangles": 468,
+        "vertices": 528,
+        "texture": "foliage_basecolor_1024.png"
+      },
+      "stone": {
+        "triangles": 220,
+        "vertices": 132,
+        "texture": "stone_basecolor_128.png"
+      }
+    },
+    "triangles": 2258,
+    "vertices": 1533,
+    "leaves": 36,
+    "bounds_m": [
+      [
+        -1.0799922145053353,
+        -5.524538535750286e-17,
+        -0.8409452397686306
+      ],
+      [
+        1.0811867654315575,
+        0.5319889484654559,
+        0.9364639166872706
+      ]
+    ],
+    "size_bytes": 659768
+  },
+  "cultivated_sweet_potato": {
+    "mesh_parts": {
+      "soil": {
+        "triangles": 2276,
+        "vertices": 1140,
+        "texture": "soil_basecolor_256.png"
+      },
+      "stems": {
+        "triangles": 8496,
+        "vertices": 4620,
+        "texture": "stem_basecolor_128.png"
+      },
+      "foliage": {
+        "triangles": 12096,
+        "vertices": 8232,
+        "texture": "foliage_basecolor_1024.png"
+      }
+    },
+    "triangles": 22868,
+    "vertices": 13992,
+    "leaves": 168,
+    "bounds_m": [
+      [
+        -1.58,
+        -1.1082257511864102e-16,
+        -1.83
+      ],
+      [
+        1.58,
+        0.7369595093813021,
+        1.83
+      ]
+    ],
+    "size_bytes": 1286756
+  },
+  "cultivated_sweet_potato_LOD1": {
+    "mesh_parts": {
+      "soil": {
+        "triangles": 856,
+        "vertices": 430,
+        "texture": "soil_basecolor_256.png"
+      },
+      "stems": {
+        "triangles": 4728,
+        "vertices": 2736,
+        "texture": "stem_basecolor_128.png"
+      },
+      "foliage": {
+        "triangles": 2016,
+        "vertices": 2184,
+        "texture": "foliage_basecolor_1024.png"
+      }
+    },
+    "triangles": 7600,
+    "vertices": 5350,
+    "leaves": 168,
+    "bounds_m": [
+      [
+        -1.58,
+        -1.1082257511864102e-16,
+        -1.83
+      ],
+      [
+        1.58,
+        0.7368931798223032,
+        1.83
+      ]
+    ],
+    "size_bytes": 826988
+  }
+}

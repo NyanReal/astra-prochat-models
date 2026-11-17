@@ -1,0 +1,134 @@
+{
+  "README.ko.md": {
+    "bytes": 4551,
+    "sha256": "528baffeb4eb9e8923db0f5c5505d6838d97cb1757027a095e78d6a3aa99bca1"
+  },
+  "README.md": {
+    "bytes": 3207,
+    "sha256": "6740cb802f42c0c1c34ce1630ebe382fc9d3d326010d3ebea6f5c1f187eb79e5"
+  },
+  "reference/reference_alternate.png": {
+    "bytes": 1776740,
+    "sha256": "4893ef8bdb4a25b651b62ccaf53eaea8ca223e8eb1660fe4f8a44c3b72f4acd6"
+  },
+  "reference/generated_leaf_source.png": {
+    "bytes": 22266,
+    "sha256": "8511adac1fe6ccc8afd7abb073c7deb6fb6836f0fb81a3331a217645540af38c"
+  },
+  "reference/reference_selected.png": {
+    "bytes": 1812862,
+    "sha256": "1da2caf63157416df183a9623a5ed3b492cba77c089d8a60c8acdab0590ffbd7"
+  },
+  "models/cultivated_sweet_potato_LOD1.glb": {
+    "bytes": 826988,
+    "sha256": "8fe2ef8e6c9886a541722c648970fa3c77b828bccd68fa33e433a1709ce03283"
+  },
+  "models/wild_sweet_potato.glb": {
+    "bytes": 782676,
+    "sha256": "0c1004c95d56568e622cf46ab67d40a49313ec7b4c814898cf9be21a0b6bb39e"
+  },
+  "models/cultivated_sweet_potato.glb": {
+    "bytes": 1286756,
+    "sha256": "b14e5e4b6a1ab49df99cd8001929734fac733385df9cfca5ef70565916ba13ed"
+  },
+  "models/wild_sweet_potato_LOD1.glb": {
+    "bytes": 659768,
+    "sha256": "1b76a2a77a6f8e4dfe4e8bb8d5dbbc0596c1d83392f2f789440f362dabd2cfc5"
+  },
+  "preview/wild_sweet_potato_top.png": {
+    "bytes": 765013,
+    "sha256": "3b307827f1301943ee520723dae9c0cc068a5d389b781802a6e8aa76b163c937"
+  },
+  "preview/cultivated_sweet_potato_wire.png": {
+    "bytes": 1041061,
+    "sha256": "a78db8c6bf1d53974dacdea1fe09d778c72d62fc2ca4db38fb049a7b3a347246"
+  },
+  "preview/cultivated_sweet_potato_side.png": {
+    "bytes": 593199,
+    "sha256": "81ce341dd19cb0c9da222b82d2d583635a01649f6cd6fcec93240fd072e99a90"
+  },
+  "preview/models_comparison.png": {
+    "bytes": 935659,
+    "sha256": "8b874791a29a5b64cf93fa63be390f1cdba4fb16b5e03059884b08ce8ad5eb68"
+  },
+  "preview/cultivated_sweet_potato_hero.png": {
+    "bytes": 769301,
+    "sha256": "1074767db5dd8aa1c3a1a43b87756cae04f962aa12406b33634ef77df37af891"
+  },
+  "preview/wild_sweet_potato_side.png": {
+    "bytes": 393777,
+    "sha256": "955e8181330855b64ab7786bd4e3b271901094fa72087519ae5f28ae1b142395"
+  },
+  "preview/cultivated_sweet_potato_top.png": {
+    "bytes": 1145225,
+    "sha256": "8abe02422741c14c5ffadd8090f72c7bde9fe446db4b89082907bd65a63e06be"
+  },
+  "preview/wild_sweet_potato_hero.png": {
+    "bytes": 605209,
+    "sha256": "2b735ce6e4c7df1fede492c40e5bf5ec78e8b4047a5513a4f443f2c60beae6ee"
+  },
+  "preview/wild_sweet_potato_wire.png": {
+    "bytes": 780838,
+    "sha256": "b079050e2a219fb01fdea83e70c1c3aa10b45c42cc41557dca425d1826955f3f"
+  },
+  "validation/tests.txt": {
+    "bytes": 395,
+    "sha256": "4cd72b1fb2c92ff3ee047d33a3cdcbbb67f094a2234775138507f2a7c652346d"
+  },
+  "validation/asset_metrics.json": {
+    "bytes": 3147,
+    "sha256": "9570f599bee5608cd4dac0ecc4d108d2b43e2bcac8610f04ea6bfec7c6e1f9bb"
+  },
+  "validation/test_assets.py": {
+    "bytes": 2821,
+    "sha256": "560eb45d1b7dfc74d2d137f3d949be3af7219dacd88f49edc70de143fbf83072"
+  },
+  "source/texture_provenance.json": {
+    "bytes": 586,
+    "sha256": "0f3acc9cb5f72e347641e49cc4224e05e044405119577f1244e6964b68dfa83a"
+  },
+  "source/render_previews.py": {
+    "bytes": 4821,
+    "sha256": "4bf117a69fa1ec79c00e60cd501ba424ddb1d1dd72c250ea016bf6e49f794189"
+  },
+  "source/prepare_textures.py": {
+    "bytes": 4090,
+    "sha256": "be281be492628505a09bdf68e68e5a08d4be9e9ba7e68404eeba801145c99393"
+  },
+  "source/leaf_boundary.npy": {
+    "bytes": 24752,
+    "sha256": "d25c9b7ee8285b94d5559d467cfc453388a31983788662fed31a6520cc68eab9"
+  },
+  "source/package_assets.py": {
+    "bytes": 11388,
+    "sha256": "cbddbabe74903d6a9085be8ac9b824189f59f81edee765fd99680330a0a5cf83"
+  },
+  "source/leaf_silhouette_mask.png": {
+    "bytes": 2915,
+    "sha256": "32a061bda548aad231a8cdf6d67c0673ee5a5e061e6dd72f50584234384fe745"
+  },
+  "source/requirements_environment.json": {
+    "bytes": 138,
+    "sha256": "de8e2949504371dc091c026a353ea98044a3962ffc65fcf14a86339f3b220583"
+  },
+  "source/build_assets.py": {
+    "bytes": 14874,
+    "sha256": "f52cbb920994ae58d3bd419926741e135ce609b6da605208bbaa842a6de851fe"
+  },
+  "textures/stone_basecolor_128.png": {
+    "bytes": 17630,
+    "sha256": "b8c5823156be27554bf209979e91d09b713a0759d0a4daeb5defafdd4ffc8dd3"
+  },
+  "textures/foliage_basecolor_1024.png": {
+    "bytes": 496489,
+    "sha256": "cd9e48112c9c41e5324eccc5527cab960cca58ab2e03bd2a127c36d3df5ed6af"
+  },
+  "textures/stem_basecolor_128.png": {
+    "bytes": 14290,
+    "sha256": "c4091e0ac42cd957bf7d107f9533082cd0903a2dc1dec6d8a13a5269ddbe6724"
+  },
+  "textures/soil_basecolor_256.png": {
+    "bytes": 49137,
+    "sha256": "fd826d71ecd0df8838a164c15b9486c6e31040d83970ba8a69ed7460bde3bf81"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "all_source_images": "Generated afresh in this rebuild; previous asset pack was not used.",
+  "leaf_source_crop_on_new_board": [
+    1519,
+    61,
+    1650,
+    192
+  ],
+  "soil_crop_on_selected_reference": [
+    500,
+    300,
+    565,
+    360
+  ],
+  "processing": [
+    "crop",
+    "green silhouette extraction",
+    "nearest-edge RGB dilation",
+    "resample",
+    "color variants",
+    "mirrored soil tiling"
+  ],
+  "note": "1024 is the final atlas size, not the native resolution of each source crop. Textures are image-derived, not independently generated 1024-pixel leaves."
+}
